@@ -48,7 +48,7 @@ This project includes a Flask web application that provides a user-friendly inte
 
 4. The Flask app will start running on http://127.0.0.1:5000/ by default.
 
-![Python_Apps](images/SampleUI.png)
+![Python_Apps](image/SampleUI.png)
 
 ## References
 
