@@ -54,7 +54,7 @@ def index():
         words_sum_kmeans = len(summary_kmeans.split())
 
         # So sánh điểm ROUGE giữa các phương pháp
-        file_path = '/home/phu/TextSummary/NLP/dataset/clean.xlsx'
+        file_path = '/home/phu/TextSummary/NLP/dataset/dataset.xlsx'
         df = processing_instance.load_excel_data(file_path)
         best_match = None
         highest_similarity = 0.0
