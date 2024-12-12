@@ -1,0 +1,41 @@
+1	Phía ngân hàng Ecuador cho rằng tin tặc đã có được mã ngân hàng sử dụng để chuyển tiền qua hệ thống SWIFT, và sử dụng chúng để chuyển tiền tới Ngân hàng Wells Fargo & Co.
+0	Theo tin trên Reuters, vừa qua Ngân hàng Banco del Austro (Ecuador) đã tiết lộ điều này trong một vụ kiện ở New York với Ngân hàng Wells Fargo & Co (Mỹ).
+0	Cả hai ngân hàng này tin rằng những khoản tiền đó đã bị các tin tặc không rõ danh tính đánh cắp, theo tài liệu trong đơn kiện của BDA đối với Wells Fargo ở New York trong năm nay.
+
+0	Mạng lưới SWIFT cho phép các ngân hàng xử lý chuyển tiền hàng tỷ đô la mỗi ngày.
+1	SWIFT, viết tắt của Hiệp hội viễn thông tài chính liên ngân hàng toàn cầu, không phải là một bên liên quan trong vụ kiện này.
+0	Vụ chuyển tiền này được thực hiện thông qua một dịch vụ của bên thứ ba mà ngân hàng này sử dụng để kết nối với hệ thống SWIFT.
+0	Trong thông tin báo chí phát đi ngày Chủ nhật 15/5, ngân hàng TPBank giải thích trước đây họ sử dụng "dịch vụ thuê ngoài của một đối tác để kết nối với hệ thống SWIFT qua các máy chủ của đối tác này đặt tại nước ngoài từ các máy trạm độc lập".
+
+1	Tổng thể, Wells Fargo đã chuyển 12 triệu USD tiền của BDA đến các tài khoản trên khắp toàn cầu.
+0	Hồi tháng 1.2015, vụ tấn công ngân hàng Banco del Austro được nhà băng này mô tả trong vụ kiện được tòa án liên bang New York xử lý.
+0	Những tên trộm chuyển 12 triệu USD của ngân hàng vào các tài khoản ở Hồng Kông, Dubai, New York và Los Angeles, theo hồ sơ vụ việc.
+
+0	BDA đang kiện Wells Fargo trên cơ sở ngân hàng Mỹ này lẽ ra phải đánh dấu (gắn nhãn) các giao dịch đó là đáng ngờ.
+1	Ngân hàng Ecuador cáo buộc Wells Fargo thất bại trong việc nhận biết và ngăn chặn các lệnh chuyển tiền giả.
+
+1	Còn Wells Fargo phản hồi rằng những sai sót trong hoạt động bảo mật của BDA đã gây ra thiệt hại cho chính họ.
+0	Các tin tặc đã chiếm được các chứng thực đăng nhập SWIFT của nhân viên BDA, theo tài liệu Wells Fargo nộp lên toà án hồi tháng Hai.
+0	Wells Fargo bác bỏ cáo buộc trên, cho hay họ không chịu trách nhiệm cho những tổn thất mà ngân hàng bạn phải chịu.
+
+0	SWIFT cho biết họ yêu cầu khách hàng thông báo cho SWIFT về những vấn đề có thể ảnh hưởng đến "tính bảo mật, vẹn toàn và sẵn sàng của dịch vụ SWIFT".
+0	"Chúng tôi đã cảnh báo các ngân hàng rằng họ phải thực hiện đúng trách nhiệm của mình, đó là phải thông báo cho SWIFT khi phát hiện thấy những sự cố đáng ngờ xảy ra trong kết nối giữa ngân hàng và SWIFT," người đại diện của SWIFT tuyên bố vào hôm thứ Sáu.
+0	Việc mất an toàn thông tin trong lĩnh vực ngân hàng đang xảy ra với tần suất ngày càng nhiều, hàng loạt sự cố liên quan đến bảo mật ngân hàng đã gây rúng động toàn cầu.
+0	Nhưng điều đáng nói là, các ngân hàng có xu hướng "im lặng" tự giải quyết sự cố.
+0	“Chúng tôi cần các khách hàng thông báo về những vụ tấn công như vậy nếu các vụ việc liên quan đến sản phẩm và dịch vụ của chúng tôi, để chúng tôi có thể thông báo và hỗ trợ nhiều hơn cho cộng đồng.
+0	Tuy nhiên, một số cựu nhân viên của SWIFT nói rằng doanh nghiệp này chật vật trong việc để các ngân hàng báo cáo về những rủi ro tấn công mạng bởi vì thiếu sự hợp tác từ chính các ngân hàng.
+0	"Chúng tôi không biết", theo thông cáo SWIFT phản hồi cho Reuters, "Chúng tôi cần phải được khách hàng thông báo về những gian lận như vậy nếu chúng liên quan đến các sản phẩm và dịch vụ của chúng tôi, để chúng tôi có thể thông báo và hỗ trợ rộng rãi trong cộng đồng.
+1	SWIFT cho hay họ chưa biết gì về vụ tấn công ngân hàng Ecuador.
+1	“Chúng tôi cần các khách hàng thông báo về những vụ tấn công như vậy nếu các vụ việc liên quan đến sản phẩm và dịch vụ của chúng tôi, để chúng tôi có thể thông báo và hỗ trợ nhiều hơn cho cộng đồng.
+
+1	Ba vụ tấn công nhấn mạnh tính dễ tổn thương của các ngân hàng nhỏ, vốn không đủ khả năng tự vệ tiên tiến.
+1	Nếu hacker có thể đột nhập vào một ngân hàng yếu hơn, chúng có thể tạo yêu cầu giả để kéo tiền ra khỏi một nhà băng lớn.
+0	Các tin tặc nhắm vào hai nhà băng châu Á theo mô hình được ngân hàng Banco del Austro mô tả: 1.
+0	Những kẻ tấn công sử dụng phần mềm độc hại để phá vỡ hệ thống an ninh địa phương của một ngân hàng, 2.
+0	Chúng có được quyền truy cập vào mạng tin nhắn của SWIFT, 3.
+0	Các tin nhắn lừa đảo được gửi qua SWIFT để tiền được chuyển từ các tài khoản ở những ngân hàng lớn.
+0	Một mặt khẳng định mạng lưới, phần mềm và dịch vụ nhắn tin cốt lõi của SWIFT không bị tổn hại, SWIFT nhận định: "nội gián" hoặc tin tặc từ bên ngoài đã cố submit các tin nhắn SWIFT từ các back-offfice (đơn vị nghiệp vụ không trực tiếp giao dịch với khách hàng) của ngân hàng, máy tính cá nhân hoặc trạm làm việc trong mạng máy tính có kết nối tới giao diện quản lý nội bộ của ngân hàng đến mạng SWIFT.
+
+1	Tuy không trực tiếp khẳng định, nhưng trong thông cáo này TPBank gián tiếp "đổ lỗi" cho đối tác cung cấp dịch vụ bị hack dẫn đến phát sinh giao dịch đáng ngờ.
+0	Như vậy, có thể thấy trong vụ việc này, thông tin do TPBank cung cấp phụ thuộc vào kết quả và nhận định của một tổ chức khác là SWIFT thay vì từ điều tra của chính mình.
+

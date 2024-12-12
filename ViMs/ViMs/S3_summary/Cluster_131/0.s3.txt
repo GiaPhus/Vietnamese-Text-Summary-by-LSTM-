@@ -1,0 +1,86 @@
+0	Cụ thể, chiếc Winner 150 có hai phiên bản là cao cấp và thể thao.
+0	Giá bán của phiên bản cao cấp là 45,99 triệu đồng và bản thể thao có giá 45,49 triệu Đồng, và có sẵn từ ngày 8/6/2016.
+0	Về màu sắc, phiên bản cao cấp có 2 tùy chọn màu là đen đỏ và xanh đỏ đen.
+0	Hai tùy chọn màu tương ứng của phiên bản thể thao là đỏ đen và trắng đen.
+0	Như vậy, sau nhiều chờ đợi, chiếc xe côn tay “bình dân” 150 phân khối đầu tiên của Honda đã chính thức công bố giá bán ra thị trường.
+0	Theo đó, Honda Winner 150 có giá 45,49 triệu đồng cho phiên bản thể thao và 45,99 triệu đồng cho bản cao cấp tại Việt Nam.
+0	Xe có 4 tùy chọn màu sắc khác nhau bao gồm: đỏ đen, trắng đen (phiên bản thể thao), xanh mờ và đen mờ (phiên bản cao cấp).
+1	Được biết, mẫu xe này sẽ được bán ra thị trường từ ngày 8/6.
+1	Giá bán với phiên bản cao cấp xanh mờ, đen mờ là 45,99 triệu đồng; Bản thể thao với các màu đỏ, đen, trắng giá bán là 45,49 triệu đồng.
+0	Ngày 24/5/2016, Công ty Honda Việt Nam đã cho ra mắt sản phẩm xe thể thao tay côn mang tên Winner 150.
+0	Winner 150 có 2 phiên bản thể thao và cao cấp với giá bán lần lượt là 45.490.000 đồng và 45.990.000 đồng.
+0	Sản phẩm dự kiến sẽ có mặt tại các đại lý của Honda vào 8/6 tới.
+0	Honda cho biết sẽ bắt đầu tung Winner ra thị trường từ ngày 8.6 tới với 2 phiên bản cùng mức giá lần lượt 45,49 triệu đồng và 45,99 triệu đồng.
+0	Mức giá này đúng ngang bằng đối thủ Exciter - vốn đang thống trị phân khúc xe côn tay underbone.
+0	Động thái này cho thấy tham vọng lấn sân của Honda Winner và đây là mức giá được nhiều người nhận định là hấp dẫn của mẫu xe thương hiệu Nhât.
+0	Theo Honda Việt Nam, Honda Winner 150 bản Thể thao với 2 màu Đỏ đen và Trắng đen sẽ có giá bán là 45.490.000VNĐ, bản Cao cấp với màu Xanh mờ và Đen mờ có giá 45.990.000VNĐ.
+0	WINNER 150 có 2 phiên bản thể thao và phiên bản cao cấp, trong đó phiên bản thể thao có các màu đỏ đen và trắng đen; phiên bản cao cấp có màu xanh mờ và đen mờ.
+0	Xe sẽ được bán ra thị trường thông qua các cửa hàng bán xe và dịch vụ do Honda ủy nhiệm (HEAD) trên toàn quốc từ ngày 8-6.
+0	Giá bán đề xuất (bao gồm thuế GTGT) là 45,49 triệu đồng cho phiên bản thể thao và 45,99 triệu đồng cho phiên bản cao cấp.
+0	Tại Việt Nam, Winner 150 có giá bán 45,5 và 46 triệu đồng, tương ứng với phiên bản thể thao và cao cấp.
+0	Trong khi đó, tại Indonesia, Supra 150 GTR có giá bán tương đương khoảng 1.560 USD và 1.574 USD.
+0	Bản tiêu chuẩn của Winner giá 45,5 triệu trong khi bản cao cấp hơn giá 46 triệu đồng.
+0	Mỗi phiên bản đắt hơn Yamaha Exciter khoảng 500.000 đồng.
+0	Doanh số kỳ vọng khoảng 100.000 xe mỗi năm trong khi tổng xe bán ra của hãng này năm 2015 khoảng 1,9 triệu chiếc.
+
+0	Honda Winner là mẫu xe côn tay 150 phân khối đầu tiên của công ty Nhật Bản tại thị trường Việt.
+0	Xe được trang bị khối động cơ DOHC, xy-lanh đơn, phun xăng điện tử, làm mát bằng dung dịch, dung tích 149,1 cc.
+0	Kết hợp với hộp số 6 cấp, động cơ tạo ra công suất tối đa 15,4 mã lực tại vòng tua máy 9.000 vòng/phút và mô-men xoắn cực đại 13,5 Nm tại vòng tua máy 6.500 vòng/phút.
+0	Sức mạnh của Winner 150 đến từ động cơ xi lanh đơn làm mát bằng dung dịch có dung tích 150 phân khối tích hợp công nghệ phun xăng điện tử kết hợp cùng bình xăng 4,5 lít.
+0	Động cơ có công suất 14,75 mã lực tại vòng tua 9.000 vòng/phút, mô men xoắn 13,5 Nm tại 6.500 vòng/phút.
+0	Winner 150 có tới 6 số truyền động thay vì 5 số như trên Exciter 150.
+0	Đây được xem là một ưu thế, đặc biệt là khi chạy đường dài ở tốc độ cao.
+0	Winner 150 sử dụng loại động cơ chuyên dụng cho xe thể thao thế hệ mới - động cơ mang lại trải nghiệm mạnh mẽ với công suất vượt trội.
+0	Xe sử dụng động cơ phun xăng điện tử PGM – FI, 150cc, DOHC hộp số 6 cấp, 4 kỳ, xi lanh đơn, làm mát bằng dung dịch – giúp xe có khả năng vận hành vượt trội so với các xe trong dòng tay côn underbone.
+0	Đặc biệt, Winner 150 sử dụng hộp số 6 cấp nhằm tăng cường tính thể thao và hiệu quả chạy xe ở tốc độ cao.
+0	Ở bánh răng sơ cấp, HVN sử dụng bánh răng chéo ăn khớp nhẹ nhàng và giảm tiếng ồn.
+0	Người lái có thể thoải mái điều khiển xe nhờ việc tăng tốc từ tốc độ thấp lên tốc độ cao diễn ra trơn tru êm ái và sức mạnh của động cơ được truyền đến tận bánh sau.
+0	Winner 150 sử dụng động cơ phun xăng điện tử PGM – FI, 150cc, DOHC hộp số 6 cấp, 4 kỳ, xi lanh đơn, làm mát bằng dung dịch, động cơ cao nhất của dòng xe 150cc hiện đại.
+0	Đây là động cơ của xe được thiết kế chuyên dụng cho dòng xe thể thao của Honda.
+0	Honda Winner được trang bị động cơ PGM-Fi, DOHC, xy-lanh đơn làm mát bằng dung dịch và có sức mạnh ngang ngửa Yamaha Exciter.
+0	Tuy nhiên, Winner sử dụng hộp số 6 cấp còn Exciter dùng loại 5 cấp.
+0	Xe được trang bị động cơ phun xăng điện tử PGM - FI, 150cc, DOHC, 4 kỳ, xi-lanh đơn, làm mát bằng dung dịch.
+0	Khi kết hợp với hộp số 6 cấp chiếc xe có thể đạt công suất 15,6 mã lực tại 9.000 vòng/phút và mô-men xoắn cực đại 13,5 Nm tại 6.500 vòng/phút.
+0	Động cơ của xe đạt tiêu chuẩn khí thải EURO3.
+0	Mẫu xe mang đường nét hầm hố của những chiếc xe thể thao thực thụ, góc cạnh tạo dáng vẻ mạnh mẽ, chắc chắn.
+0	Xe được thiết kế nhiều lớp tối tân bảo đảm cả hình thức hiện đại bên ngoài lẫn tính năng khí động học.
+0	WINNER 150 sử dụng động cơ phun xăng điện tử FGM-FI 150cc, DOHC hộp số 6 cấp, 4 kỳ, xi lanh đơn, làm mát bằng dung dịch.
+0	Đây là động cơ xe được thiết kế chuyên dụng cho dòng xe thể thao của Honda.
+0	WINNER 150 là xe côn tay đầu tiên được Honda Việt Nam sản xuất.
+0	Supra 150 GTR được trang bị khối động cơ PGM-FI, 4 kỳ, DOHC, xi-lanh đơn, dung tích 149,1 cc, làm mát bằng dung dịch kết hợp hộp số 6 cấp, giúp sản sinh công suất tối đa 15,4 mã lực tại 9.000 vòng/phút, mô-men xoắn cực đại 13,5 Nm tại 6.500 vòng/phút.
+1	Động cơ trên Winner 150 là loại cam đôi DOHC, 150 phân khối xi-lanh đơn phun xăng điện tử PGM-FI, làm mát bằng dung dịch.
+1	Tỷ số nén 11,3:1, công suất 15,4 mã lực tại vòng tua máy 9.000 vòng/phút, mô-men xoắn cực đại 13,5 Nm tại 6.500 vòng/phút.
+1	Hộp số 6 cấp.
+
+0	Bộ lốp không săm của Winner kích thước 90/80 trước và 120/70 sau.
+0	Exciter tương ứng là 70/90 và 120/70, lốp trước bé hơn Winner.
+0	Bình xăng Winner lớn hơn đôi chút với dung tích 4,5 lít, mẫu xe của Yamaha là 4,2 lít.
+0	Những thông số khác của Honda Winner 150 bao gồm giảm xóc dạng ống lồng phía trước và lò xo trụ đơn thể thao phía sau.
+0	Xe sử dụng lốp không săm với đường kính bánh trước 90/80 trong khi bánh sau 120/70 giúp tăng khả năng bám đường, nhất là khi vào cua.
+1	Ngoài ra, Honda Winner 150 được cung cấp nhiều trang thiết bị hỗ trợ tính năng vận hành thể thao, an toàn như cặp lốp không săm cỡ lớn với kích thước 90/80-17M 46P trước và 120/70-17M/C 58P sau.
+1	Bên cạnh đó là cặp phanh đĩa có kích thước 256 mm trước và 220 mm sau.
+0	Về thiết kế chung, điểm nhấn tại phía đầu xe là cụm đèn pha LED với thiết kế choá kiểu truyền thống của Honda, Honda Winner 150 được trang bị đồng hồ analog kết hợp LCD, phía trước được trang bị phuộc đôi, giảm chấn thủy lực.
+0	Phần đuôi xe được các kỹ sư của hãng xe Nhật thiết kế gọn gàng, phía đuôi vểnh cao tạo dáng, bên dưới là giảm sóc đơn - monoshock.
+0	Ống xả được ốp tấm chống bỏng carbon thể thao.
+0	Cả hai bánh đều được trang bị phanh đĩa, bộ lốp không săm với kích cỡ lần lượt 90/80 trước và 120/70 sau.
+0	Mẫu xe côn tay 150 phân khối của Honda sử dụng bộ lốp kích thước 90/80 phía trước và lốp sau 120/70.
+0	Cả 2 bánh xe đều được trang bị phanh đĩa.
+
+0	Cụm đèn pha trên Winner dạng LED.
+0	Phanh đĩa hai bánh, ống xả ốp, la-zăng thể thao, đồng hồ analog kết hợp LCD, giảm xóc đơn sau là những điểm chung trên hai mẫu xe Nhật.
+0	Winner 150 được trang bị đèn pha cao cấp dạng LED, trào lưu đang thịnh hành trên các dòng xe cao cấp, đồng thời kích thước nhỏ gọn cũng góp phần nâng cao công suất vận hành, giúp tăng dáng vẻ thể thao của xe cùng với độ bền cao.
+0	Hơn nữa, đèn xi nhan và đèn định vị chống lóa mắt; mang lại khả năng chiếu sáng vượt trội trong đêm tối.
+0	Đồng hồ dạng analog báo số vòng tua máy mang lại ấn tượng thể thao mạnh mẽ kết hợp với màn hình LCD nhỏ gọn có khả năng hiển thị cao được bố trí phía bên phải trên mặt đồng hồ giúp người lái dễ dàng quan sát các thông tin cần thiết như tốc độ, cấp số, mức tiêu hao nhiên liệu...
+1	Thiết kế bên ngoài mạnh mẽ, cá tính, đèn led nhỏ gọn, đồng hồ analog hiện đại, bánh xe đường kính lớn, lốp không săm cùng hệ thống phanh đường kính rộng là những ưu điểm vượt trội của Winner 150.
+0	Mặt đồng hồ trên Honda Winner 150 và Yamaha Exciter 150 có khá nhiều điểm tương đồng khi sử dụng loại hiển thị kếp hợp giữa đồng hồ analog và công nghệ điện tử hiện đại.
+0	Về kiểu dáng, Winner 150 sở hữu thiết kế thể thao, vỏ nhựa khá gân guốc tạo được vẻ nam tính với hệ thống đèn pha LED, đèn hậu nổi bật, mặt đồng hồ tích hợp màn hình LCD hiển thị các thông tin về tốc độ.
+0	Tuy nhiên, tổng thể mặt trước của chiếc xe nhìn không thật sự linh hoạt và giống với chiếc Blade 110.
+0	Honda Winner 150 sở hữu kiểu dáng khá thể thao và bắt mắt nhưng vẫn có khá nhiều ý kiến nhận định dòng xe này nhìn hiền và kém chất hơn Exciter.
+0	Tuy nhiên, so về trang bị, đại diện Honda ít nhiều có một số lợi thế như hệ thống đèn pha sử dụng công nghệ LED, đèn xi-nhan tích hợp bên trong đèn định vị.
+
+1	Honda Winner 150 có trọng lượng 122 kg, kích thước dài, rộng, cao lần lượt là 2.025 x 725 x 1.102 mm, trục cơ sở 1.276 mm, độ cao yên xe 780 mm, khoảng cách gầm so với mặt đất 167 mm.
+0	Theo liên doanh xe máy Nhật Bản, giảm xóc của Winner được thiết kế khác biệt với những mẫu xe máy phổ thông bán trên thị trường và tiệm cận gần hơn với một số mẫu xe phân khối lớn.
+0	Giảm xóc telescopic phía trước xe có đường kính 31 mm.
+
+1	Bình xăng của xe có dung tích 4,5 lít, đủ cho một chuyến đi dài.
+

@@ -1,0 +1,23 @@
+1	Kỳ thi trung học phổ thông quốc gia năm nay sẽ bắt đầu từ ngày 1 đến hết ngày 4/7 với 8 môn thi gồm Toán, Văn, Ngoại ngữ, Lý, Hóa, Sinh, Sử, Địa.
+1	Trong đó có Toán, Văn, Ngoại ngữ là ba môn bắt buộc.
+1	Các môn còn lại là môn thi do thí sinh tự chọn.
+
+0	Mức hỗ trợ là 25.000 đồng/môn thi, tính bình quân mỗi thí sinh thi 5 môn, tổng mức hỗ trợ trên mỗi thí sinh là 125.000 đồng/thí sinh.
+0	Mức hỗ trợ là: 25.000 đồng/môn thi x bình quân 5 môn thi = 125.000 đồng/thí sinh.
+1	Bộ Giáo dục và Đào tạo vừa thông báo: Trong kỳ thi trung học phổ thông quốc gia 2016, tất cả các thí sinh đều được hỗ trợ kinh phí với mức hỗ trợ là 25.000 đồng/môn thi x bình quân 5 môn thi = 125.000 đồng/thí sinh.
+0	Theo đó, nguồn ngân sách nhà nước hỗ trợ căn cứ trên số lượng thí sinh đăng ký dự thi tại các cụm thi tổ chức cho thí sinh dự thi để xét công nhận tốt nghiệp THPT và xét tuyển vào các trường ĐH-CĐ ở cụm thi đại học.
+0	Mức hỗ trợ là: 25.000 đồng/môn thi, với bình quân 5 môn thi là 125.000 đồng/thí sinh.
+0	Thứ trưởng Nguyễn Vinh Hiển vừa ký công văn hỗ trợ Ngân sách nhà nước cho kỳ thi THPT quốc gia.
+0	Cụ thể, trung bình mỗi thí sinh sẽ thi 5 môn với mức hỗ trợ 125.000 đồng/thí sinh.
+
+1	Năm 2016 không thu lệ phí phúc khảo đối với các thí sinh dự thi kỳ thi THPT quốc gia.
+1	Đối với năm 2015, lệ phí phúc khảo là 30.000 đồng/môn.
+
+1	Với các học sinh dự thi chỉ để xét công nhận tốt nghiệp trung học phổ thông năm 2016, nhưng tham gia dự thi tại cụm thi đại học, ngân sách địa phương sẽ chi trả 60.000 đồng/môn thi/thí sinh.
+0	Nguồn ngân sách địa phương chi trả cho các học sinh dự thi chỉ để xét công nhận tốt nghiệp THPT năm 2016, nhưng tham gia dự thi tại cụm thi đại học.
+0	Mức kinh phí ngân sách địa phương chi trả 60.000 đồng/môn thi/thí sinh.
+0	Nguồn ngân sách địa phương chi trả cho học sinh dự thi chỉ để xét công nhận tốt nghiệp trung học phổ thông năm 2016, tham gia dự thi tại cụm thi đại học.
+0	Mức kinh phí ngân sách địa phương chi trả 60.000 đồng/môn thi/thí sinh.
+
+1	Bộ Giáo dục và Đào tạo cũng hướng dẫn các hội đồng thi chi tiết các khoản chi và mức chi như chi nhập dữ liệu, chi phí công tác sao in đề thi, chi hỗ trợ điện nước, chi nước uống, hỗ trợ y tế, hỗ trợ xăng xe… Bộ cũng lưu ý các hội đồng thi năm 2016 sẽ không thu phí phúc khảo bài thi của thí sinh như mọi năm.
+

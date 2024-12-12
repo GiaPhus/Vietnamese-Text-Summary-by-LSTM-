@@ -1,0 +1,90 @@
+0	Đối tượng bị bắt giữ là Kwon Yonggil, 34 tuổi, chịu trách nhiệm quản lý tiền của mạng lưới kín giữa các khách hàng.
+0	Ngoài ra, hai đối tượng còn lại là Oh Junghyun và Kim Myungun, được giao nhiệm vụ quản lý trang web, chịu trách nhiệm thu và chuyển tiền cho khách hàng.
+0	Kwon Yonggil chịu trách nhiệm quản lý tiền của mạng lưới kín giữa các khách hàng, còn Oh Junghyun và Kim Myụngun được giao nhiệm vụ quản lý trang web, chịu trách nhiệm thu và chuyển tiền cho khách hàng.
+0	Đường dây này có sự phân chia rất rõ ràng, cụ thể Kwon Yonggil chịu trách nhiệm quản lý tiền từ mạng lưới kín của các khách hàng đánh bạc.
+0	Đối tượng bị bắt có tên là Kwon Yonggil (34 tuổi).
+0	Đối tượng này chịu trách nhiệm quản lý tiền của mạng lưới kín giữa các khách hàng.
+0	Tên này chịu trách nhiệm quản lý tiền của mạng lưới kín giữa các khách hàng, những tên còn lại nhận nhiệm vụ quản lý trang web, thu và chuyển tiền cho khách hàng.
+1	Kwon Yonggil có nhiệm vụ quản lý tiền và giao Oh Junghyun và Kim Myụngun được giao nhiệm vụ quản lý trang web.
+1	Hai đối tượng này có trách nhiệm thu và chuyển tiền cho khách hàng.
+
+1	Nhận nhiệm vụ, Cục Cảnh sát truy nã tội phạm đã phối hợp với Cục Đối ngoại, các đơn vị nghiệp vụ thuộc Tổng cục An ninh và các đơn vị thuộc Bộ Quốc phòng, Công an TP Hà Nội, Công an TP.HCM và các địa bàn trọng điểm tiến hành rà soát, truy bắt đối tượng.
+0	Được lãnh đạo cấp trên giao nhiệm vụ, Cục Cảnh sát truy nã tội phạm đã phối hợp với Cục Đối ngoại, các đơn vị nghiệp vụ thuộc Tổng cục An ninh và các đơn vị thuộc Bộ Quốc phòng, Công an TP Hà Nội, Công an TP HCM và các địa bàn trọng điểm tiến hành rà soát, truy bắt đối tượng.
+0	Sau khi nhận nhiệm vụ, Cục Cảnh sát truy nã tội phạm đã phối hợp với Cục Đối ngoại, các đơn vị nghiệp vụ thuộc Tổng cục An ninh và các đơn vị thuộc Bộ Quốc phòng, Công an TP Hà Nội, Công an TP Hồ Chí Minh và các địa bàn trọng điểm tiến hành rà soát, truy bắt đối tượng.
+0	Ngay sau đó, Bộ Công an đã giao nhiệm vụ cho Cục Cảnh sát truy nã tội phạm phối hợp với Cục Đối ngoại, các đơn vị nghiệp vụ thuộc Tổng cục An ninh và các đơn vị thuộc Bộ Quốc phòng, Công an TP Hà Nội, Công an TP Hồ Chí Minh và các địa bàn trọng điểm tiến hành rà soát, truy bắt đối tượng.
+
+0	Trưa ngày 17-5-2016, phát hiện một người Hàn Quốc có đặc điểm giống với đối tượng truy nã đi vào một khu chung cư cao cấp, tổ công tác đã phối hợp với Công an phường Tân Phong, quận 7, TP.HCM tổ chức rà soát.
+0	Quá trình rà soát đã xác định người Hàn Quốc ở tại khu chung cư đó chính là đối tượng truy nã Kwon Yonggil.
+0	Trưa 17-5, phát hiện một người Hàn Quốc có đặc điểm giống với đối tượng truy nã đi vào một khu chung cư cao cấp, tổ công tác đã phối hợp với Công an phường Tân Phong, quận 7, TP HCM tổ chức rà soát.
+0	Quá trình rà soát đã xác định người Hàn Quốc ở tại khu chung cư đó chính là đối tượng truy nã Kwon Yonggil.
+0	Trưa 17-5, phát hiện một người Hàn Quốc có đặc điểm giống với đối tượng truy nã đi vào một khu chung cư cao cấp, tổ công tác đã phối hợp với Công an phường Tân Phong, quận 7, TP Hồ Chí Minh tổ chức rà soát và phát hiện người sống tại khu chung cư đó chính là đối tượng truy nã Kwon Yonggi.
+0	Sau một tháng rà soát, trưa 17/5, lực lượng chức năng phát hiện Kwon Yonggil xuất hiện tại khu chung cư cao cấp tại quận 7, TP HCM.
+0	Khẩn trương áp dụng các biện pháp nghiệp vụ, trưa 17/5, lực lượng chức năng phát hiện một người Hàn Quốc có đặc điểm giống với đối tượng truy nã tại một khu chung cư cao cấp ở phường Tân Phong, quận 7, TP Hồ Chí Minh, đã triển khai kế hoạch rà soát, xác minh và bắt giữ thành công.
+1	Quá trình rà soát, trưa 17/5, phát hiện một người Hàn Quốc có đặc điểm giống với đối tượng truy nã đi vào một khu chung cư cao cấp, cảnh sát xác định đó chính là đối tượng Kwon Yonggil nên đã tiến hành lệnh bắt giữ.
+0	Trưa 17/5, người dân trình báo thông tin liên quan đến một người Hàn Quốc có đặc điểm giống với đối tượng truy nã đi vào một khu chung cư cao cấp thuộc phường Tân Phong (quận 7, TP HCM).
+
+0	Cục Cảnh sát truy nã tội phạm cho biết đã bàn giao hồ sơ, đối tượng truy nã quốc tế Kwon Yonggil cho Văn phòng cơ quan cảnh sát điều tra Bộ Công an xử lý theo thẩm quyền.
+0	Cục Cảnh sát truy nã tội phạm cho biết đã bàn giao hồ sơ, đối tượng truy nã quốc tế Kwon Yonggil cho Văn phòng cơ quan Cảnh sát điều tra Bộ Công an xử lý theo thẩm quyền.
+0	Sau khi bắt giữ được Kwon Yonggil, C52 đã bàn giao hồ sơ và nghi can cho Văn phòng cơ quan CSĐT Bộ Công an (C44) để tiếp tục điều tra vụ việc.
+0	Đến ngày 18-5, Cục Cảnh sát truy nã tội phạm cho biết đã bàn giao hồ sơ, đối tượng truy nã quốc tế Kwon Yonggil cho Văn phòng cơ quan Cảnh sát điều tra Bộ Công an xử lý theo thẩm quyền.
+1	Sau khi bắt, Cục cảnh sát truy nã tội đã bàn giao Kwon Yonggil cho Văn phòng cơ quan Cảnh sát điều tra Bộ Công an điều tra theo thẩm quyền.
+0	Ngày 18/5, Cục Cảnh sát truy nã tội phạm cho biết đã bàn giao hồ sơ, đối tượng truy nã quốc tế Kwon Yonggil cho Văn phòng cơ quan Cảnh sát điều tra Bộ Công an xử lý theo thẩm quyền.
+
+1	Theo tài liệu ban đầu của cơ quan chức năng, một nhóm đối tượng quốc tịch Hàn Quốc đã tổ chức một trang web đánh bạc trực tuyến qua mạng trong thời gian từ tháng 3-2013 đến đầu tháng 11-2013 tại Philippines và từ thời gian tháng 11 -2015 đến tháng 1-2016 tại Việt Nam.
+0	Thông tin ban đầu từ lực lượng Cảnh sát truy nã tội phạm Bộ Công an cho biết, một nhóm các đối tượng quốc tịch Hàn Quốc đã tổ chức một trang web đánh bạc trực tuyến qua mạng tại Việt Nam trong thời gian khá dài.
+0	Theo tài liệu của cơ quan chức năng, một nhóm các đối tượng quốc tịch Hàn Quốc đã tổ chức một trang web đánh bạc trực tuyến qua mạng tại cả Philippines và Việt Nam.
+0	Theo tài liệu điều tra của cơ quan chức năng, nhóm đối tượng quốc tịch Hàn Quốc này đã tổ chức một trang web đánh bạc trực tuyến từ tháng 3/2013 đến đầu tháng 11/2013 tại Philippines, và từ tháng 11/2015 đến tháng 1/2016 tại Việt Nam.
+0	Ngày 19/5, cơ quan Cảnh sát điều tra Bộ Công an đã tạm giữ Kwon Yonggil (SN 1982, quốc tịch Hàn Quốc) để xử lý liên quan đến hành vi tổ chức đánh bạc qua mạng.
+
+0	Các đối tượng sau khi gây án tại Philippines đã sang Việt Nam núp bóng dưới danh nghĩa khách du lịch và tìm hiểu thị trường.
+0	Quá trình rà soát, các trinh sát đặc biệt chú ý đến các khu công nghiệp, các địa bàn trọng điểm nơi có người nước ngoài tạm trú, làm việc và sinh sống, du lịch tại Việt Nam; đồng thời phát động nhân dân tố giác tội phạm.
+0	Từ tháng 11.2015 đến tháng 1.2016, nhóm đối tượng này bắt đầu di chuyển về Việt Nam với danh nghĩa là khách du lịch để mở rộng đường dây đánh bạc xuyên quốc gia.
+0	Sang Việt Nam, kẻ trốn truy nã núp bóng dưới danh nghĩa khách du lịch và tìm hiểu thị trường.
+1	Tại Việt Nam, các đối tượng núp dưới “vỏ bọc” khách du lịch và là doanh nhân để tìm hiểu thị trường làm ăn.
+0	Sau khi kiếm bộn tiền ở Philippines, ổ nhóm đánh bạc nguy hiểm này mò sang Việt Nam bằng con đường du lịch và tìm hiểu thị trường.
+
+1	Bằng thủ đoạn nêu trên, các đối tượng đã thu lời bất chính hơn 16 tỷ won…
+0	Nhóm tội phạm đã lừa đảo chiếm đoạt được số tiền hơn 16 tỷ won.
+0	Đến nay, nhóm tội phạm đã lừa đảo, chiếm đoạt số tiền hơn 16 triệu Won, tương đương hơn 300 tỷ đồng.
+0	Với nhiều thủ đoạn móc túi người chơi, nhóm này đã thu lợi bất chính hơn 16 tỷ won.
+0	Chúng thuê nhà tại Việt Nam để tiếp tục thực hiện việc tổ chức đánh bạc qua mạng, thu lời bất chính hơn 16 tỷ won…/.
+0	Với nhiều thủ đoạn móc túi người chơi, nhóm này đã thu lợi bất chính hơn 16 tỷ won.
+0	Chỉ trong thời gian ngắn, băng nhóm này thu lợi bất chính hơn 16 tỷ won.
+0	Các trinh sát tiến hành rà soát, nhận dạng và xác định đối tượng đúng là Kwon Yonggil.
+0	Chọn hình thức đánh bạc bằng việc đoán tỷ số các trận đấu bóng, chúng móc túi người tham gia bằng cách gian lận tiền của những người đoán không đúng tỷ số và đã bỏ túi hơn 16 tỷ won…
+
+0	Xác định được hành vi phạm tội của nhóm đối tượng nêu trên, Cảnh sát Hàn Quốc đã gửi công văn đề nghị Công an Việt Nam truy bắt đối tượng Kwon Yonggil, có số hộ chiếu M02376084, mang lệnh truy nã quốc tế Interpol số A-3102/4-2016 ngày 12-4-2016 của Ban Tổng thư ký Interpol với tội danh vi phạm luật xúc tiến thể thao.
+1	Cảnh sát Hàn Quốc đã xác định được hành vi phạm tội của nhóm đối tượng nêu trên đồng thời gửi công văn đề nghị Công an Việt Nam truy bắt đối tượng Kwon Yonggil, có số hộ chiếu M02376084, mang lệnh truy nã quốc tế Interpol số A-3102/4-2016 ngày 12-4-2016 của Ban Tổng thư ký Interpol với tội danh vi phạm luật xúc tiến thể thao.
+0	Trước đó, Cảnh sát Hàn Quốc đã gửi công văn đề nghị Công an Việt Nam truy bắt đối tượng Kwon Yonggil, có số hộ chiếu M02376084, mang lệnh truy nã quốc tế Interpol số A-3102/4-2016 ngày 12/4/2016.
+0	Hành vi của các đối tượng đã bị Cảnh sát Hàn Quốc phát hiện và có công văn đề nghị Công an Việt Nam hỗ trợ bắt giữ Kwon Yonggil.
+0	Ngày 12/4, Ban Tổng thư ký Interpol đã ra quyết định truy nã quốc tế số A-3102/4-2016 đối với Kwon Yonggil về tội danh vi phạm Luật xúc tiến thể thao.
+0	Xác định được hành vi phạm tội của nhóm đối tượng cờ bạc xuyên quốc gia trên, Cảnh sát Hàn Quốc đã gửi công văn đề nghị Công an Việt Nam truy bắt đối tượng Kwon Yonggil, SN 1982, có số hộ chiếu M02376084, mang lệnh truy nã quốc tế Interpol số A-3102/4-2016 ngày 12/4/2016 của Ban Tổng thư ký Interpol với tội danh vi phạm luật xúc tiến thể thao.
+
+1	Hai người này cũng đã bị bắt khi trở về Hàn Quốc.
+0	Trong nhóm của Kwon Yonggil còn có các đối tượng Oh Junghyun và Kim Myụngun.
+0	Cả 2 nghi can này đã bị cảnh sát bắt giữ khi vừa về Hàn Quốc.
+0	Hai đối tượng còn lại Oh Junghyun và Kim Myụngun được giao nhiệm vụ quản lý trang web, chịu trách nhiệm thu và chuyển tiền cho khách hàng, hai người này cũng đã bị bắt giữ khi trở về Hàn Quốc.
+0	Trước đó, 2 đồng phạm của Kwon là Oh Junghyun và Kim Myụngun đã bị bắt khi vừa trở về Hàn Quốc.
+0	Theo lời khai ban đầu của đối tượng Kwon Yonggil thì các đối tượng thuê nhà để tiếp tục gây án tại Việt Nam; các đối tượng Oh Junghyun và Kim Myụngun đã bị bắt khi vừa trở về Hàn Quốc.
+
+0	Ngày 19.5, đại diện Cục cảnh sát truy nã tội phạm (C52) Bộ Công an cho biết cơ quan này vừa phối hợp với các đơn vị nghiệp vụ bắt giữ Kwon Yonggil (34 tuổi, quốc tịch Hàn Quốc) tại một chung cư ở P.Tân Phong (Q.7,
+0	TP.HCM) theo lệnh truy nã quốc tế Interpol.
+1	Ngày 19/5, đại diện Cục Cảnh sát truy nã tội phạm, Bộ Công an cho biết, đơn vị phối hợp với CATP Hồ Chí Minh vừa bắt giữ Kwon Yonggil (34 tuổi, quốc tịch Hàn Quốc), theo lệnh truy nã của Ban Tổng thư ký Interpol với tội danh vi phạm luật xúc tiến thể thao.
+0	Liên quan đến vụ việc, báo Công an nhân dân đưa tin, trước đó Cảnh sát Hàn Quốc đã gửi công văn đề nghị Công an Việt Nam truy bắt đối tượng truy nã đặc biệt này.
+
+0	Theo hồ sơ ban đầu, từ tháng 3.2013 đến tháng 11.2013, một nhóm đối tượng người Hàn Quốc đã câu kết với nhau để tổ chức trang web đánh bạc trực tuyến tại Philippines.
+1	Theo thông tin ban đầu, năm 2013, Kwon Yonggil (quốc tịch Hàn Quốc) và nhóm đồng phạm mở một trang web cá độ bóng đá tại Philippines.
+0	Theo thông tin ban đầu, năm 2013, Kwon Yonggil (quốc tịch Hàn Quốc) và nhóm đồng phạm mở một trang web cá độ bóng đá tại Philippines.
+0	Điều tra ban đầu, từ tháng 3 đến 11/2013, Kwon Yonggil cầm đầu và lập trang mạng đánh bạc tại Philippines.
+
+0	Những người khác chịu trách nhiệm quản lý trang web và thu tiền đánh bạc, chuyển tiền thắng bạc cho các con bạc.
+0	Các đối tượng đã thu lợi từ việc móc túi các người chơi đoán không đúng tỷ số trận đấu.
+0	Đa số các con bạc tham gia đánh bạc trên trang của Kwon Yonggil thường xuyên bị thua do nhóm này chủ động "sắp xếp" tỉ lệ đánh bạc "thua 7 thắng 3".
+0	Từ tháng 3-2013 đến đầu tháng 11-2013 tại Philippin và từ tháng 11/2015 đến tháng 1/2016, với thủ đoạn thu tiền từ những người chơi và cách phân chia được quyết định dựa trên kết quả các trận đấu bóng.
+0	Nghi phạm 34 tuổi chịu trách nhiệm quản lý tiền bạc của mạng lưới đánh bạc trực tuyến khép kín.
+0	Khoảng thời gian từ tháng 11/2015 đến 1/2016, Kwon Yonggil sang Việt Nam thiết lập đường dây đánh bạc qua mạng.
+1	Người chơi đoán trúng tỷ số được các đối tượng trả tiền và sẽ “móc túi” những người chơi khác bằng trò đoán không đúng tỷ số.
+
+1	Cục cảnh sát truy nã tội phạm (Bộ Công an) phối hợp với Công an TP HCM vừa bắt giữ Kwon Yonggil – nghi phạm nằm trong đường dây tổ chức đánh bạc có lệnh truy nã quốc tế.
+0	Theo Tri thức trực tuyến đăng tải, cục cảnh sát truy nã tội phạm (Bộ Công an) phối hợp với Công an TP HCM vừa bắt giữ Kwon Yonggil – nghi phạm nằm trong đường dây tổ chức đánh bạc có lệnh truy nã quốc tế.
+

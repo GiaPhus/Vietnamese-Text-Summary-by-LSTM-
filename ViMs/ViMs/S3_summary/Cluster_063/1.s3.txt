@@ -1,0 +1,54 @@
+0	Thực tế Atlassian – công ty làm ra những phần mềm quản lý dự án và ứng dụng trò truyện nổi tiếng như Jira và HipChat có trụ sở ở Australia không hề có bất kỳ nhân viên kinh doanh nào cả.
+0	Scott Farquhar và Mike Cannon-Brookers đã sáng lập Atlassian khi vừa hoàn thành chương trình đào tạo IT tại University of New South Wales.
+0	Ông cùng một CEO khác là Mike Cannon-Brookes sáng lập ra công ty sau khi có các bằng cấp về công nghệ thông tin tại trường Đại học New South Wales.
+0	Ông Farquhar và CEO đồng cấp Mike Cannon-Brookes thành lập Atlassian khi họ học ngành IT tại Đại học New South Wales.
+1	Kể về những ngày đầu thành lập nên Atlassian, Farquhar nói rằng ông cùng đồng CEO Mike Cannon-Brookes mở công ty trong lúc đang làm khóa luận kết thúc những năm học chuyên ngành khoa học máy tính tại đại học New South Wales.
+
+0	Ban đầu, cách thức kinh doanh của Atlassian được coi là một hiện tượng bất thường trong thế giới của các công ty phần mềm tại Australia.
+0	Vậy mà, năm 2013, khi Cipes gửi email tới một công ty chuyên viết và kinh doanh phần mềm mang tên Atlassian tại Australia và yêu cầu trò chuyện với một nhân viên kinh doanh, câu trả lời nhận được là không có nhân viên kinh doanh nào tại đây.
+0	Atlassian hiện đang hoạt động theo một phương thức đặc biệt: không sử dụng nhân viên kinh doanh.
+0	Cho tới hiện tại, Atlassian vẫn là ví dụ đặc biệt và điển hình nhất của hình mẫu hoạt động này.
+0	Tuy nhiên sau đó, Atlassian lại trở thành người tiên phong trong việc sử dụng phương thức truyền miệng, thay vì thuê nhân viên sales để xây dựng thị phần.
+1	Thực tế, các nhân viên của Công ty không cần gọi điện làm phiền bất kỳ ai để bán sản phẩm, bởi Atlassian không hề có nhân viên kinh doanh nào.
+0	Đội ngũ bán hàng của họ không tiếp thị sản phẩm đến bất cứ ai, vì Atlassian chẳng có lấy một nhân viên trong nhóm bán hàng.
+
+1	“Đó là một bước tiến quan trọng đối với công ty chúng tôi”, Farquhar nói và chia sẻ thêm rằng điều đó càng khiến anh tin tưởng vào việc mình hoàn toàn có thể gây dựng doanh nghiệp mà không cần tuyển dụng những nhân viên bán hàng chuyên dụng.
+0	“Đó chính là thời điểm đặc biệt quan trọng với chúng tôi, nó trao cho chúng tôi sự tự tin rằng Công ty có thể hoạt động theo mô hình kinh doanh mà không cần nhân viên bán hàng nào”, Farquhar cho biết.
+0	“Đó là bước ngoặc lớn đối với chúng tôi”, ông Farquhar nói, cho hay cả hai nhà sáng lập đều tự tin rằng họ có thể tiếp tục phát triển mô hình kinh doanh mà không cần lấy một nhân viên bán hàng.
+
+0	Năm nay, các chuyên gia dự báo rằng doanh thu của Atlassian sẽ đạt mức cao nhất lên tới 450 triệu USD.
+0	Các chuyên gia dự báo, doanh thu trong năm 2016 của Atlassian sẽ tăng lên mức 450 triệu USD.
+1	Năm nay, các chuyên gia dự báo rằng doanh thu của Atlassian sẽ đạt mức cao nhất lên tới 450 triệu USD.
+0	Trong năm nay, các nhà phân tích dự đoán doanh thu của Atlassian sẽ đạt 450 triệu USD.
+0	Doanh thu của Atlassian được cho là sẽ lên đến 450 triệu USD trong năm nay.
+
+0	Năm 2015, doanh số bán hàng của Công ty đạt 320 triệu USD, phát đi một tín hiệu mới về hiệu quả thực sự của hoạt động chào hàng trong thế giới kinh doanh hiện đại.
+1	Năm 2015, doanh thu của Công ty đạt 320 triệu USD, trong khi chi phí dành cho bán hàng và marketing, chủ yếu là để chạy quảng cáo trên website, chỉ chiếm 1/5 con số này.
+0	Năm ngoái, khi doanh số bán hàng đạt 320 triệu USD, chi phí bán hàng và marketing của công ty (đa phần là quảng cáo và trả tiền cho các đối tác) chỉ chiếm 1/5 trong số đó.
+0	Năm ngoái, khi doanh số đạt 320 triệu USD, chi tiêu dành cho marketing và bán hàng của công ty chỉ chiếm 1/5.
+0	Năm 2015, doanh số của Atlassian là 320 triệu USD.
+0	Chi phí bán hàng, tiếp thị của hãng chủ yếu đổ vào quảng cáo, thanh toán cho các đối tác chỉ bằng 1/5 con số trên.
+
+0	Các công ty lâu năm như IBM, Oracle và Hewlett Packard Enterprise, đều phải thuê hàng nghìn nhân viên kinh doanh.
+1	Để so sánh, Salesforce.com dành một nửa doanh thu cho hoạt động quảng cáo và marketing; trong khi Box đã dành tới 80% doanh thu cho chi phí này, khi xây dựng một đội ngũ nhân viên kinh doanh khổng lồ trong vài năm qua.
+0	Để so sánh, Salesforce.com (một công ty về điện toán mây) đã phải chi khoảng 1 nửa trong số doanh thu cho công tác bán hàng và marketing.
+0	Jay Simons, chủ tịch của Atlassian, nói rằng những khoản tiết kiệm được từ đội bán hàng đã giúp công ty giảm giá được sản phẩm, có thêm tiền đầu tư vào nghiên cứu và phát triển.
+
+1	Công ty 14 năm tuổi này đạt giá trị 5 tỷ USD khi tiến hành IPO vào tháng 12/2015 mà không cần phải trả lương cho một nhân viên kinh doanh nào.
+0	Atlassian có tuổi đời 14 năm, giá trị thị trường đạt 5 tỷ USD kể từ khi bán cổ phiếu lần đầu ra công chúng (IPO) hồi tháng 12/2015, hiện không có bất kỳ nhân viên bán hàng nào trên bảng lương.
+0	Là công ty 14 năm tuổi được định giá 5 tỉ USD kể từ sau khi IPO vào tháng 9, họ đã không cần thuê bất kỳ một nhân viên kinh doanh nào cả.
+0	Công ty xuất hiện trên thị trường 14 năm, được định giá 5 tỉ USD kể từ khi lên sàn chứng khoán hồi tháng 12.2015.
+
+1	Hơn 80 công ty trong danh sách Fortune 100 sử dụng phần mềm của Atlassian và đa phần các nhà đầu tư cũng như các công ty khách đều đang cố gắng học tập theo chiến lược kinh doanh này.
+0	Hơn 80 trong số 100 doanh nghiệp nổi bật được tạp chí Fortune bình chọn sử dụng phần mềm của Atlassian.
+0	Hơn 80 công ty trong danh sách top 100 doanh nghiệp của Fortune sử dụng phần mềm của Atlassian.
+0	Hơn 80 công ty trong danh sách Fortune 100 hiện đang sử dụng phần mềm của Atlassian.
+
+0	Năm 2002, trang web của họ cho phép khách hàng tải về các bản dùng thử nhưng vẫn chưa hề trang bị công cụ cho việc thanh toán sản phẩm, mọi đơn đặt hàng đều được gửi tới qua máy fax.
+1	Bước đột phá đầu tiên của họ là vào năm 2002, khi trang web cho phép bạn tải về bản dùng thử miễn phí song đó chưa phải là phiên bản trang bị đầy đủ như bản được bán ra.
+0	Bước đột phá đầu tiên của họ tới một vài tháng sau đó, khi website của công ty bắt đầu cho phép khách hàng tải bản dùng thử miễn phí.
+
+1	IBM, Oracle và Hewlett Packard Enterprise (HP), những hãng truyền thống thuê hàng ngàn nhân viên bán hàng có hưởng hoa hồng, đang mua lại nguồn mở hoặc công ty đám mây với các phương pháp bán hàng khác nhau.
+0	Trong khi đó, Salesforce.com chi một nửa doanh thu cho việc bán hàng và tiếp thị và hãng Box, công ty trả lương cao cho đội ngũ nhân viên bán hàng trong vài năm qua, thì chi đến 80%.
+0	Được biết một vài nhân viên phòng IT của hãng hàng không này đã tải phần mềm trên websites mà không cần tới sự trợ giúp của Atlassian.
+

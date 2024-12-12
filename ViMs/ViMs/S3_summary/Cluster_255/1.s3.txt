@@ -1,0 +1,31 @@
+1	Khi đang dừng đèn đỏ ở giao lộ Nguyễn Văn Linh - Nguyễn Đức Cảnh (Q.7,
+1	TP.HCM), xe Bentley bị xe container BS 50LD - 072.79, lưu thông cùng chiều từ phía sau húc vào đuôi, văng xa cả chục mét.
+0	Thông tin ban đầu khoảng 6g cùng ngày, chiếc xe Bentley biển số 51A - 503.08 đang chạy trên đường Nguyễn Văn Linh hướng về khu chế xuất Tân Thuận.
+0	Khi đến giao lộ Nguyễn Văn Linh - Nguyễn Đức Cảnh, tài xế cho xe dừng đèn đỏ thì bất ngờ bị chiếc xe container húc từ đằng sau tới khiến chiếc xế hộp văng về phía trước hơn chục mét.
+0	Vụ tai nạn xảy ra sáng 2-6.
+0	Sáng 2/6, người đàn ông 40 tuổi lái ôtô Bentley trên đường Nguyễn Văn Linh, hướng từ quốc lộ 1 đi khu chế xuất Tân Thuận (quận 7).
+0	Khi đến giao lộ Nguyễn Văn Linh - Nguyễn Đức Cảnh, tài xế dừng đèn đỏ thì bị xe container chạy cùng chiều, từ phía sau lao tới húc văng.
+0	Theo nhân chứng, khoảng 6h sáng nay 2/6, chiếc xe ô tô hiệu Bentley biển số 51A - 503.08 lưu thông trên đường Nguyễn Văn Linh hướng từ quốc lộ 1A đi khu chế xuất Tân Thuận, quận 7.
+0	Đến giao lộ Nguyễn Văn Linh – Nguyễn Đức Cảnh, quận 7, TPHCM, tài xế cho xe dừng đèn đỏ thì bất ngờ bị xe container biển số 50LD-072.79 từ phía sau chạy tới tông trúng.
+0	Sáng 2-6, xe ô tô Bentley biển số TP.HCM lưu thông trên đường Nguyễn Văn Linh hướng từ cầu Ông Lớn hướng về Khu chế xuất Tân Thuận.
+0	Khi đến giao lộ Nguyễn Văn Linh – Nguyễn Đức Cảnh (phường Tân Phong, quận 7) thì tài xế giảm tốc độ dừng đèn đỏ đúng lúc xe Container biển số TP.HCM từ phía sau lao tới tông phải.
+0	Đang dừng đèn đỏ tại giao lộ Nguyễn Đức Cảnh, xế sang bị xe container từ phía sau húc văng hơn chục mét.
+0	Ôtô bị nạn là dòng Bentley Continental Flying Spur đời 2014, nhập khẩu nguyên chiếc, trang bị động cơ 6 lít.
+0	Vụ tai nạn xảy ra vào sáng hôm nay (ngày 2/6) trên đoạn đường Nguyễn Văn Linh, hướng từ Quốc lộ 1 đi khu chế xuất Tân Thuận (Quận 7).
+0	Trong lúc đang dừng chờ đèn đỏ Bentley bất ngờ bị chiếc container tông thẳng từ phía sau khiến xế hộp bị hất văng hàng chục mét.
+0	Vụ tai nạn xảy ra vào khoảng 6h sáng 2/6.
+0	Cụ thể, chiếc ô tô siêu sang hiệu Bentley mang BKS 51A-503.08 lưu thông trên đường Nguyễn Văn Linh, hướng từ huyện Bình Chánh về khu chế xuất Tân Thuận, quận 7, khi đến giao lộ Nguyễn Văn Linh – Nguyễn Đức Cảnh (phường Tân Phong, quận 7), tài xế cho xe dừng chờ đèn đỏ thì bất ngờ bị chiếc xe container lưu thông cùng chiều phía sau lao tới, tông mạnh vào đuôi.
+
+1	Rất may vụ việc không làm ai bị thương.
+0	May mắn tài xế không bị thương sau sự việc.
+0	Rất may vụ tai nạn không gây thiệt hại về người.
+0	May mắn không có thương vong về người.
+0	Vụ việc may mắn không gây thiệt hại về người.
+0	Rất may mắn, không có ai bị thương vong trong vụ tai nạn.
+
+0	Được biết những chiếc xe Bentley nhập khẩu nguyên chiếc về Việt Nam có giá không dưới 10 tỷ đồng.
+0	Khi nhập về Việt Nam, xe Bentley trên có giá từ 12 - 13 tỉ đồng.
+0	Để sở hữu xế sang này ở Việt Nam khách phải bỏ ra khoảng 12 tỷ đồng.
+0	Giá bán chiếc Bentley Continental Flying Spur tại Việt Nam cũng không dưới 12 tỷ đồng.
+1	Được biết, giá trung bình một chiếc Bentley mới được nhập về Việt Nam không dưới 10 tỷ đồng.
+

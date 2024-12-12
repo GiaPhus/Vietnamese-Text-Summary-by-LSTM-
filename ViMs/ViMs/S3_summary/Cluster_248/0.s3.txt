@@ -1,0 +1,14 @@
+0	Hậu quả là mũi máy bay bị hỏng, một số vật thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động cơ.
+1	May mắn không thủy thủ nào bị thương, sự cố cũng không gây hư hại cho tàu hoặc máy bay khác.
+0	Không có thủy thủ bị thương, và không có tàu hoặc máy bay khác bị hư hỏng trong sự cố trên.
+0	Không có thủy thủ bị thương, và không có tàu hoặc máy bay khác bị hư hỏng.
+
+1	Quan chức hải quân Mỹ cho biết, máy bay EA-18G Growler bị vướng vào cáp hãm trên tàu sân bay khi vẫn chưa hạ cánh hoàn toàn, khiến mũi phi cơ hư hỏng, và các vật thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động cơ.
+0	Hậu quả là mũi máy bay đã bị hư hỏng nặng, các bộ phận bên ngoài cùng các mảnh vỡ trên boong bị hút vào động cơ.
+0	Stennis thì bị vướng vào cáp hãm đà khi vẫn chưa hạ cánh hẳn, khiến mũi phi cơ hư hỏng, và các vật thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động cơ.
+0	Trang tin Military ngày 1-6 dẫn lời các quan chức hải quân cho biết, máy bay EA-18G Growler bị vướng vào cáp hãm trên tàu sân bay khi vẫn chưa hạ cánh hẳn, khiến mũi phi cơ hư hỏng, và các vật thể bên ngoài cùng mảnh vỡ từ boong bị hút vào động cơ.
+
+0	Tuy nhiên, bà Groeneveld cho biết các chuyên gia vẫn đánh giá để phân loại sự cố và có thể hạ mức độ nghiêm trọng của sự cố.
+1	Giới chức bảo trì máy bay cho biết họ đang đánh giá mức độ hư hỏng của chiếc EA-18G Growler và xác định liệu chiếc máy bay này có thể sửa chữa hay phải dùng một chiếc Growler thay thể.
+0	Trung tâm An toàn Hải quân Mỹ liệt kê sự cố vào loại A, tức là chiếc máy bay giá trị 68 triệu USD gặp thiệt hại ít nhất hai triệu USD.
+

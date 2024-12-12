@@ -1,0 +1,40 @@
+1	Nguồn tin của chúng tôi tại Đà Nẵng cho biết để phục vụ cho chuyến công du của Tổng thống Mỹ Obama, đoàn hộ tống của Nhà Trắng đã bố trí dự phòng hai máy bay C17 và C32 tại sân bay quốc tế Đà Nẵng để phục vụ chuyến thăm của ông Obama tại Việt Nam khi cần thiết.
+0	Hai chiếc máy bay dự phòng đáp xuống sân bay Đà Nẵng là chiếc máy bay Boeing C-17 và C-32.
+0	Trong đó, chiếc Boeing C-17 chở nhiều trang thiết bị,xe phục vụ đoàn, xe an ninh, hộ tống, y tế và các nhu yếu phẩm....
+
+0	Theo ghi nhận của Pháp Luật TP.HCM, chiếc máy bay US Air Force (C17) có mặt tại sân bay quốc tế Đà Nẵng chở theo hàng hóa, xe hộ tống, xe phục vụ đoàn, xe an ninh, y tế... phục vụ Tổng thống Obama trong trường hợp có kịch bản khác.
+1	Máy bay vận tải quân sự C17 tải trọng 77.519 kg, dài 53m, cao 16,8 m, sải cánh 51,75m, có thể chở được xe tăng M1 Abrams, 3 xe Stryker, hoặc 6 xe an ninh bọc giáp M1117.
+1	Chiếc C17 vừa đáp xuống sân bay Đà Nẵng hôm qua chở các thiết bị, xe phục vụ đoàn, xe an ninh, hộ tống, y tế và các nhu yếu phẩm.
+0	Chiếc máy bay C17 chở theo hàng hóa, xe hộ tống, xe phục vụ đoàn, xe an ninh, y tế... phục vụ Tổng thống Obama trong trường hợp có "kịch bản" khác.
+0	Máy bay C17 là máy bay vận tải quân sự của quân đội Mỹ, nó có tải trọng là 77.519 kg, chiều dài 53m, sải cánh 51,75m, chiều cao 16,8 m.
+0	Theo thông tin tư liệu, C17 có thể chứa được hàng hóa như xe tăng M1 Abrams, 3 xe Stryker, hoặc 6 xe an ninh bọc giáp M1117.
+0	Tùy từng biên chế mà C17 có thể chở xe quân sự, lính dù, hoặc được bố trí cáng, và giường bệnh.
+
+0	Máy bay C32 thường được sử dụng chở Phó Tổng thống Mỹ, khi đó tên gọi của nó là Air Force Two.
+0	Đôi khi nó được sử dụng để chở các nhà lãnh đạo khác của Mỹ.
+0	Trong khi đó chiếc C32 là máy bay vận tải đa năng chế tạo trên nền tảng Boeing 757-200.
+0	C32 thường chở Phó tổng thống Mỹ với tên gọi Air Force Two.
+1	Trong khi đó, Boeing C-32 là máy bay vận tải đa năng, được chế tạo trên nền tảng Boeing 757-200.
+1	Chiếc máy bay này chủ yếu được sử dụng để chở những nhân vật quan trọng của Hoa Kỳ tới các địa điểm trên khắp thế giới.
+0	Trong khi đó, C-32 là phiên bản chở khách quân sự của loại Boeing 757, thuộc Không quân Hoa Kỳ.
+0	C-32 chuyên chở các lãnh đạo của Hoa Kỳ tới các địa điểm trên khắp thế giới.
+
+1	An ninh hàng không sân bay Đà Nẵng cho biết 2 chiếc máy bay này hạ cánh xuống Đà Nẵng hôm 22/5 và đang ở cạnh nhà ga mới trong sân bay.
+0	Hai chiếc máy bay này được bố trí tại sân bay Đà Nẵng để dự phòng cho Tổng thống Obama và phái đoàn.
+0	Hiện 2 chiếc máy bay đang đậu ở cạnh nhà ga mới trong sân bay.
+0	Hai chiếc máy bay này được bố trí tại sân bay Đà Nẵng để dự phòng cho Tổng thống Obama và phái đoàn.
+0	Theo quan sát của phóng viên Dân trí, hai chuyên cơ này đang đậu tại khu vực gần công trình nhà ga mới, phục vụ APEC 2017 diễn ra tại Đà Nẵng.
+0	An ninh tại Sân bay quốc tế Đà Nẵng cũng được thắt chặt hơn ngày thường.
+0	Theo quan sát của PV, chiếc C-32 này cùng chiếc C17 đang được đậu tại khu vực cạnh công trình xây dựng nhà ga mới, phục vụ APEC 2017 tại Đà Nẵng.
+0	Đây cũng là nơi dự kiến đậu đỗ của các chuyên cơ phục vụ các nguyên thủ tới dự APEC 2017 sắp tới.
+0	Chiếc C-32 này được bảo vệ bởi các nhân viên an ninh và mật vụ Mỹ.
+0	Nhiều xe an ninh và hộ tống được điều động bảo vệ chuyên cơ này.
+0	An ninh tại sân bay quốc tế Đà Nẵng cũng được thắt chặt hơn ngày thường.
+
+1	Theo quan sát, chiều 23/5 chiếc C32 đậu ở sân bay Đà Nẵng được lực lượng làm nhiệm vụ tiếp nhiên liệu.
+0	Hai máy bay này gồm một chiếc C17 và một chiếc C32.
+
+1	Theo báo VnExpress, hai phi cơ sẽ ở lại Đà Nẵng đến ngày 25/5 và dời đi khi Tổng thống Obama kết thúc chuyến thăm tại Việt Nam.
+1	Được biết sân bay Đà Nẵng được xem là dự phòng cho chặng bay Hà Nội - TP HCM.
+1	Khi có tình huống phát sinh, chuyên cơ của Tổng thống Mỹ sẽ hạ cánh xuống sân bay này.
+

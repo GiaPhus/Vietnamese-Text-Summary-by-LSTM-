@@ -1,0 +1,14 @@
+1	Sáng 3/6, hàng chục hành khách có chuyến bay tại Cảng hàng không Buôn Ma Thuột báo tin, họ liên tục bị hoãn bay nhưng không được cho biết lý do.
+
+0	Làm việc với ông Hà Huy Tám - Chánh văn phòng Cảng hàng không Buôn Ma Thuột, ông này từ chối cung cấp thông tin về sự cố với lý do không được phép phát ngôn.
+1	Theo đó, trong quá trình kiểm tra đường băng trước khi vận hành sáng 3/6, nhân viên sân bay đã phát hiện một vệt bê tông bị bong dài khoảng 50cm trên đường băng.
+0	Việc xử lý vệt đường bong này sẽ hoàn tất trong sáng 3/6.
+
+1	Đại diện Cảng hàng không Buôn Ma Thuột cũng cho biết có các chuyến bay đi và đến sân bay này vào buổi sáng sẽ bị chậm giờ cất, hạ cánh khoảng 5-6 giờ.
+0	Với các chuyến bay đi và đến vào buổi chiều như lịch trình thì vẫn được đảm bảo đúng giờ.
+0	Vietnam Airlines đã triển khai tăng 6 chuyến trên các đường bay giữa Hà Nội/TP.HCM/Đà Nẵng – Buôn Ma Thuột ngay trong chiều nay để phục vụ nhu cầu đi lại của hành khách.
+
+0	Hãng cũng cho biết đây là sự cố bất khả kháng nên mong nhận được sự thông cảm của hành khách, những hành khách nếu có nhu cầu sẽ được hãng hoàn lại vé miễn phí.
+1	Việc khai thác trở lại các chuyến bay đi đến sân bay Buôn Mê Thuột trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại cảng hàng không Buôn Ma Thuột.
+0	Do vậy, các hãng hàng không khuyến cáo hành khách tiếp tục theo dõi và chủ động liện hệ với các phòng vé của Vietnam Airlines trước khi ra sân bay.
+

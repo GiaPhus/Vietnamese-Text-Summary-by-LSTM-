@@ -1,0 +1,34 @@
+0	Công an quận 2 đang phong tỏa hiện trường, phối hợp các đơn vị nghiệp vụ của thành phố khám nghiệm, điều tra vụ việc.
+0	Nhận được tin báo, lực lượng chức năng địa phương có mặt, phong tỏa hiện trường, thu thập nhiều dấu vết, vật dụng xung quanh và ghi lời khai các nhân chứng.
+0	Ngay sau đó, các đơn vị nghiệp vụ công an quận 2 có mặt thu thập nhiều dấu vết, vật dụng xung quanh và ghi lời khai những nhân chứng để làm rõ.
+1	Nhận tin báo, lực lượng công an Q.2 phối hợp cùng Phòng cảnh sát hình sự (PC45), Công an TP.HCM và Viện kiểm sát nhân dân TP.HCM đến hiện trường, tiến hành phong tỏa và triển khai khám nghiệm, đồng thời thu thập lời kể của một số nhân chứng.
+0	Công an TP. HCM, Viện kiểm sát nhân dân tiến hành lập hồ sơ và khám nghiệm hiện trường để làm rõ nghi án giết người.
+0	Chiều 23/5, Công an TP.HCM vẫn đang phối hợp cùng Công an quận 2 để điều tra, khoanh vùng truy bắt hung thủ ra tay sát hại người phụ nữ, phi tang xác trong bỏ trong bao tải, vứt ở bãi đất trống gần khu chung cư Thạnh Mỹ Lợi, quận 2, được phát hiện trong sáng cùng ngày.
+0	Công an sau đó đã phong tỏa hiện trường, lấy lời khai các nhân chứng liên quan, thu thập dấu vết, vật dụng xung quanh để điều tra cái chết của người phụ nữ.
+0	Nguyên nhân vụ việc đang được cơ quan chức năng làm rõ.
+0	Bước đầu cảnh sát nghi ngờ đây là vụ án mạng.
+
+1	Sáng nay (23/5), một người dân phát hiện thi thể nữ khoảng 22 đến 25 tuổi, bị nhét trong bao tải, vứt tại một bãi đất trống gần chung cư Thạnh Mỹ Lợi, phường Thạnh Mỹ Lợi, quận 2, TP.HCM.
+0	Khoảng 7 giờ sáng 23 tháng 5, người dân đi lượm ve chai phát hiện thi thể cô gái trong bao tải ở bãi đất trống gần chung cư Thạnh Mỹ Lợi, phường Thạnh Mỹ Lợi, quận 2 nên hô hoán, nhiều người dân hiếu kỳ ở khu vực này đã đến hiện trường theo dõi, đồng thời thông báo sự việc cho Công an địa phương.
+
+0	Ngày 23/5, cơ quan CSĐT công an Q.2 (TP.HCM) cho biết, hiện đang phối hợp với các phòng nghiệp vụ công an TP.HCM, làm rõ xác minh nguyên nhân dẫn đến cái chết của bà Phan Thị Ánh Hương (41, ngụ Q.2).
+0	Sau vài giờ người hành nghề lượm ve chai phát hiện một thi thể được cột trong bao tải tại khu đất trống cạnh chung cư Thạnh Mỹ Lợi (P.Thạnh Mỹ Lợi, Q.2), công an đã xác định được danh tính nạn nhân là bà Hương.
+0	Ngay sau đó lực lượng công an, bảo vệ dân phố phường Thạnh Mỹ Lợi nhanh chóng có mặt phong toả hiện trường, giữ gìn an ninh trật tự.
+0	Nhận được tin báo, công an quận 2 có mặt ghi nhận hiện trường và lời khai những nhân chứng để xác minh danh tính nạn nhân.
+1	Bước đầu danh tính nạn nhân được xác định là bà Phan Thị Ánh Hương (SN 1975, ngụ Q.2).
+0	Bước đầu, Công an làm rõ, danh tính nạn nhân là bà Phan Thị Ánh Hương (SN 1975, tạm trú quận 2).
+
+0	Tuy nhiên lúc phát hiện thi thể thì số nữ trang này không còn.
+1	Tuy nhiên khi cơ quan chức năng khám nghiệm hiện trường thì số nữ trang đó đã biến mất.
+
+0	Công an nhận định, đây là vụ giết người phi tang xác, khả năng nhằm mục đích cướp tài sản.
+0	Hiện công an đang củng cố hồ sơ, chờ kết quả khám nghiệm để điều tra truy xét tìm ra hung thủ của vụ án mạng này.
+1	Hiện Công an đang phối hợp với gia đình bà Hương, rà soát các mối quan hệ, các thông tin liên quan nhằm phục vụ quá trình điều tra, mở rộng truy xét các hung thủ gây án.
+0	Công an quận 2, đang phối hợp với Phòng Cảnh sát điều tra tội phạm về trật tự xã hội (PC45), Công an TP HCM đang nhanh chóng điều tra vụ án.
+
+0	Nạn nhân hành nghề sơn móng tay dạo, khi đi ra khỏi nhà có đeo một số nữ trang trên người.
+1	Gia đình bà Hương cho biết thêm, trước khi ra khỏi nhà, nạn nhân có đeo nhiều nữ trang trên người.
+0	Người nhà nạn nhân trình báo, khi đi bà Hương đeo nhiều vàng nữ trang.
+
+1	Khám nghiệm tử thi cho thấy nạn nhân bị giết và bị trói chặt tay chân.
+

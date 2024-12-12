@@ -1,0 +1,50 @@
+0	Theo một số người dân, vào thời gian trên khu bếp tầng 4 của nhà hàng bốc khói nghi ngút và bùng phát thành ngọn lửa lớn kèm mùi khét của dây điện bị cháy và khói đen bốc mù mịt khiến nhân viên nhà hàng hoảng loạn, tháo chạy.
+1	Theo đó, vào khoảng 14 giờ 30 phút chiều ngày hôm nay (1/6) tại nhà hàng Trúc Lâm Trai, địa chỉ số 39 phố Lê Ngọc Hân, quận Hai Bà Trưng đã xảy ra một vụ hỏa hoạn nghiêm trọng.
+0	Một số nhân viên của nhà hàng Trúc Lâm Trai cho biết, vào khoảng khoảng 14 giờ 30 phút ngày 1/6, tại tầng 4 là khu vực bếp của nhà hàng cơm chay này đột nhiên phát hỏa.
+0	Một số người dân chứng kiến vụ cháy cho biết, vào khoảng 14h30, ngày 1/6, họ nhìn thấy khói và lửa bất ngờ bùng phát ở tầng 4 của nhà hàng Trúc Lâm Trai ở số 39 phố Lê Ngọc Hân.
+0	Theo thông tin ban đầu từ một số nhân viên của nhà hàng Trúc Lâm Trai, khoảng 14 giờ 30 phút ngày 1/6, tại tầng 4 là khu vực bếp của nhà hàng đột nhiên phát hỏa.
+0	Vào khoảng 14h30 ngày 1.6 một vụ hỏa hoạn đã xảy ra tại nhà hàng Trúc Lâm Trai, phố Lê Ngọc Hân (Quận Hai Bà Trưng, Hà Nội).
+0	Khoảng 14h30' ngày 1/6, tại tầng 4 nhà hàng Trúc Lâm Trai (39 phố Lê Ngọc Hân), ngọn lửa bất ngờ bùng cháy.
+
+0	Một số nhân viên đã dùng các bình chữa cháy xách tay để dập lửa nhưng không khống chế được, do đó ngọn lửa nhanh chóng cháy lan xuống tầng 3 và tầng 2 của quán Trúc Lâm Trai.
+0	Một số người đã dùng các bình chữa cháy cá nhân để dập lửa nhưng "bà hỏa" vẫn nhanh chóng lan xuống tầng 2 của Trúc Lâm Trai.
+0	Ngay sau đó, người đã dùng các bình chữa cháy cá nhân để dập lửa nhưng vẫn nhanh chóng lan xuống tầng 2 của Trúc Lâm Trai.
+0	Ngay sau khi phát hiện ra đám cháy, người dân đã dùng bình chữa cháy nhỏ để dập lửa.
+0	Một số người đã dùng các bình chữa cháy cá nhân để dập lửa nhưng "bà hỏa" vẫn nhanh chóng lan xuống tầng 2 của nhà hàng Trúc Lâm Trai, khói đen bốc mù mịt.
+1	Khi phát hiện cháy, một số người đã dùng các bình chữa cháy cá nhân để dập lửa nhưng ngọn lửa vẫn lan nhanh xuống tầng 2, làm dây điện trong nhà hàng cháy khét lẹt, khói đen mù mịt khiến nhiều người hoảng loạn tháo chạy.
+0	Một số nhân viên còn lại dùng các bình chữa cháy xách tay để dập lửa nhưng không hiệu quả.
+
+0	Theo thông tin ban đầu đám cháy được xác định xuất phát từ trong bếp đặt trên tầng 4 của cửa hàng.
+1	Theo các nhân chứng cho hay, vào thời điểm trên tại tầng 4 số nhà 39 Lê Ngọc Hân bất ngờ phát ra cột khói kèm theo đó là lửa bùng phát.
+0	Theo thông tin ban đầu, đám cháy được xác định xuất phát từ trong bếp đặt trên tầng 4 của cửa hàng.
+0	Một số nhân chứng tại hiện trường cho biết, vào thời điểm trên, họ bỗng dưng thấy có khói và lửa bốc lên ngùn ngụt từ tầng 4 của nhà hàng này.
+0	Theo một số nhân chứng, vào thời gian trên khu bếp tầng 4 của nhà hàng bốc khói nghi ngút và bùng phát thành ngọn lửa lớn kèm mùi khét của dây điện cháy khiến nhân viên nhà hàng tháo chạy hoảng loạn.
+
+0	Rất may, vụ hỏa hoạn đã không gây thiệt hại về người nhưng toàn bộ từ tầng 3 đến tầng 4 của nhà hàng Trúc Lâm Trai bị cháy đen, lửa thiêu rụi nhiều tài sản.
+0	Vụ hỏa hoạn nói trên không gây thiệt hại hại về người nhưng toàn bộ tầng 4 của nhà hàng Trúc Lâm Trai là nơi xảy cháy đã bị "bà hỏa" thiêu rụi.
+0	Vụ hỏa hoạn nói trên không gây thiệt hại hại về người nhưng toàn bộ tầng 4 của nhà hàng Trúc Lâm Trai đã bị ngọn lửa thiêu rụi.
+0	Tuy nhiên, toàn bộ tầng 4 của nhà hàng này đã bị hỏa hoạn thiêu rụi.
+1	Theo Phòng Cảnh sát phòng cháy chữa cháy số 1 (Cảnh sát phòng cháy và chữa cháy thành phố Hà Nội), vụ hỏa hoạn nói trên không gây thiệt hại về người nhưng toàn bộ tầng 4 của nhà hàng Trúc Lâm Trai bị thiêu rụi.
+0	Vụ hỏa hoạn không có thiệt hại về người nhưng toàn bộ tầng 4 của nhà hàng nói trên đã bị thiêu rụi hoàn toàn.
+0	Vụ hỏa hoạn không có thiệt hại về người nhưng toàn bộ tầng 4 của nhà hàng nói trên đã bị thiêu rụi hoàn toàn.
+0	Rất may, vụ hỏa hoạn đã không gây thiệt hại về người, nhưng toàn bộ tài sản từ tầng 3 đến tầng 4 của nhà hàng Trúc Lâm Trai bị cháy đen.
+0	Rất may, vụ hỏa hoạn không gây thiệt hại về người nhưng toàn bộ tầng 4 của nhà hàng cơm chay Trúc Lâm Trai bị "bà hỏa" thiêu rụi.
+
+0	Sau những nỗ lực của cảnh sát, đến 15 giờ 5 phút cùng ngày, vụ hỏa hoạn được dập tắt.
+0	Cho đến khoảng 15 giờ cùng ngày đám cháy đã hoàn toàn được khống chế.
+0	Cho đến khoảng 15h cùng ngày đám cháy cơ bản được khống chế.
+1	Vụ hỏa hoạn đã được khống chế và dập tắt hoàn toàn vào 15h5' cùng ngày.
+0	Sau 30 phút nỗ lực chữa cháy, ngọn lửa đã được dập tắt hoàn toàn.
+0	Sau 30 phút nỗ lực chữa cháy ngọn lửa đã được dập tắt hoàn toàn.
+
+0	Nhận được tin báo, lực lượng cảnh sát phòng cháy chữa cháy số 1 đã huy động 4 xe gồm 3 xe chữa cháy và 1 xe chở nước đến hiện trường triển khai các phương án dập lửa.
+0	Nhận được tin báo, lực lượng cảnh sát PCCC số 1 - Hoàn Kiếm đã điều động 4 xe gồm 3 xe chữa cháy và 1 xe chở nước cùng CBCS đến hiện trường triển khai các phương án dập lửa.
+0	Không lâu sau, lực lượng cảnh sát phòng cháy chữa cháy số 1 đã huy động 4 xe gồm 3 xe chữa cháy và 1 xe chở nước đến hiện trường triển khai các phương án dập lửa.
+0	Ngay sau khi nhận được tin báo của người dân, lực lượng PCCC đã huy động bốn xe chữa cháy, một xe bồn có mặt tại hiện trường để nhanh chóng triển khai phương án chữa cháy.
+0	Ngay sau khi nhận được tin báo, lực lượng cảnh sát phòng cháy chữa cháy số 1 đã huy động 4 xe cứu hỏa (3 xe chữa cháy và 1 xe chở nước) để dập tắt đám cháy.
+0	Ngay sau khi nhận được tin báo từ người dân, lực lượng cảnh sát phòng cháy chữa cháy TP Hà Nội đã huy động 3 xe chữa cháy và 1 xe chở nước đến hiện trường dập lửa.
+1	Nhận được tin báo, lực lượng cảnh sát PCCC số 1 – Hoàn Kiếm đã điều động 4 xe gồm 3 xe chữa cháy và 1 xe chở nước đến hiện trường.
+1	Lực lượng CA phường Phạm Đình Hổ, quận Hai Bà Trưng cũng có mặt hỗ trợ phân luồng giao thông, bảo vệ tài sản cho người dân.
+
+1	Nguyên nhân vụ cháy đang được cơ quan chức năng điều tra làm rõ.
+

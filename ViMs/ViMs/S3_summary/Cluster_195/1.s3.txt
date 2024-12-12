@@ -1,0 +1,60 @@
+0	Ngọn lửa bùng phát dữ dội vào sáng sớm và nhanh chóng lan ra các kho hàng, gây ra các vụ nổ lớn buộc cơ quan chức năng phải di dời khoảng 1.000 dân làng trong khu vực lân cận.
+0	Hàng ngàn gia đình sống ở các thị trấn và những ngôi làng gần đó đã được yêu cầu sơ tán khỏi kho đạn dược.
+0	Người dân tại 3 ngôi làng xung quanh kho vũ khí trên đã được sơ tán.
+0	Thủ tướng Narendra Modi đã chỉ thị cho Bộ trưởng Quốc phòng Manohar Parrikar đến hiện trường để cập nhật tình hình.
+1	Khoảng 1.000 người dân sống tại khu vực xảy ra hỏa hoạn đã phải sơ tán.
+0	Mặc dù đã được kiểm soát nhưng đám cháy nổ lớn vẫn buộc hàng ngàn người dân sống gần đó phải sơ tán.
+0	Theo hãng tin Sky News, vụ cháy tại kho đạn dược tại tỉnh Wardha, miền trung Ấn Độ, đã khiến hàng ngàn người phải sơ tán.
+0	Khoảng 1.000 người sống trong các thị trấn và ngôi làng gần kho vũ khí đã được sơ tán.
+0	Hiện vẫn chưa thể xác định đám cháy là tai nạn hay là hành động phá hoại.
+0	Hơn 1.000 cư dân ở các ngôi làng gần kho đạn đã được sơ tán để đảm bảo an toàn.
+
+0	Quân đội Ấn Độ đã thành lập một đội điều tra đặc biệt để tìm hiểu nguyên nhân gây nên vụ cháy nghiêm trọng này và điều tra vụ việc.
+0	Hiện người dân sống gần kho đạn đã được sơ tán.
+0	Nguyên nhân vụ hỏa hoạn đang được lực lượng chức năng Ấn Độ điều tra làm rõ./.
+1	Quân đội nước này cho biết nguyên nhân vụ việc đang được điều tra; nguồn tin cho biết hiện chưa xác định được ngọn lửa là một tai nạn hay do cố ý phá hoại.
+0	Một đội điều tra đặc biệt đã được lập ra nhằm tìm hiểu nguyên nhân của vụ cháy này, theo Times of India.
+0	Hiện các nhà chức trách vẫn đang tiến hành điều tra nguyên nhân vụ việc.
+0	Hiện chưa rõ nguyên nhân gây ra hỏa hoạn.
+0	Các quan chức Ấn Độ cho biết chưa thể khẳng định chắc chắn tổng số người thiệt mạng do các nhóm cứu hộ vẫn chưa kiểm tra được toàn bộ các khu vực của kho chứa vũ khí quân sự.
+
+0	Truyền thông Ấn Độ đưa tin, sáng 31/5, một vụ hỏa hoạn đã xảy ra tại một kho đạn dược của quân đội nước này gần thành phố Nagpur, thuộc bang Maharastra, phía Tây Ấn Độ khiến ít nhất 17 binh sĩ thiệt mạng và hàng chục người khác bị thương.
+0	Ít nhất 20 người thiệt mạng, trong đó 2 quan chức quân đội.
+0	Trong số những người bị thương có 17 quân nhân thuộc Cơ quan an ninh quốc phòng (DSC), một số người được cho là bị thương nặng, báo The Indian Express dẫn thông tin từ một sĩ quan quân đội Ấn Độ cho biết.
+1	Vụ hỏa hoạn đã cướp đi sinh mạng của ít nhất 20 người, trong đó có 2 quan chức quân đội Ấn Độ.
+1	Ngoài ra, hàng chục người khác bị thương cũng đã được đưa tới bệnh viện cấp cứu.
+0	Theo những tin tức mới nhất trên báo Tuổi Trẻ, đám cháy lớn đã xảy ra tại một trong những kho chứa vũ khí lớn nhất của Ấn Độ vào rạng sáng 31/5, gây nổ lớn làm ít nhất 20 binh sĩ thiệt mạng.
+0	Theo quan chức địa phương Shailesh Nawai, ngoài số người chết, 17 người khác đã nhập viện, trong đó có 2 người bị thương rất nặng.
+0	Các đơn vị phản ứng khẩn cấp đã được điều động đến khu vực.
+0	Hãng thông tấn xã The Press Trust cho biết trong số 17 quân nhân thiệt mạng có hai sĩ quan quan chỉ huy.
+0	Cảnh sát tỉnh Wardha cho biết “Ít nhất 17 người thiệt mạng.
+0	19 người bị thương nhưng đã được đưa ra khỏi khu vực nguy hiểm.
+
+0	Theo các nhân chứng gần hiện trường, vụ hỏa hoạn đã lan nhanh sau một tiếng nổ lớn vào lúc 1h30 sáng (theo giờ địa phương).
+0	Ngọn lửa bắt đầu vào lúc 1h30 (giờ địa phương) tại kho đạn gần Nagpur, Ấn Độ.
+0	Những cảnh quay trên kênh truyền hình cho thấy ngọn lửa đã thắp sáng cả bầu trời ban đêm phía trên trung tâm đạn dược lớn nhất ở Ấn Độ và lớn thứ hai tại châu Á.
+0	Vụ cháy xảy ra tại kho vũ khí ở Pulgaon, tỉnh Wardha vào khoảng 2 giờ sáng ngày 31.5 (tức 3 giờ 30, giờ Việt Nam).
+1	Theo truyền thông Ấn Độ, đám cháy bắt đầu xuất hiện vào lúc 1h30 sáng nay 31/5 (theo giờ địa phương) tại kho đạn dược trung tâm ở Pulgaon thuộc quận Wardha, bang Maharashtra, sau đó lan nhanh ra những khu vực xung quanh.
+0	Ngọn lửa bùng phát lúc 1 giờ 30 phút (giờ địa phương) hôm 31-5 tại kho vũ khí gần Nagpur, bang Maharashtra.
+0	Đây là kho đạn dược lớn nhất Ấn Độ và lớn thứ hai ở châu Ám theo đài NDTV.
+0	Đám cháy bùng lên sau một vụ nổ được ghi nhận xảy ra vào rạng sáng 31-5 (giờ địa phương).
+0	Theo hãng tin AFP, có 10 xe cứu hỏa được điều động từ rạng sáng để kiểm soát đám cháy.
+0	“Vụ cháy xảy ra vào khoảng 1 giờ 30 sáng.
+0	Các xe cứu hỏa đến được địa điểm này vào khoảng 2 giờ 30 sáng.
+0	Cảnh sát Ấn Độ cho biết, lửa bắt đầu cháy vào khoảng 1h (giờ địa phương) rồi sau đó lan ra rất nhanh.
+0	Những nạn nhân bị thương đã được đưa đến bệnh viện cấp cứu song số người thiệt mạng có thể tiếp tục tăng, do nhiều người bị thương ở trong tình trạng nguy kịch.
+0	Vụ nổ xảy ra lúc 1h30 sáng cùng ngày tại Kho đạn trung tâm ở Pulgaon, cách thủ phủ Nagpur của bang miền tây Maharashtra khoảng 110km.
+
+0	Lực lượng cứu hỏa đã kiểm soát tình hình đám cháy sau gần 5 tiếng đồng hồ dập lửa.
+1	"Ngọn lửa đã được kiểm soát lúc 6h15 (theo giờ địa phương).
+1	Tình hình tại hiện trường đã được kiểm soát và các báo cáo đang được chuẩn bị công bố", ông Ramesh cho biết từ hiện trường.
+0	Đến gần 6 giờ 15 sáng, vụ cháy đã được kiểm soát.
+0	Đến 11 giờ (giờ địa phương), Thủ hiến bang Maharashtra Devendra Fadnavis cho biết ngọn lửa đã bị khống chế.
+0	Ông Ramesh Barde, một nhân viên cứu hỏa, cho biết lực lượng này đã sử dụng 10 xe chữa cháy làm việc thâu đêm để dập tắt đám cháy.
+
+0	Đây là kho vũ khí lớn nhất của Ấn Độ và cung cấp vũ khí cho toàn bộ lực lượng quân đội vùng phía tây nước này, theo Indian Express ngày 31.5.
+0	Nhiều loại vũ khí được lưu trữ tại đây, từ tên lửa BrahMos cho đến súng trường AK-47.
+1	Kho đạn dược trung tâm ở Pulgaon là một trong những kho đạn dược lớn nhất của Ấn Độ, cung ứng trang thiết bị quân sự cho toàn bộ đơn vị phía tây của quân đội Ấn Độ.
+0	Được biết kho đạn dược bị cháy là một trong những kho đạn dược lớn nhất Ấn Độ.
+0	Đây là một trong những kho đạn lớn nhất của quân đội Ấn Độ, và là nơi cất giữ của nhiều loại đạn dược, từ AK-47 đến tên lửa BrahMos.
+

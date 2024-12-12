@@ -1,0 +1,41 @@
+0	Xe tăng T-14 Armata, lần đầu tiên Nga công bố trong cuộc diễu binh mừng ngày chiến thắng năm 2015 tại Quảng trường Đỏ, được ứng dụng những công nghệ hiện đại mang tính đột phá mở ra một chương mới trong ngành công nghiệp xe tăng chiến đấu.
+0	Theo hãng thông tấn Sputnik của Nga, màn phô diễn năng lực vận hành và hỏa lực là một phần trong những thử nghiệm chiến đấu vừa được thực hiện với mẫu xe tăng chiến trường T-14 Armata mới nhất của Nga.
+1	Theo Sputnik News, T-14 Armata lần đầu xuất hiện trong lễ duyệt binh chào mừng ngày Chiến thắng của Nga tại Quảng trường Đỏ năm 2015.
+
+0	Nhờ công nghệ mới, xe tăng Armata thực sự tàng hình trước các thiết bị dò tìm hồng ngoại và các tín hiệu quang phổ khác.
+0	Ngoài ra, Sputnik dẫn lời Phó Tổng giám đốc Tập đoàn Uralvagonzavod, ông Vyacheslav Khalitov cho biết, xe tăng Armata sẽ được Nga trang bị hệ thống phòng vệ gồm 4 cấp giúp dòng tăng này không bị kẻ thù theo dõi trên chiến trường.
+1	Chiến xa sẽ được phủ lớp phủ đặc biệt làm cho bề mặt phản quang khiến hệ thống tần sóng radar, tia hồng ngoại và cảm quang không thể xác định nó.
+0	Loại vật liệu mang tên The Mantle này được Viện Sắt thép thuộc Nhà máy Chế tạo Máy Cơ khí phát triển có dạng một tấm màn lớn được làm từ các thành phần có khả năng bảo vệ chủ động và được đặt phía trước xe thiết giáp cần được bảo vệ khoảng 50-1.500mm.
+0	Điều này sẽ khiến cho quả lựu đạn chống tăng khi chạm vào phần giáp chính của xe thiết giáp sẽ không thể phát nổ hoặc nếu có nổ thì khả năng xuyên giáp cũng bị suy giảm đáng kể.
+0	Trong khi đó, khả năng tàng hình của The Mantle sẽ giúp giảm tới 6 lần khả năng xe tăng và xe chiến đấu bộ binh bị radar của địch phát hiện và giảm tới 3 lần khả năng các xe thiết giáp này bị các thiết bị hồng ngoại của địch phát hiện.
+0	Nhờ công nghệ tàng hình, cỗ máy đồ sộ này hoàn toàn không thể bị phát hiện nếu đối phương dùng công nghệ hồng ngoại hay các công nghệ khác để quét mục tiêu.
+0	Theo đó, nhờ công nghệ tàng hình của mình, T-14 Armata hoàn toàn “biến mất” trước sóng hồng ngoại và nhiều loại quang phổ khác.
+
+1	Khi tác chiến bị lựu đạn chống tăng bắn vào, các thành phần bảo vệ bí mật trong tấm màn này sẽ có nhiệm vụ phá hủy mạch kích nổ điện tử trong quả lựu đạn cũng như làm phân tán các chất nổ trong quả lựu đạn.
+
+0	Chiếc T-14 được trang bị hệ thống radar mảng pha điện tử chủ động, tương tự như hệ thống radar trên chiến đấu cơ thế hệ thứ 5 T-50 PAK FA của Nga.
+0	Hệ thống radar này cùng các camera không chỉ nhằm phục vụ tác chiến mà còn có thể sử dụng cho mục đích trinh sát và điều chỉnh hỏa lực.
+0	Chúng còn được trang bị một radar quét điện tử chủ động (AESA, hoặc radar mảng pha chủ động, APAR) giống với loại được thiết kế cho máy bay chiến đấu thế hệ thứ 5 T-50 PAK FA của Nga.
+0	Ngoài ra, T-14 Armata còn được trang bị hệ thống quét điện tử chủ động (APAR) tương tự như trên siêu chiến đấu cơ thế hệ thứ 5 T-50 PAK FA.
+0	Các radar và camera trên T-14 Armata không chỉ được sử dụng cho mục đích chiến đấu mà còn đảm nhiệm nhiệm vụ trinh sát.
+1	Radar và các camera trên xe tăng không chỉ có chức năng chiến đấu chống lại một mục tiêu của đối phương, mà còn có chức năng trinh sát và điều chỉnh hỏa lực.
+
+0	Vũ khí chính của tăng Armata T-14 bao gồm đại bác nòng trơn 125m và một súng máy 7,62mm điều khiển từ xa.
+0	Trang thiết bị vũ khí trên siêu tăng T-14 Armata bao gồm pháo 125mm và súng máy điều khiển từ xa 7,62mm.
+1	Vũ khí trên xe tăng Armata bao gồm một pháo nòng trơn 125mm và một súng máy điều khiển từ xa 7,62mm.
+
+0	Trong tương lai, xe tăng này có thể được phát triển trở thành một cỗ pháo tự hành hạng nặng, với trang bị vũ khí 152mm.
+1	Sắp tới, siêu tăng T-14 Armata sẽ được cải tiến để trở thành pháo tự hành hạng nặng với khẩu pháo được nâng cấp lên 152mm.
+0	Trong tương lai, xe tăng này có thể được chuyển thành một pháo tự hành hạng nặng khi được trang bị một pháo 152mm.
+
+0	Đặc điểm chính của mẫu tăng chiến trường chủ lực này đó là tháp pháo hoàn toàn tự động.
+0	Một trong những tính năng quan trọng khác của siêu tăng T-14 Armata chính là tháp pháo không người lái.
+1	Đặc điểm chính của xe tăng Armata là tháp pháo không người lái.
+
+0	Do đó mỗi chiếc T-14 chỉ cần 3 người vận hành, ngồi ở phần trước, tách biệt khỏi khoang dự trữ phía sau.
+0	Nhờ đó, trong trường hợp khoang chứa đạn phát nổ, tổ lái vẫn có cơ hội cao sống sót.
+0	3 binh sĩ lái xe tăng sẽ được ngồi trong một khoang lái bọc thép ở phía trước xe, tách biệt hoàn toàn với phần tháp pháo.
+0	Điều này sẽ giúp tăng khả năng sống sót cho binh sĩ trong trường hợp xe tăng bị tấn công.
+0	Thiết kế này giúp kíp lái có cơ hội sống sót lớn hơn nếu vũ khí trong xe tăng phát nổ.
+1	Tổ lái 3 người được bố trí trong khoang lái bọc thép ở mặt trước của thân xe tăng, tách biệt với khoang chứa vũ khí.
+

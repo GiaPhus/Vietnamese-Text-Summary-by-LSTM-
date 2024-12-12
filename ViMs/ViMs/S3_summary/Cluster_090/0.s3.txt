@@ -1,0 +1,46 @@
+1	Cô gái đi cùng sau vài phút gào thét khi bạn trai nhảy cầu tự tử, đã ngất xỉu phải đưa vào viện cấp cứu.
+0	Cô gái sau đó ngất lịm gục xuống đường.
+0	Thấy bạn trai đi cùng nhảy xuống sông, cô gái cũng ra khỏi xe và kêu cứu, một lúc sau thì ngất lịm.
+0	Sau khi nam thanh niên nhảy xuống cầu cô gái vội vã bước ra khỏi xe gào thét, kêu cứu và một lúc sau thì ngất lịm.
+0	Sau khi nam thanh niên nhảy xuống, cô gái đi cùng vội vã bước ra khỏi xe gào thét, kêu cứu và một lúc sau thì ngất lịm.
+0	Sau khi nam thanh niên nhảy xuống cầu, cô gái ra khỏi xe gào thét, kêu cứu và một lúc sau thì ngất lịm.
+
+0	Khoảng 15 giờ hôm nay (23.5), một nam thanh niên đi cùng bạn gái trên xe taxi đã yêu cầu tài xế dừng xe, mở cửa bước ra và nhảy cầu Thanh Trì (huyện Gia Lâm, Hà Nội) tự tử.
+1	Thông tin ban đầu, vào khoảng thời gian trên, anh B. cùng bạn gái là N.T.V (17 tuổi, quê Bắc Ninh) đi xe taxi lên cầu Thanh Trì hướng từ Gia Lâm trung tâm Hà Nội.
+0	Theo thông tin ban đầu, vào khoảng 14 giờ 50 phút chiều 23-5, chiếc taxi mang BKS 29A- 504.82 chở theo một đôi nam nữ lưu thông hướng từ huyện Gia Lâm (Hà Nội) về trung tâm TP.
+0	Khi đến gần giữa cầu Thanh Trì (cột đèn số 42) thì nam thanh niên yêu cầu dừng xe, rồi bất ngờ mở cửa xe taxi nhảy xuống sông tự tử, bỏ lại người bạn gái trên xe taxi.
+0	Theo thông tin ban đầu, thời điểm trên, một đôi nam nữ đi trên chiếc xe taxi mang BKS: 29A – 504XX trên cầu Thanh Trì, hướng từ Gia Lâm về Hà Nội, bất ngờ dừng lại ở cột đèn số 42.
+0	Theo đó, vào khoảng 14h50 hôm nay (23/5), một đôi nam nữ đi trên taxi mang BKS 29A.xxx, khi chiếc xe lưu thông đến cột đèn số 42 trên cầu Thanh Trì (hướng từ Gia Lâm về Hà Nội) nam thanh niên bất ngờ mở cửa xe taxi nhảy xuống sông tự tử bỏ lại bạn gái trên xe.
+0	Thời điểm trên, nam thanh niên này đi taxi cùng bạn gái là Nguyễn Thị V. (17 tuổi, trú tại huyện Thuận Thành, Bắc Ninh) trên xe taxi hướng từ Gia Lâm về nội thành Hà Nội.
+0	Theo đó, vào khoảng 14h50 cùng ngày, trên cầu Thanh Trì, hướng từ Gia Lâm về Hà Nội, một đôi nam nữ đi taxi, BKS 29A-504.82, khi đến đến cột đèn số 42, không hiểu vì lý do gì, nam thanh niên bất ngờ mở cửa xe taxi nhảy xuống sông tự tử, bỏ lại người bạn gái trên xe taxi.
+
+0	Danh tính nam thanh niên được xác định là Nguyễn Văn B. (21 tuổi, quê Phú Xuyên, Hà Nội).
+0	Qua xác minh ban đầu, danh tính nam thanh niên được xác định là Nguyễn Văn Biểu (SN1995, quê Phú Xuyên, Hà Nội), cô gái đi cùng là Nguyễn Thi V. (SN 1999, quê Thuận Thành, Bắc Ninh).
+0	Danh tính nam thanh niên được xác định là Nguyễn văn B. (21 tuổi, quê Phú Xuyên, Hà Nội), cô gái đi cùng là Nguyễn Thi V. (17 tuổi, quê Thuận Thành, Bắc Ninh).
+0	Danh tính nam thanh niên được xác định là Nguyễn văn B. (SN 1995, quê Phú Xuyên, Hà Nội), cô gái đi cùng là Nguyễn Thi V. (SN 1999, quê Thuận Thành, Bắc Ninh).
+0	Danh tính nam thanh niên được xác định là Nguyễn văn B. (21 tuổi, ở Phú Xuyên, Hà Nội), cô gái đi cùng là Nguyễn Thi V. (17 tuổi, quê Thuận Thành, Bắc Ninh).
+0	Danh tính nam thanh niên được xác định là Nguyễn văn Biểu (SN 1995, quê huyện Phú Xuyên, Hà Nội).
+0	Cô gái đi cùng là N.T.V (SN 1999, quê huyện Thuận Thành, tỉnh Bắc Ninh).
+1	Danh tính nam thanh niên được xác định là Nguyễn Văn B. (21 tuổi, quê Phú Xuyên, Hà Nội), cô gái đi cùng là Nguyễn Thi V. (17 tuổi, quê Thuận Thành, Bắc Ninh).
+
+1	Khi đi tới cột đèn số 42 cầu Thanh Trì, chiếc xe taxi vừa dừng lại thì anh B. bất ngờ mở cửa xe rồi nhảy từ cầu Thanh Trì xuống sông Hồng tự vẫn.
+0	Vào thời điểm đó, nam thanh niên ngồi trên xe bất ngờ mở cửa xe rồi nhảy xuống sông tự tử, bỏ lại bán gái vẫn ngồi trên xe taxi.
+0	Những nhân chứng có mặt tại hiện trường cho biết, khi thấy chiếc taxi đang đi bỗng dừng lại, họ bất ngờ thấy nam thanh niên mở cửa xe bước ra ngoài và nhảy thẳng xuống dòng sông chảy siết.
+0	Chiều ngày 23-5, thông tin từ đội CSGT số 14 (Công an Hà Nội) cho biết đơn vị này đang kết hợp với cơ quan công an huyện Gia Lâm tìm kiếm tung tích của 1 nam thanh niên nhảy cầu Thanh Trì xuống sông Hồng vào chiều cùng ngày.
+0	Ngay sau đó, một nam thanh niên mở cửa xe bước ra ngoài và nhảy thẳng xuống dòng sông chảy siết, do sự việc diễn ra quá nhanh nên người dân hoàn toàn bất ngờ và không kịp ngăn cản.
+0	Ngay sau đó, một nam thanh niên mở cửa xe bước ra ngoài và nhảy thẳng xuống sông Hồng.
+0	Đến 17h chiều nay, lực lượng chức năng vẫn chưa tìm thấy nam thanh niên nhảy xuống sông.
+0	Khi đến giữa cầu, nam thanh niên đã mở cửa xe đi xuống cầu, rồi nhảy xuống sông, bỏ mặc bạn gái ngồi trên xe taxi.
+0	Lúc này nhiều người thấy một nam thanh niên từ trên xe taxi bước xuống rồi bất ngờ nhảy xuống sông Hồng tự tử bỏ lại bạn gái đang ngồi trên xe.
+0	Chiều 23.5, một lãnh đạo Đội CSGT số 14, Phòng CSGT Hà Nội cho biết, khoảng khoảng 14h50 cùng ngày, một nam thanh niên đã nhảy từ cầu Thanh Trì xuống sông Hồng tự vẫn.
+
+0	Hiện Công an huyện Gia Lâm và các lực lượng chức nămg đang tìm kiếm anh Nguyễn Văn B. và làm rõ nguyên nhân dẫn tới sự việc.
+1	Công an huyện Gia Lâm (Hà Nội) đang phối hợp với lực lượng chức năng tích cực tìm kiếm, đồng thời điều tra nguyên nhân vụ việc.
+0	Bước đầu cơ quan chức năng xác định, nam thanh niên nói trên là Nguyễn Văn B. (21 tuổi, trú tại huyện Phú Xuyên, Hà Nội).
+0	Tin mới nhận, sự việc diễn ra vào khoảng 14h50’ ngày 23/5, trên cầu Thanh Trì hướng Gia Lâm - Hà Nội.
+0	Vụ việc đã được Đội CSGT số 14 bàn giao cho Công an huyện Gia Lâm tiếp tục điều tra làm rõ.
+0	Hiện cơ quan chức năng đang tích cực làm rõ và xử lý vụ việc.
+0	Công an huyện Gia Lâm đang điều tra nguyên nhân vụ việc và tìm kiếm thi thể nam thanh niên xấu số trên.
+0	Tiếp nhận thông tin, Đội Cảnh sát giao thông số 14 (Công an Hà Nội) đã có mặt bảo vệ hiện trường, phối hợp với các lực lượng chức năng khác tổ chức tìm kiếm nam thanh niên nói trên.
+0	Nhận được tin báo, lực lượng CSGT Đội CSGT số 14 (Phòng CSGT Hà Nội) đã nhanh chóng có mặt tại hiện trường phân luồng giao thông, kết hợp với cơ quan công an tìm kiếm nạn nhân.
+

@@ -1,0 +1,47 @@
+0	Vụ tai nạn lao động xảy ra 8h sáng nay (3/6) tại công trình xây dựng nhà ở (số 123 đường Lê Thanh Nghị, quận Hải Châu, Đà Nẵng).
+0	Thông tin ban đầu từ cơ quan chức năng, căn nhà số 123 đường Lê Thanh Nghị (TP Đà Nẵng) đang thi công xây dựng và có thuê công nhân về làm.
+0	Danh tính nạn nhân được xác định tên Tiến (44 tuổi, trú tại phường An Hải Tây, quận Sơn Trà, TP Đà Nẵng), đang làm thuê cho một chủ thầu dự án.
+1	Tin nhanh sáng ngày 3/6, lãnh đạo UBND phường Hòa Cường Bắc (quận Hải Châu, TP Đà Nẵng) xác nhận, trên địa bàn phường vừa xảy ra một vụ tai nạn lao động khiến một công nhân tử vong.
+0	Trước đó, sự việc xảy ra vào khoảng 8h sáng cùng ngày tại công trình nhà ở đang xây dựng trên đường Lê Thanh Nghị (phường Hòa Cường Bắc, quận Hải Châu) do người đàn ông tên H. làm chủ.
+0	Vụ tai nạn xảy ra vào khoảng 8h ngày 3/6 tại công trình nhà ở đang xây dựng ở số 123 Lê Thanh Nghị (phường Hòa Cường Bắc, quận Hải Châu, TP Đà Nẵng) do người đàn ông tên Hà làm chủ.
+0	Vụ tai nạn lao động xảy ra tại công trình xây dựng một ngôi nhà 3 tầng ở đường Lê Thanh Nghị (P.Hòa Cường Bắc, Q.Hải Châu, Đà Nẵng).
+0	Theo thông tin ban đầu, sáng 3-6, ông Tiến và 3 người khác đến thi công ngôi nhà.
+0	Trước đó, sáng cùng ngày, anh Tiến (44 tuổi, ngụ P.An Hải Tây, Q.Sơn Trà, TP.Đà Nẵng) cùng một số thợ xây thi công công trình nhà ở của người dân ở địa chỉ 123 Lê Thanh Nghị, P.Hòa Cường Bắc.
+0	Theo thông tin ban đầu, vào thời điểm trên, một công nhân tên Tiến (44 tuổi, trú tại phường An Hải Tây, Sơn Trà, TP Đà Nẵng) đứng trên giàn giáo để thi công mặt ngoài ngôi nhà ở tầng 3.
+0	Khoảng 8 giờ ngày 3-6 tại công trình xây dựng nhà ở (số 123 đường Lê Thanh Nghị, quận Hải Châu, Đà Nẵng), anh Tiến (44 tuổi, trú phường An Hải Tây, quận Sơn Trà, Đà Nẵng) đứng trên tầng 3 ngôi nhà đang xây dở để kéo vật liệu từ dưới đất lên.
+
+0	Theo một số hộ dân sống gần công trình xây dựng, thời điểm trên, anh Tiến (44 tuổi, trú phường An Hải Tây, quận Sơn Trà, Đà Nẵng) đang đứng trên tầng 3 ngôi nhà đang xây dở.
+1	Lúc xảy ra tai nạn, ông Tiến đứng ở tầng 3 để nhận vật liệu được chuyển từ hệ thống tời.
+
+0	Khoảng 8 giờ sáng, một người công nhân đứng trên giàn giáo để thi công mặt ngoài ngôi nhà đã bị mất thăng bằng và rơi xuống.
+0	Trong quá trình kéo tời thì một người đàn ông chưa rõ danh tính (khoảng 40 tuổi, trú Quảng Nam) bất ngờ bị rơi từ tầng 3 công trình xuống đất.
+1	Trong quá trình thi công kéo vật liệu từ dưới đất lên, không may anh Tiến bị mất thăng bằng, té ngã xuống từ độ cao khoảng 10m.
+0	Trong quá trình kéo tời, anh Trần Quốc Tiến (sinh 1972, trú Sơn Trà, Đà Nẵng) bất ngờ rơi từ tầng 3 công trình xuống đất.
+0	Thời điểm đó, ông Tiến nắm dây tời để tiếp nhận vật liệu xây dựng nên bị mất thăng bằng và rơi xuống đất, chết tại chỗ.
+0	Trong lúc kéo vật liệu từ dưới đất lên tầng 3, anh Tiến bị mất thăng bằng và ngã từ độ cao khoảng hơn 10 mét xuống đất.
+0	Quá trình dây tời kéo vật liệu xây dựng lên bị tuột khiến ông Tiên mất thăng bằng và rơi xuống đất.
+0	Bất ngờ, mất thăng bằng, anh Tiến té ngã xuống từ độ cao khoảng 10m ngất xỉu.
+
+0	Ngay sau khi xảy ra sự viêc, công nhân và người dân sống xung quanh đã đưa nạn nhân đi cấp cứu, nhưng đã không qua khỏi.
+0	Ngay sau đó, người đàn ông được đưa đi cấp cứu nhưng do vết thương quá nặng nên nạn nhân đã tử vong trên đường cấp cứu.
+0	Hậu quả người đàn ông tử vong trên đường đi cấp cứu.
+1	Ngay sau đó, một số người đưa anh Tiến vào bệnh viện cấp cứu nhưng vì bị thương quá nặng nên anh Tiến đã tử vong.
+0	Mặc dù được đưa đi cấp cứu nhưng nạn nhân đã tử vong sau đó.
+0	Ngay sau khi xảy ra sự việc, công nhân và người dân sống xung quanh đã đưa ông Tiến đi cấp cứu, nhưng ông Tiến đã không qua khỏi.
+0	Tuy người dân đưa anh Tiến vào bệnh viện cấp cứu nhưng vì bị thương quá nặng nên anh Tiến đã tử vong.
+
+0	Lực lượng chức năng có mặt phong tỏa hiện trường và tìm hiểu nguyên nhân sự việc.
+1	Hiện cơ quan chức năng vẫn đang tiến hành làm rõ nguyên nhân và hoàn thiện các thủ tục để báo về gia đình nạn nhân.
+0	Ngay sau khi xảy ra vụ tại nạn, lực lượng chức năng Phường Hòa Cường Bắc đã có mặt phong tỏa hiện trường và tiến hành điều tra.
+0	Ngay sau khi xảy ra vụ tại nạn, Công an Phường Hòa Cường Bắc đã có mặt phong tỏa hiện trường và tiến hành điều tra.
+0	Hiện Công an P.Hòa Cường Bắc đang tiếp tục làm rõ vụ việc.
+0	Nhận được tin báo, lực lượng công an phường Hòa Cường Bắc (Hải Châu, Đà Nẵng) lập tức có mặt phong tỏa hiện trường để điều tra nguyên nhân vụ việc.
+0	Sau khi xảy ra sự việc, lực lượng công an quận Hải Châu có mặt tại hiện trường để điều tra nguyên nhân vụ việc.
+
+0	Phía ngoài ngôi nhà không được rào chắn an toàn.
+0	Công trình này tập kết vật liệu đúng vị trí cũng như thực hiện che chắn không để rơi vãi vật liệu.
+0	Một số nhân chứng cho biết vào thời điểm xảy ra vụ tai nạn, nhóm thợ xây công trình đều không mang đồ bảo hộ.
+0	Theo quan sát tại hiện trường, công trình xây dựng nhà ở này không được che chắn cẩn thận, không đảm bảo an toàn…
+0	Tại hiện trường vụ việc, công trình đang xây dựng đến tầng 3, phía dưới vật liệu xây dựng để ngổn ngang.
+1	Theo ghi nhận, tại công trình xây dựng nhà ở này không được che chắn cẩn thận, không đảm bảo an toàn,…
+

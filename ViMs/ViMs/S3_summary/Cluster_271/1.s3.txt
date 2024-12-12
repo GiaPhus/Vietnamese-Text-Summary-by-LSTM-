@@ -1,0 +1,29 @@
+1	Sáng 3/6, UBND TP HCM khởi công xây dựng Dự án cầu vượt, hầm chui vòng xoay Mỹ Thủy tại phường Cát Lái, quận 2.
+0	Sáng 3/6, Sở GTVT TP.HCM làm lễ khởi công xây dựng nút giao thông Mỹ Thủy nằm trên địa bàn Q.2.
+
+0	Đây là công trình trọng điểm nhằm giảm ùn tắc, tai nạn giao thông tại cửa ngõ vào cảng Cát Lái.
+1	Việc xây dựng nút giao mới khác nhằm xóa điểm kẹt xe lên xuống cảng biển Cát Lái, tạo thuận lợi cho xe đi về giữa cầu Phú Mỹ và đường vành đai Đông (Vành đai 2), hướng về đường cao tốc TP.HCM - Long Thành - Dầu Giây.
+0	Đồng thời công trình cũng nhằm khai thông dòng xe đi về giữa cảng Cát Lái với các tuyến đường liên hoàn Đồng Văn Cống - Mai Chí Thọ - xa lộ Hà Nội.
+0	Việc xây dựng nút giao này nhằm kéo giảm tình trạng ùn tắc giao thông, TNGT, phục vụ phát triển kinh tế vùng trọng điểm phía Nam”.
+
+0	Theo Khu Quản lý giao thông đô thị số 2 (chủ đầu tư dự án), toàn bộ công trình sẽ hoàn thành năm 2018.
+1	Dự kiến cuối năm 2018, toàn bộ dự án sẽ khánh thành, đưa vào sử dụng.
+
+0	Kinh phí giai đoạn đầu 837,9 tỉ đồng.
+0	Giai đoạn 1 với kinh phí 838 tỷ đồng, dự kiến hoàn thành vào quý I/2018.
+0	Giai đoạn 2 (hoàn chỉnh) đầu tư khoảng 1.100 tỷ đồng.
+0	Tổng mức đầu tư của của giai đoạn 1 là 837,93 tỉ đồng từ nguồn vốn ngân sách thành phố.
+1	Giai đoạn 1 với số vốn khoảng 840 tỷ đồng, giai đoạn 2 (hoàn chỉnh) khoảng 1.400 tỷ đồng, trong đó chi phí xây dựng 1.000 tỷ, giải phóng mặt bằng gần 400 tỷ.
+0	Tổng mức đầu tư giai đoạn 1 là 837,9 tỷ đồng, và tổng mức đầu tư giai đoạn 2 khoảng 1.500 tỷ đồng.
+
+0	Phát biểu tại buổi lễ, ông Lê Văn Khoa, Phó Chủ tịch UBND TP.HCM cho biết: “Nút giao Mỹ Thủy là một trong nút giao thông trọng điểm của thành phố, có mật độ giao thông rất lớn, nhất là lượng xe tải, container lưu thông theo hướng Bắc - Nam và ra vào cảng Cát Lái, với hình thức nút giao cùng cốt như hiện nay không thể đáp ứng yêu cầu về giao thông dẫn đến tình trạng ùn tắc thường xuyên xảy ra.
+0	Ông Lê Ngọc Hùng, Giám đốc khu quản lý giao thông đô thị số 2, cho biết nút giao thông Mỹ Thủy là điểm giao của hai trục giao thông chính quan trọng của thành phố, trong đó trục đường Nguyễn Thị Định là đường vào cảng Cát Lái với lưu lượng xe qua lại vận chuyển hàng hóa cực kỳ lớn.
+1	Nút giao thông Mỹ Thủy là điểm giao của các tuyến quan trọng là đường Nguyễn Thị Định - Đồng Văn Cống dẫn vào cảng Cát Lái; đường Vành đai 2 nối cầu Phú Mỹ qua khu công nghệ cao; nút giao thông Phú Hữu dẫn lên cao tốc Long Thành - Dầu Giây.
+0	Hiện nay, lượng xe lưu thông qua Vòng xoay Mỹ Thủy tăng đột biến là do lưu lượng xe từ các tỉnh miền Tây, theo hướng từ Đường Nguyễn Văn Linh vào đường Vành Đai Đông và lưu lượng xe từ đường cao tốc Thành phố Hồ Chí Minh – Long Thành – Dầu Giây lưu thông qua Vòng xoay Mỹ Thủy để vào Cảng Cát Lái, kết hợp với lượng xe trên đường Đồng Văn Cống gây nên hiện tượng ùn ứ tại Vòng xoay Mỹ Thủy.
+
+0	Mỗi ngày cảng Cát Lái tiếp nhận khoảng hơn 18.000 lượt phương tiện ra vào.
+0	Nguyễn Thị Định là đường ra vào cảng Cát Lái với lưu lượng hơn 18.000 xe container, xe tải qua lại mỗi ngày.
+1	Theo ông Lê Văn Khoa, Phó Chủ tịch UBND TP, nút giao bằng hiện hữu không còn đáp ứng nổi lượng xe đi qua ngày càng tăng mạnh (18.000-20.000 lượt xe/ngày) và khiến cho khu vực qua nút cũng như xung quanh luôn rơi vào ùn tắc.
+
+1	Dự án sẽ được thi công hai giai đoạn.
+

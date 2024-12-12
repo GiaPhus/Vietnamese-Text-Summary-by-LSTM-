@@ -1,0 +1,53 @@
+0	Theo tờ báo, con chó lao vào tấn công những đứa trẻ đang chơi đùa trong một công viên ở thị trấn Blyth, hạt Northumberland - Anh.
+0	Khoảng 18h30 ngày 18/5 (theo giờ địa phương), cảnh sát Northumbria nhận được thông báo một con chó dữ chạy lung tung và tấn công trẻ em trong công viên ở Blyth, Northumberland.
+0	Những đứa trẻ đang chơi đùa thì bị con chó dữ bất ngờ tấn công.
+1	Mới đây, tại một công viên khu vực Blyth, Northumberland, vương quốc Anh, một sự việc hy hữu đã xảy ra khi một con chó dữ đã xông vào cắn và tấn công 14 em nhỏ.
+0	Trang tin Metro của Anh cho biết, con chó lao vào tấn công những đứa trẻ đang chơi đùa trong một công viên ở thị trấn Blyth, hạt Northumberland, Anh.
+0	Sau khi được giải thoát, con chó lao vào cắn những phụ huynh và trẻ em đang vui chơi trong công viên.
+
+0	Cuộc tấn công điên cuồng diễn ra suốt 45 phút và chỉ kết thúc khi cha của một trong những đứa trẻ gặp nạn phát hiện sự việc.
+0	Người này khống chế con chó, đè nó xuống đất chờ cảnh sát đến giải quyết.
+0	Phải đến khi một ông bố phát hiện vụ việc và xông vào ghìm chú chó xuống cho đến khi cảnh sát đến.
+1	Phải đến khi một ông bố phát hiện việc xảy ra tại công viên và xông vào ghìm chú chó xuống, chờ cảnh sát tới giải quyết thì sự việc mới tạm dừng.
+0	Cô Allison nói thêm: "Cuối cùng, một người cha đã nhìn thấy cảnh tượng kinh hoàng xảy ra và chạy nhanh vào trong công viên, nhảy lên con chó.
+0	Ông ấy đã ấn đầu, kìm hãm sự nổi điên của con chó cho đến khi cảnh sát đến.
+0	Cuối cùng, cha của một bé gái nhìn thấy và chạy tới nhảy bổ lên con chó.
+0	Cuối cùng, cha của một bé gái nhìn thấy và chạy tới nhảy bổ lên con chó.
+0	Ông ấy đè nó xuống cho tới khi cảnh sát đến.
+
+1	Các nhân viên y tế phải thiết lập một trạm phân loại tình trạng khẩn cấp ngay tại hiện trường để xử lý các vết thương trên người nạn nhân, rồi mới chuyển đến bệnh viện.
+
+0	9 em nhỏ được đưa tới bệnh viện.
+0	Có tộng cộng 14 đứa trẻ bị thương, 9 bé phải nhập viện nhưng may mắn tất cả đều bị thương không quá nghiêm trọng.
+0	Hầu hết bọn trẻ có mặt đều bị cắn.
+0	9 trên 14 đứa trẻ đã được chuyển tới bệnh viện an toàn.
+0	Ít nhất 9 đứa trẻ đã được đưa tới bệnh viện để điều trị vết thương.
+1	Vụ tấn công trên khiến 14 trẻ em bị thương, 9 trong số đó phải nhập viện nhưng rất may là tất cả chấn thương đều không quá nghiêm trọng.
+
+1	Hiện cảnh sát đang truy tìm chủ nhân của con vật.
+0	Chú chó đã bị khống chế nhưng vẫn chưa tìm được chủ của nó.
+0	Con chó cũng đã được các cảnh sát nhốt lại trong khi chờ tìm ra chủ nhân của nó.
+0	Hiện họ đang tích cực tìm kiếm, xác định chủ sở hữu của con vật này.
+0	Hiện cảnh sát vẫn đang tích cực tìm kiếm, xác định chủ sở hữu của con vật này.
+0	Lực lượng cảnh sát sau đó ở lại khu vực nhằm trấn an cư dân và tìm kiếm chủ của con chó.
+
+0	Con chó bị nhốt vào lồng sắt.
+1	Cảnh sát hạt Northumbria cho biết con chó hung tợn đã bị khống chế.
+0	Cảnh sát Northumbria khẳng định con chó hung dữ đã được kiểm soát, đưa vào trong cũi và có 9 em đã nhập viện.
+
+1	Một bà mẹ đã miêu tả khung cảnh sự việc như một "bãi chiến trường" khi những đứa trẻ bị thương nằm la liệt trên cỏ và chờ sự cấp cứu của y tế.
+0	Một người mẹ có mặt tại hiện trường cho biết cảnh tượng này giống như một cuộc tấn công khủng bố khi những đứa trẻ bị thương nằm la liệt trên bãi cỏ để chờ đội chăm sóc y tế đến.
+
+0	Khi nó xông vào tấn công một đứa trẻ, đám trẻ xông vào nhằm giải cứu nạn nhân đầu tiên.
+0	Tuy nhiên không may, lũ trẻ càng cố gắng giải thoát nạn nhân thì chú chó lại càng hăng lên và quay sang tấn công tất cả.
+0	Theo lời bà, cứ mỗi lần bọn trẻ cố cứu nhau thì lại bị con chó cắn trúng.
+1	Hầu hết bọn trẻ có mặt đều bị cắn do các em cố tìm cách cứu nhau, khiến con chó lại càng nổi điên hơn.
+0	Theo lời cô Allison, cứ mỗi lần bọn trẻ cố cứu nhau thì lại bị con chó cắn trúng.
+0	Con chó hoàn toàn nổi điên.
+
+1	Rất may mắn là không có ai bị thương nặng.
+0	Cảnh sát cũng cho biết không có em nào bị thương nặng.
+
+1	Cả khu phố trở nên hỗn loạn vì đây là lần đầu tiên một sự việc hy hữu như vậy xảy ra.
+0	Cả dãy phố đã thực sự hoảng loạn.
+

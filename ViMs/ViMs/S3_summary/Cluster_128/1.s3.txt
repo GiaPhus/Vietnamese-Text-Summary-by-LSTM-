@@ -1,0 +1,40 @@
+0	Một mẩu cáo phó được đăng bởi vợ của ông và một mẩu bởi… bạn gái lâu năm của ông.
+0	Người đàn ông có tên Leroy B.
+0	Black, sống ở thành phố Egg Harbor, đã qua đời hồi tuần qua sau một thời gian chiến đấu với căn bệnh ung thư phổi ở tuổi 55.
+0	Theo đó, người đàn ông nhận được "vinh hạnh" này là ông Leroy B.
+0	Black, ở New Jersey, Mỹ.
+0	Mới đây, ông đã qua đời ở tuổi 55, vì căn bệnh ung thư phổi.
+0	Sau khi ông mất, thì trên tờ báo địa phương Press of Atlantic City đã đăng tới 2 bản cáo phó cho ông Leroy.
+1	Đài truyền hình NBC News đưa tin câu chuyện khó hiểu này đã xảy ra khi báo The Press of Atlantic City ở bang New Jersey ngày 6.8 đăng hai bản tin cáo phó dành cho ông Leroy Bill Black, 55 tuổi, vừa qua đời.
+0	Theo Mirror, ông Leroy Bill Black, sống ở bang New Jersey (Mỹ) qua đời tại nhà riêng hôm 2/8 ở tuổi 55 sau một thời gian dài chiến đấu với căn bệnh ung thư phổi.
+0	Vào ngày thứ Ba vừa qua (2/8), ông Leroy B.
+0	Black, đến từ quận Egg Harbor, New Jersey, Mỹ đã qua đời vì căn bệnh ung thư phổi.
+0	Ông hưởng dương 55 tuổi.
+
+0	Ở mẩu cáo phó đầu tiên, thông tin về việc ông Black qua đời được “người vợ thương yêu Bearetta Harrison Black” thông báo.
+0	Ở mẩu cáo phó thứ hai, đăng tải ngay sau đó, “bạn gái lâu năm Princess Hall” là người cung cấp thông tin.
+0	Trong quảng cáo của người vợ không nhắc tới người bạn gái, và ngược lại…
+0	Theo thông tin từ bảng cáo phó đầu tiên, ông Black đã qua đời, để lại người vợ thương yêu, Bearetta Harrison Black cùng con trai, Jazz Black.
+1	Bản cáo phó đầu được đăng bởi bà Bearetta Harrison Black là vợ của ông Leroy, với nội dung ông qua đời để lại người vợ thương yêu và con trai Jazz Black.
+0	Ngay sau khi bản cáo phó đầu tiên xuất hiện, thì rất nhiều người ngạc nhiên với bản cáo phó thứ hai cũng có nội dung tương tự.
+0	Tuy nhiên, trên bản cáo phó này tên người vợ đã được thay bằng tên nhiều bạn bè thân thích, đặc biệt nổi bật nhất là dòng chữ in đậm "người tình trăm năm" Princess Hall.
+0	Bản cáo phó đầu tiên nói rằng Leroy Bill Black ra đi để lại người vợ yêu quý Bearetta Harrison Black và con trai Jazz Black.
+0	Cáo phó cho biết Black chết vào ngày 2.8 tại nhà riêng khi có mặt mọi thành viên trong gia đình.
+0	Tuy nhiên, nếu nhìn kỹ, người ta sẽ nhận ra rằng bản cáo phó đầu tiên ghi rõ ông Leroy qua đời "để lại người vợ yêu quý Bearetta Harrison Black", trong khi bản thứ hai cũng có nội dung tương tự nhưng tên người vợ được thay bằng "bạn gái lâu năm Princess Hall".
+
+0	Ngay sau khi người đàn ông này qua đời, nhiều người dân trong khu vực đã tỏ ra vô cùng ngạc nhiên khi thấy có tới 2 bảng cáo phó của ông trên tờ báo địa phương Press of Atlantic City.
+1	Sau cái chết của ông Leroy, tờ báo địa phương Press of Atlantic City đã đăng tới hai bản cáo phó.
+1	Thoạt nhìn qua, người ta tưởng đây là một sự nhầm lẫn, bởi chúng sử dụng một bức ảnh giống hệt, đặt cạnh nhau.
+
+0	Trong khi đó, bảng cáo phó thứ 2, thông tin này có chút khác biệt với cụm từ "người bạn gái lâu năm, Princess Hall".
+1	Bản cáo phó thứ hai cũng thông báo Black qua đời tại nhà riêng nhưng không nhắc gì đến bất kỳ thành viên nào của gia đình ông.
+1	Cáo phó nói Black ra đi, để lại “con trai, các anh chị em ruột, bạn bè và người bạn gái lâu năm Princess Hall”.
+1	Cáo phó cho biết Black qua đời vì bệnh ung thư phổi ở độ tuổi 55.
+
+1	Tờ Philly Voice đưa tin một nhân viên trong nhà tang lễ Greenidge cho biết nguyên nhân dẫn tới việc có tới 2 bảng cáo phó của ông Black là do "người vợ muốn viết thế này, cô nhân tình lại muốn viết thế kia".
+0	Một nhân viên trong nhà tang lễ Greenidge cho biết, người vợ muốn viết thế này, còn cô nhân tình muốn viết thế kia.
+0	Hai người họ không ai chịu ai.
+0	Người nhân viên này còn hài hước nói, “ông ấy thật tốt số, dù đã qua đời nhưng 2 người phụ nữ trong cuộc đời ông vẫn ghen tị, đấu đá nhau để thể hiện tình yêu của mình".
+0	Đại diện nhà tang lễ nói với trang PhillyVoice rằng cả hai bản cáo phó đều được đăng lên báo bởi "người vợ muốn viết kiểu này, còn cô nhân tình lại muốn viết kiểu kia".
+0	Nhiều người cho rằng bà vợ và cô bạn gái chắc hẳn biết rõ về nhau nên mới "không ai nhường ai" như thế này.
+

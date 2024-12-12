@@ -1,0 +1,20 @@
+0	Tối qua (19.5), chương trình ca nhạc - thời trang Thành phố áo dài đã diễn ra với sự góp mặt đông đảo không chỉ các người mẫu, ca sĩ mà còn cả người dân thành phố.
+0	Tối ngày 19/5, Elly Trần tham gia chương trình "Thành phố Áo dài" và được trình làng tại sân khấu là phố đi bộ Nguyễn Huệ.
+1	Tối 19/5, NTK Phạm Đăng Anh Thư lần đầu ra mắt bộ sưu tập áo dài cưới trong khuôn khổ chương trình Thành phố Áo dài và được trình làng tại sân khấu là phố đi bộ Nguyễn Huệ.
+
+1	Xuất hiện tại sàn catwalk với vai trò người mẫu mở màn bộ sưu tập của nhà mốt Phạm Đăng Anh Thư, Elly Trần ghi điểm với khán giả bằng vóc dáng xinh đẹp và gợi cảm dù đã qua hai lần sinh nở.
+0	Cô đảm nhiệm vai trò mở màn cho NTK Phạm Đăng Anh Thư.
+0	Đặc biệt, Ellly Trần rạng rỡ đảm nhận vai trò người mẫu “first face” của bộ sưu tập.
+0	Sự xuất hiện của Elly Trần thu hút sự quan tâm của đông đảo khán giả.
+
+1	Tại chương trình lần này, nữ diễn viên "Khát vọng thượng lưu" catwalk trên phố đi bộ Nguyễn Huệ có chiều dài 800m.
+0	Đây là chương trình đầu tiên có sàn catwalk 800 mét, không có ghế ngồi cho tất cả người dân tham dự, và cũng là hoạt động văn hóa nghệ thuật đầu tiên tại phố đi bộ Nguyễn Huệ.
+0	Tại chương trình lần này, nữ diễn viên Khát vọng thượng lưu catwalk trên phố đi bộ Nguyễn Huệ có chiều dài 800m.
+
+0	Đường catwalk dài kỷ lục này là thử thách cho bất cứ một người mẫu chuyên nghiệp nào khi phải trình diễn trên đôi giày cao gót và di chuyển quãng đường khác xa.
+1	Mặc dù sàn catwalk khá dài và Elly Trần không phải là người mẫu chuyên nghiệp nhưng cô vẫn hoàn thành tốt vai trò first face của mình.
+0	Dù không có nhiều kinh nghiệm trình diễn, Elly Trần vẫn luôn giữ nụ cười rạng rỡ và thần thái tỏa sáng trong quá trình di chuyển.
+
+0	Trong chương trình, "bà mẹ hai con" diện mẫu áo dài xuyên thấu do chính tay NTK Anh Thư đo ni đóng giày cho cô.
+1	Trong chương trình, "bà mẹ hai con" diện mẫu áo dài xuyên thấu do chính tay NTK Anh Thư “đo ni đóng giày”.
+

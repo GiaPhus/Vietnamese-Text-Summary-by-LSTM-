@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Summarization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .input-container, .output-container {
+            margin-bottom: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            resize: vertical;
+        }
+        input[type="range"] {
+            width: 100%;
+            margin: 10px 0;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .output-box {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .output-box pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Text Summarization with LSTM and KMeans</h1>
+        <form method="POST">
+            <div class="input-container">
+                <label for="input_text">Nhập văn bản:</label>
+                <textarea id="input_text" name="input_text" required>{{ input_text }}</textarea>
+                <p>Số câu: {{ sentence_count }}</p>
+                <p>Số chữ: {{ word_count }}</p>
+            </div>
+            <div class="input-container">
+                <label for="top_n">Độ dài của câu tóm tắt từ model LSTM</label>
+                <input 
+                    type="range" 
+                    id="top_n" 
+                    name="top_n" 
+                    min="0" 
+                    max="100" 
+                    value="40" 
+                    step="10" 
+                    oninput="updateSliderValue(this.value)" 
+                    required
+                >
+                <span id="slider_value">40</span>
+            </div>
+            <button type="submit">Tóm tắt</button>
+        </form>
+
+        <div class="output-container">
+            <h3>Tóm tắt bằng LSTM:</h3>
+            <div class="output-box"><pre>{{ summary }}</pre></div>
+            <p>Số câu: {{ summary_count }}</p>
+            <p>Số chữ: {{ words_sum }}</p>
+
+            
+            <h3>Tóm tắt bằng KMeans:</h3>
+            <div class="output-box"><pre>{{ summary_kmeans }}</pre></div>
+            <p>Số câu: {{ words_sum_kmeans }}</p>
+            <p>Số chữ: {{ summary_count_kmeans }}</p>
+
+            <h3>Tóm tắt gốc:</h3>
+            <div class="output-box"><pre>{{ original_summary }}</pre></div>
+            <p>Số câu: {{ origin_summary_sent_count }}</p>
+            <p>Số chữ: {{ words_origin_count }}</p>
+
+            
+            <h3>Điểm ROUGE:</h3>
+            <p>ROUGE-1 (LSTM): {{ rouge1_score_lstm }}</p>
+            <p>ROUGE-2 (LSTM): {{ rouge2_score_lstm }}</p>
+            <p>ROUGE-L (LSTM): {{ rouge_score_lstm }}</p>
+            <p>ROUGE-1 (Kmeans): {{ rouge1_score_kmeans }}</p>
+            <p>ROUGE-2 (Kmeans): {{ rouge2_score_kmeans }}</p>
+            <p>ROUGE-L (Kmeans): {{ rouge_score_kmeans }}</p>
+
+            <h3>So sánh biểu đồ ROUGE:</h3>
+            <img src="data:image/png;base64,{{ img_base64 }}" alt="Biểu đồ ROUGE">
+        </div>
+    </div>
+
+    <script>
+        function updateSliderValue(value) {
+            document.getElementById("slider_value").innerText = value + "%";
+        }
+    
+        window.onload = function() {
+            var slider = document.getElementById("top_n");
+            updateSliderValue(slider.value);
+        };
+    
+        // Cập nhật giá trị khi người dùng kéo thanh trượt
+        const slider = document.getElementById("top_n");
+        const sliderValue = document.getElementById("slider_value");
+    
+        slider.addEventListener("input", function() {
+            sliderValue.textContent = slider.value + "%";  // Cập nhật giá trị hiển thị
+        });
+    </script>
+</body>
+</html>

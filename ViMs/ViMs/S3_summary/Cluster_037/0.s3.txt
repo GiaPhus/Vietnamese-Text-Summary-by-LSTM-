@@ -1,0 +1,27 @@
+0	1. Thiếu thốn xảy ra trên cả nước
+0	Tình trạng thiếu các mặt hàng thiết yếu như giấy vệ sinh, sữa bột trẻ em... đã trở thành “chuyện thường ngày ở huyện” ở Venezuela từ mấy năm nay.
+0	1. Cái gì cũng thiếu
+0	1. Chạm tới giới hạn của sự thiếu thốn
+1	1. Hàng hóa khan hiếm đến mức tồi tệ
+
+1	2. Kinh tế kiệt quệ vì giá dầu
+0	Trong nhiều năm, nền kinh tế nước này trở nên phụ thuộc ngày càng nhiều vào nguồn tài nguyên dầu lửa khổng lồ.
+0	2. Đối mặt nguy cơ sụp đổ vì giá dầu
+0	Thực tế là sự sụp đổ của Venezuela bắt đầu trước khi giá dầu giảm.
+0	Trong nhiều năm qua, Venezuela phụ thuộc hoàn toàn vào trữ lượng dầu quá lớn của mình, chiếm khoảng 96% doanh thu xuất khẩu và phân nửa thu ngân sách liên bang.
+
+0	Tham nhũng đã trở thành vấn nạn kéo dài nhiều thập kỷ trong nền chính trị Venezuela.
+1	Được biết, Venezuela đang là quốc gia có tỷ lệ tham nhũng lớn nhất Nam Mỹ, và đứng thứ 9 trên thế giới.
+0	Từ nhiều thập kỷ nay, tham nhũng đã là vấn đề tại Venezuela.
+0	Theo Tổ chức Minh bạch quốc tế, Venezuela là nước tham nhũng nhất Nam Mỹ và đứng thứ 9 toàn cầu.
+
+1	Tỷ lệ lạm phát được dự báo sẽ lên tới mức 481% vào cuối năm nay và 1.642% vào năm tới.
+0	Quỹ Tiền tệ quốc tế dự báo giá cả sẽ tăng 720% trong năm nay và tăng lên 2.200% năm 2017.
+0	Tỷ lệ phạm tội giết người tại đây cũng cao nhì thế giới.
+0	Lạm phát cũng được dự báo chạm 481% cuối năm và có thể hơn 1.600% năm tới.
+
+0	4. Thay đổi chính trị?
+0	3. Chính trị và các vấn đề dài hạn
+1	4. Thay đổi người đứng đầu
+0	4. Tổng thống ngày càng mất uy tín
+

@@ -1,0 +1,13 @@
+Title: Một ngân hàng Ecuador bị hack 12 triệu USD
+Source:
+Link: http://vnreview.vn/tin-tuc-an-ninh-mang/-/view_content/content/1838075/mot-ngan-hang-ecuador-bi-hack-12-trieu-usd
+Published Date: Thứ Bẩy, ngày 21/05/2016 10:13 GMT +7
+Author: Gia Lộc
+Tags: tpbank, tpbank bị hack
+Summary: Tội phạm mạng đã đánh cắp khoảng 12 triệu USD từ một ngân hàng Ecuador trong một cuộc tấn công vào năm 2015. Vụ việc này có khá nhiều điểm giống với vụ tấn công tại Ngân hàng Trung ương Bangladesh và Ngân hàng TPBank của Việt Nam.
+Content:
+Theo tin trên Reuters, vừa qua Ngân hàng Banco del Austro (Ecuador) đã tiết lộ điều này trong một vụ kiện ở New York với Ngân hàng Wells Fargo & Co (Mỹ). Phía ngân hàng Ecuador cho rằng tin tặc đã có được mã ngân hàng sử dụng để chuyển tiền qua hệ thống SWIFT, và sử dụng chúng để chuyển tiền tới Ngân hàng Wells Fargo & Co.
+"Nhiều cuộc tấn công đã xảy ra từ 15 tháng trước đó", người phát ngôn của SWIFT nói với Reuters, tuy nhiên SWIFT chỉ mới phát hiện ra các cuộc tấn công này. Các ngân hàng đã không chia sẻ chi tiết về các cuộc tấn công với SWIFT. Trong khi đó đại diện của Wells Fargo chưa đưa ra bất cứ bình luận nào về vụ việc kể trên.
+Trước đó, Ngân hàng TPBank đã thông báo ngăn chặn được một vụ chuyển tiền "đáng ngờ" trị giá 1 triệu euro (1,1 triệu USD) vào cuối năm ngoái. Vụ chuyển tiền này được thực hiện thông qua một dịch vụ của bên thứ ba mà ngân hàng này sử dụng để kết nối với hệ thống SWIFT. Hồi tháng Hai, Ngân hàng Trung ương Bangladesh cũng bị đánh cắp 81 triệu USD và suýt mất gần 1 tỉ USD - một may mắn hãn hữu do hacker vô tình bị sai chính tả trong lệnh chuyển tiền.
+Việc mất an toàn thông tin trong lĩnh vực ngân hàng đang xảy ra với tần suất ngày càng nhiều, hàng loạt sự cố liên quan đến bảo mật ngân hàng đã gây rúng động toàn cầu. Nhưng điều đáng nói là, các ngân hàng có xu hướng "im lặng" tự giải quyết sự cố.
+"Chúng tôi đã cảnh báo các ngân hàng rằng họ phải thực hiện đúng trách nhiệm của mình, đó là phải thông báo cho SWIFT khi phát hiện thấy những sự cố đáng ngờ xảy ra trong kết nối giữa ngân hàng và SWIFT," người đại diện của SWIFT tuyên bố vào hôm thứ Sáu. "Chúng tôi đang cố gắng để tăng cường hỗ trợ các ngân hàng để đảm bảo kết nối an toàn trong hệ thống SWIFT".
