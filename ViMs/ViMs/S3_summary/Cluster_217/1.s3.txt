@@ -1,0 +1,25 @@
+0	Thông tin từ Vietjet cho biết, đường bay TPHCM-Kuala Lumpur được khai thác hàng ngày với thời gian bay khoảng 1 giờ 55 phút.
+0	Chuyến bay khởi hành từ TPHCM lúc 9 giờ 30 (giờ địa phương) và đến Kuala Lumpur lúc 12 giờ 25 (giờ địa phương).
+0	Chiều ngược lại khởi hành lúc 13 giờ (giờ địa phương) từ Kuala Lumpur và tới TPHCM lúc 13 giờ 55 (giờ địa phương).
+1	Đường bay TPHCM-Kuala Lumpur được khai thác hằng ngày, thời gian bay khoảng 1 giờ 55 phút.
+1	Chuyến bay sẽ khởi hành từ TPHCM lúc 9h30’ và đến Kuala Lumpur lúc 12h25’ (giờ địa phương).
+1	Chiều ngược lại khởi hành lúc 13h00’ (giờ địa phương) từ Kuala Lumpur và tới TPHCM vào lúc 13h55’.
+0	Đường bay TP.HCM – Kuala Lumpur được khai thác hàng ngày, thời gian bay khoảng 1 giờ 55 phút.
+0	Chuyến bay sẽ khởi hành từ TP.HCM lúc 9h30 và đến Kuala Lumpur lúc 12h25 (giờ địa phương).
+0	Chiều ngược lại khởi hành lúc 13h00 (giờ địa phương) từ Kuala Lumpur và tới TP.HCM lúc 13h55 (giờ địa phương).
+
+0	Phát biểu tại buổi lễ khai trương đường bay tại sân bay Kuala Lumpur, Phó thủ tướng Việt Nam Trịnh Đình Dũng nhấn mạnh đường bay sẽ đáp ứng nhu cầu di chuyển, du lịch của người dân hai nước, đồng thời góp phần thúc đẩy giao thương và hội nhập toàn cầu.
+0	Cùng tham dự lễ khai trương còn có nguyên Ủy viên Bộ Chính trị, Phó Thủ tướng Trương Vĩnh Trọng, Đại sứ Việt Nam tại Malaysia và Đại sứ Malaysia tại Việt Nam.
+1	Phát biểu tại buổi khai trương, Ủy viên Trung ương Đảng, Phó Thủ tướng Chính Phủ Trịnh Đình Dũng đánh giá cao quyết tâm của Vietjet – một hãng hàng không thế hệ mới trong việc tạo ra cầu nối giữa Việt Nam và Malaysia.
+
+0	Chào đón sự kiện trên, VietJet công bố 3 ngày vàng siêu khuyến mại 31/5 và 1, 2/6 với hàng trăm nghìn vé tiết kiệm giá từ 0 đồng vào khung giờ vàng 12h-14h, áp dụng trên tất cả đường bay trong nước và quốc tế đến Malaysia, Singapore, Hàn Quốc, Đài Loan, Thái Lan và Myanmar cho thời gian bay từ 15/8 đến 31/12 (trừ các ngày lễ, Tết).
+0	Chào đón sự kiện trên, Vietjet công bố 3 ngày vàng siêu khuyến mại 31/5 và 1,2/6/2016 với hàng trăm nghìn vé tiết kiệm giá từ 0 đồng vào khung giờ vàng 12h – 14h, áp dụng trên tất cả đường bay trong nước và quốc tế đến Malaysia, Singapore, Hàn Quốc, Đài Loan, Thái Lan và Myanmar cho thời gian bay từ 15/8 đến 31/12/2016 (trừ các ngày lễ tết).
+1	Chào đón sự kiện trên, Vietjet công bố 3 ngày vàng siêu khuyến mại 31/5 và 01,02/6/2016 với hàng trăm nghìn vé tiết kiệm giá từ 0 đồng vào khung giờ vàng 12h – 14h, áp dụng trên tất cả đường bay trong nước và quốc tế đến Malaysia, Singapore, Hàn Quốc, Đài Loan, Thái Lan và Myanmar cho thời gian bay từ 15/8 đến 31/12/2016 (trừ các ngày lễ tết).
+
+0	Hiện tại, Vietjet đang khai thác 37 tàu bay A320 và A321, thực hiện gần 250 chuyến bay mỗi ngày và đã vận chuyển xấp xỉ 25 triệu lượt hành khách, với gần 50 đường bay phủ khắp các điểm đến tại Việt Nam và các đường bay quốc tế đến Singapore, Hàn Quốc, Đài Loan, Trung Quốc, Thái Lan, Myanmar và Malaysia.
+1	Vietjet hiện đang khai thác 36 máy bay A320 và A321, thực hiện gần 250 chuyến bay mỗi ngày, với gần 50 đường bay phủ khắp các thành phố lớn tại Việt Nam và các đường bay quốc tế đến Singapore, Hàn Quốc, Đài Loan, Trung Quốc, Thái Lan, Myanmar và Malaysia.
+
+1	Với giờ bay thuận tiện, dịch vụ chất lượng, giá vé hấp dẫn, đường bay đáp ứng nhu cầu di chuyển, du lịch của người dân 2 nước, góp phần thúc đẩy giao thương và hội nhập toàn cầu.
+
+1	Vietjet tưng bừng khai trương đường bay TP.HCM – Kuala Lumpur tại thủ đô Kuala Lumpur (Malaysia).
+

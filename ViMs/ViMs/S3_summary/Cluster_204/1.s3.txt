@@ -1,0 +1,33 @@
+0	Vào khoảng thời gian trên, xe ô tô 4 chỗ mang BKS: 51F- 373.98 lưu thông trên đường Bạch Đằng theo hướng từ ngã năm Nguyễn Thái Sơn về sân bay Tân Sơn Nhất.
+0	Khi lưu thông qua công viên Gia Định (thuộc phường 2, quận Tân Bình, Tp.HCM) do tránh xe máy lưu thông cùng chiều đã đâm vào bên hông xe taxi mang BKS: 51A- 743.78.
+0	Cú đâm mạnh làm xe taxi mất lái quay ngang đường.
+0	Theo quán tính xe ô tô 4 chỗ tiếp tục lao đi và đâm vào 1 xe taxi khác mang BKS: 51A- 038.18 lưu thông ở chiều ngược lại.
+0	Thời điểm trên, xe ô tô 4 chỗ BS: 51F - 373.89 chạy với tốc độ nhanh trên đường Bạch Đằng, hướng từ Q.Gò Vấp về sân bay Tân Sơn Nhất.
+1	Theo thông tin ban đầu, khoảng 6h30 ngày 1/6, xe ô tô 4 chỗ BKS: 51F – 373.89 lưu thông trên đường Bạch Đằng (quận Tân Bình, TP HCM), hướng từ quận Gò Vấp về sân bay Tân Sơn Nhất với tốc độ cao.
+0	Vụ tai nạn xảy ra vào sáng nay (1.6) trên đường Bạch Đằng (phường 2, quận Tân Bình, TP.HCM).
+
+0	Vụ tai nạn khiến xe ô tô bốn chỗ bị nát đầu, nổ bánh trước bên trái.
+0	Taxi hãng Vinasun cũng bị gãy rời bánh sau.
+0	Tại hiện trường, ô tô 4 chỗ bị bể bánh trước bên trái, phần đầu bị hư hỏng nặng.
+0	Riêng xe taxi hãng Vinasun bị gãy rời bánh sau và thời điểm xảy ra tai nạn trên xe này có 4 hành khách nhưng may mắn không có thương vong về người.
+0	Tại hiện trường, chiếc xe ô tô 4 chỗ và 2 xe taxi nằm chắn ngang giữa đường, đều bị hư hỏng nặng.
+0	Rất may vụ tai nạn liên hoàn không gây thương tích về người, tuy nhiên do vụ việc xảy ra vào giờ cao điểm khiến giao thông trên đường Bạch Đằng mới bị ùn tắc.
+1	Tại hiện trường, xe ô tô 4 chỗ bị nát đầu, bể bánh trước bên trái, còn xe taxi Vinasun gãy rời bánh sau, rất may không có thương vong về người.
+1	Tuy nhiên, vụ tai nạn liên hoàn khiến nhiều hành khách trên 2 xe taxi hoảng loạn.
+
+1	Theo lý giải của tài xế ô tô bốn chỗ, nguyên nhân dẫn đến sự cố là do né một thanh niên đi xe máy chạy cắt ngang đường dẫn đến mất kiểm soát gây ra tai nạn.
+0	“Khi thấy chiếc xe đột ngột lao tới, theo phản xạ, tôi vội đánh lái để né nên may mắn xe chỉ bị tông ở phần hông và bánh sau.
+0	Nếu không xử lý kịp thì không biết hậu quả thế nào” – tài xế taxi kể.
+0	Theo tài xế xe ô tô 4 chỗ, do tránh thanh niên niên đi xe máy cắt ngang đường dẫn đến mất tay lái và xảy ra tai nạn.
+0	Trao đổi với PV, tài xế xe 4 chỗ lý giải, do tránh một thanh niên chạy xe máy cắt qua đường nên mất kiểm soát và gây ra tai nạn.
+
+1	Đến 8h30, hiện trường vụ tai nạn vẫn đang được công an xử lý.
+
+0	Qua khỏi vòng xoay ngã năm Gò Vấp khoảng 300m, chiếc xe này bất ngờ lao sang làn đường ngược lại, tông mạnh vào hông xe taxi hãng Vinasun khiến chiếc xe quay ngang và bị xe taxi hãng Đầm Sen chạy cùng chiều đâm vào.
+1	Khi qua vòng xoay ngã 5 Gò Vấp khoảng 300 mét, phương tiện này bất ngờ lao sang phần đường ngược chiều, tông vào hông của xe taxi hãng Vinasun.
+1	Cú đâm mạnh khiến xe taxi xoay ngang giữa đường.
+1	Cùng lúc này, xe taxi hãng Đầm Sen từ phía sau không xử lý kịp tình huống đã tông vào xe Vinasun.
+0	Thông tin ban đầu, vào khoảng 6h30 sáng nay, ô tô bốn chỗ BKS 51F-373.89 lưu thông trên đường Bạch Đằng hướng từ Gò Vấp về sân bay Tân Sơn Nhất.
+0	Khi vừa qua khỏi vòng xoay ngã 5 Gò Vấp khoảng 300m, xe này lao sang làn đường ngược lại và đâm cực mạnh vào hông xe taxi hãng Vinasun.
+0	Cú đâm mạnh khiến xe taxi quay ngang và bị xe taxi hãng Đầm Sen chạy cùng chiều lao tới đâm vào.
+

@@ -1,0 +1,61 @@
+0	24h qua, ở các tỉnh Tây Bắc và Việt Bắc Bắc Bộ; khu vực Tây Nguyên và Nam Bộ đã có mưa vừa, mưa to và rải rác có dông.
+0	Dự báo, trong sáng và đêm nay (24/5) ở các tỉnh Tây Bắc, Việt Bắc của Bắc Bộ còn có mưa, có nơi mưa vừa, mưa to và dông.
+1	Phía Tây Bắc Bộ nhiều mây, có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+0	Phía tây Bắc Bộ: Đêm và sáng có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+0	Theo Trung tâm Dự báo Khí tượng Thủy văn Trung ương 24h qua, ở các tỉnh Tây Bắc và Việt Bắc Bắc Bộ; khu vực Tây Nguyên và Nam Bộ đã có mưa vừa, mưa to và rải rác có dông.
+0	Theo dự báo của Trung tâm khí tượng và thủy văn Trung ương, các tỉnh phía Tây Bắc Bộ nhiều mây, có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+
+1	Ngoài ra khu vực Bắc Biển Đông (bao gồm cả quần đảo Hoàng Sa) có mưa rào và dông, trong cơn dông có khả năng cao xuất hiện lốc xoáy và gió giật mạnh.
+0	Ngoài ra trong ngày hôm nay (23/05), khu vực Bắc Biển Đông (bao gồm cả quần đảo Hoàng Sa) có mưa rào và dông, trong cơn dông có khả năng cao xuất hiện lốc xoáy và gió giật mạnh.
+
+0	Phía Đông Bắc Bộ nhiều mây, ngày có mưa rào và dông vài nơi, riêng vùng núi có mưa, mưa rào rải rác và có nơi có dông; đêm có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+1	Phía đông Bắc Bộ: Đêm và sáng sớm có mưa, có nơi mưa vừa, mưa to và rải rác có dông, sau có mưa, mưa rào rải rác.
+
+0	Khu vực Hà Nội nhiều mây, ngày có mưa rào và dông vài nơi, đêm có mưa rào và rải rác có dông.
+1	Thủ đô Hà Nội: Có mưa rào và dông vài nơi.
+0	Phía Đông Bắc Bộ nhiều mây, ngày có mưa rào và dông vài nơi, riên vùng núi có mưa, mưa rào rải rác và có nơi có dông; đêm có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+0	Thời tiết Hà Nội nhiều mây, ngày có mưa rào và dông vài nơi, đêm có mưa rào và rải rác có dông.
+
+1	Thanh Hóa – Thừa Thiên Huế mây thay đổi, có mưa rào và dông vài nơi.
+0	Các tỉnh từ Thanh Hóa - Thừa Thiên Huế: Có mưa rào và dông vài nơi; riêng phía Bắc đêm và sáng sớm có mưa, có nơi mưa vừa và rải rác có dông.
+0	Đến trưa chiều mưa giảm dần, Hà Giang, Lào Cai, Điện Biên Phủ, Hà Nội xuống đến Thanh Hóa, Vinh, Hà Tĩnh không nơi nào quá 31 độ C.
+0	Từ Quảng Bình xuống Bình Thuận nằm ngoài vùng mây dông nên trời có nắng, nhiệt độ cao nhất tại Huế, Đồng Hới 31-32 độ C.
+0	Các tỉnh từ Thanh Hóa - Thừa Thiên Huế mây thay đổi, có mưa rào và dông vài nơi.
+
+1	Đà Nẵng đến Bình Thuận mây thay đổi, ngày nắng, chiều tối và đêm có mưa rào và dông vài nơi.
+0	Các tỉnh từ Đà Nẵng đến Bình Thuận: Ngày nắng, chiều tối và đêm có mưa rào và dông vài nơi.
+0	Thành phố Đà Nẵng, Quy Nhơn, Nha Trang và Phan Thiết cường độ nắng đều và mạnh hơn, nhiệt độ 33-35 độ C, trời nóng.
+
+0	Gió tây nam cấp 2-3.
+1	Sau 15h gió Tây Nam hoạt động mạnh khiến cả 2 khu vực đều có mưa diện rộng, có nhiều nơi mưa vừa, mưa to, kèm các hiện tượng thời tiết cực đoan như tố lốc và gió giật mạnh.
+
+0	Tin tức thời tiết từ Trung tâm Dự báo Khí tượng Thủy văn Trung ương cho biết, 24h qua, ở các tỉnh Tây Bắc và Việt Bắc Bắc Bộ; khu vực Tây Nguyên và Nam Bộ đã có mưa vừa, mưa to và rải rác có dông, một số nơi có lượng mưa lớn như Sapa (Lào Cai) 83mm, Tam Đường (Lai Châu) 55mm, Yên Bái 66mm, Eahleo (Đắc Lắc) 121mm...
+1	Theo Trung tâm Dự báo khí tượng thủy văn trung ương, do ảnh hưởng của hội tụ gió trên cao nên ngày 23/5 ở phía Tây Bắc Bộ tiếp tục có mưa rào và rải rác có dông; từ đêm 23/5, do ảnh hưởng của hội tụ gió trên cao kết hợp với rãnh áp thấp bị nén nên ở Bắc Bộ và Bắc Trung Bộ có khả năng xảy ra mưa dông diện rộng, một số nơi có mưa vừa đến mưa to.
+
+0	Trên biển, do ảnh hưởng của gió mùa Tây Nam đang hoạt động mạnh dần nên khu vực vùng biển từ Bình Thuận đến Cà Mau, Cà Mau đến Kiên Giang, vịnh Thái Lan và khu vực Nam Biển Đông (bao gồm cả quần đảo Trường Sa) có mưa dông mạnh, tại Côn Đảo (Bà Rịa -Vũng Tàu) đã có gió giật mạnh cấp 7.
+0	Trong 2-3 ngày tới, khu vực Nam Biển Đông (bao gồm cả vùng biển quần đảo Trường Sa), vùng biển từ Bình Thuận đến Cà Mau, Cà Mau đến Kiên Giang và vịnh Thái Lan tiếp tục có mưa dông mạnh.
+0	Ở vịnh Thái Lan, vùng biển Cà Mau đến Kiên Giang (bao gồm các đảo Phú Quốc, Thổ Chu), vùng biển từ Bình Thuận đến Cà Mau, khu vực phía Nam Biển Đông (bao gồm cả vùng biển quần đảo Trường Sa) có gió Tây Nam mạnh cấp 4, cấp 5, có lúc cấp 6, giật cấp 7, biển động.
+0	Cấp độ rủi ro thiên tai cấp 1.
+0	Ở vịnh Thái Lan, vùng biển Cà Mau đến Kiên Giang (bao gồm các đảo Phú Quốc, Thổ Chu), vùng biển từ Bình Thuận đến Cà Mau, khu vực phía Nam Biển Đông (bao gồm cả vùng biển quần đảo Trường Sa) có gió Tây Nam mạnh cấp 4, cấp 5, có lúc cấp 6, giật cấp 7, biển động.
+0	Thành phố Hồ Chí Minh, Vũng Tàu, Cần Thơ, Cà Mau trời khá nóng khi nhiệt độ cao nhất 33-34 độ C.
+0	Trên biển, vùng biển từ Bình Thuận đến Cà Mau, Cà Mau đến Kiên Giang, các đảo Phú Quốc và Thổ Chu ra đến ngoài khơi huyện đảo Trường Sa có mưa dông kèm theo cảnh báo lốc xoáy, gió có lúc cấp 6, giật cấp 7, biển động.
+0	Hiện nay (23/05): Do ảnh hưởng của gió mùa Tây Nam đang hoạt động mạnh dần nên khu vực vùng biển từ Bình Thuận- Cà Mau, Cà Mau - Kiên Giang, vịnh Thái Lan và khu vực Nam biển Đông (bao gồm cả quần đảo Trường Sa) có mưa dông mạnh.
+0	Dự báo trong 2-3 ngày tới khu vực Nam biển Đông (bao gồm cả quần đảo Trường Sa), vùng biển từ Bình Thuận-Cà Mau, Cà Mau-Kiên Giang và vịnh Thái Lan tiếp tục có mưa dông mạnh.
+0	Từ ngày 23-25/5, ở Vịnh Thái Lan, vùng biển Cà Mau-Kiên Giang (bao gồm các đảo Phú Quốc, Thổ Chu), vùng biển từ Bình Thuận đến Cà Mau, vùng biển phía Nam biển Đông (bao gồm cả quần đảo Trường Sa), có gió Tây Nam mạnh cấp 4-5, giật cấp 6-7.
+1	Cũng theo dự báo từ Trung tâm Dự báo khí tượng thủy văn trung ương, hiện nay (23/5), do ảnh hưởng của gió mùa Tây Nam đang hoạt động mạnh dần nên khu vực vùng biển từ Bình Thuận-Cà Mau, Cà Mau-Kiên Giang, vịnh Thái Lan và khu vực Nam Biển Đông (bao gồm cả quần đảo Trường Sa) có mưa dông mạnh, ở Côn Đảo đã có gió giật mạnh cấp 7.
+0	Dự bá trong 2-3 ngày tới khu vực Nam Biển Đông (bao gồm cả quần đảo Trường Sa), vùng biển từ Bình Thuận-Cà Mau, Cà Mau-Kiên Giang và vịnh Thái Lan tiếp tục có mưa dông mạnh.
+0	Từ ngày 23-25/5, ở vịnh Thái Lan, vùng biển Cà Mau-Kiên Giang (bao gồm các đảo Phú Quốc, Thổ Chu), vùng biển từ Bình Thuận đến Cà Mau, vùng biển phía Nam Biển Đông (bao gồm cả quần đảo Trường Sa) có gió Tây Nam mạnh cấp 4-5, có lúc cấp 6, giật cấp 7, biển động.
+
+0	Khu vực Tây Nguyên và Nam Bộ trong 2-3 ngày tới tiếp tục có mưa, mưa vừa, có nơi mưa to và rải rác có dông.
+0	Khu vực Tây Nguyên: Ngày có mưa rào và dông vài nơi, chiều tối và đêm có mưa, mưa vừa, có nơi mưa to và rải rác có dông.
+0	Khu vực Tây Nguyên đã có mưa vừa, mưa to và rải rác có dông, một số nơi có lượng mưa lớn như Eahleo (Đắk Lắk) 121mm… giúp giải nhiệt cho diện tích cà phê đang thiếu nước do khô hạn.
+1	Dự báo trong 2-3 ngày tới Tây Nguyên và Nam Bộ tiếp tục có mưa, mưa vừa, có nơi mưa to và rải rác có dông.
+0	Tây Nguyên và Nam Bộ ban ngày nắng, mưa đan xen, nhiệt độ 30-31 độ C.
+0	Khu vực Tây Nguyên mây thay đổi, ngày có mưa rào và dông vài nơi, chiều tối và đêm có mưa, có nơi mưa vừa, mưa to và rải rác có dông.
+0	Do ảnh hưởng của gió mùa Tây Nam đang hoạt động mạnh dần lên do đó trong 2-3 ngày tới ở Nam Bộ và Tây Nguyên có mưa, mưa vừa, có nơi mưa to và rải rác có dông.
+
+1	Ngày 24/5, các tỉnh Bắc Bộ và Bắc Trung Bộ buổi sáng mây dông dày đặc khiến mưa dông tiếp diễn, nhiệt độ không quá 26 độ C, trời mát.
+0	Dự báo trong sáng và đêm nay 24/5 ở Bắc Bộ dự báo có mưa, có nơi mưa vừa, mưa to và dông.
+
+1	Huyện đảo Hoàng Sa thời tiết trong xu hướng tốt hơn hơn khi mưa dông chỉ còn rải rác và có gió nhẹ.
+

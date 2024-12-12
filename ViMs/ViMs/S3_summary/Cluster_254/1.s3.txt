@@ -1,0 +1,14 @@
+0	Tờ Telegraph vừa xếp hạng 16 thành phố có nền ẩm thực ngon và phong phú nhất thế giới.
+0	Hà Nội đứng đầu danh sách với một loạt những món ăn ngon và hấp dẫn.
+1	Theo Telegraph, Hà Nội đứng đầu danh sách 16 thành phố có ẩm thực ngon nhất thế giới.
+0	Mới đây, tờ Telegraph (Anh) có bài viết giới thiệu về Top các thành phố có nền ẩm thực ấn tượng nhất thế giới.
+0	Trong đó, thủ đô Hà Nội của Việt Nam đứng ở vị trí đầu tiên.
+
+0	Các món được nêu ra có bún chả, phở, bánh mì pate ăn kèm dưa chuột rau thơm, cơm tấm với thịt lợn nướng...
+1	Các món ăn như phở, bánh mì, cơm tấm với thịt lợn nướng, cafe trứng... là những món ăn Telegraph gợi ý độc giả nên thưởng thức khi ghé thăm Hà Nội.
+0	Telegraph còn tư vấn du khách nên ăn giống như cách người dân địa phương thưởng thức ẩm thực và thử nếm những món ăn đường phố như: Bún chả; phở; bánh mỳ kẹp với pa tê, dưa chuột, rau thơm… và sẽ tuyệt hơn nếu du khách kết thúc bữa ăn với cốc café truyền thống hoặc café trứng – một sự pha trộn độc đáo giữa café và trứng gà.
+0	Ngoài ra, Telegraph không quên gợi ý độc giả một số món ăn hấp dẫn khác ở Hà Nội như bánh mỳ kèm pate, dưa chuột, rau thơm, hành tây giòn với ớt,; phở hay café trứng.
+0	Telegraph khuyên du khách thử nếm những món ăn đường phố như: Bún chả; phở; bánh mỳ kẹp với pa tê, dưa chuột, rau thơm… và sẽ tuyệt hơn nếu du khách kết thúc bữa ăn với cốc café truyền thống hoặc café trứng – một sự pha trộn độc đáo giữa café và trứng gà.
+
+0	Không giống với bất kì nơi đâu, bánh mì ở Hà Nội có thể đáp ứng khẩu vị của mọi du khách với dưa chuột, thịt nướng, tương ớt...
+

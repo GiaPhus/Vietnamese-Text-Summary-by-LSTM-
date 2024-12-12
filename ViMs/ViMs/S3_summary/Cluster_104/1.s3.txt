@@ -1,0 +1,36 @@
+1	Thông tin ban đầu, khoảng 17 giờ 30 chiều 7-8, xe ben BS: 51C-642.38, lưu thông trên cầu Phú Mỹ theo hướng từ Q.7 về vòng xoay Mỹ Thủy (Q.2).
+1	Trong lúc đang đổ dốc cầu, mưa và đường trơn khiến xe ben mất lái húc văng dải phân cách bê tông của làn xe máy, lao vào húc đổ một đoạn lan can sắt.
+0	Trước đó, khoảng 17h cùng ngày, trong cơn mưa khá lớn, chiếc xe ben (loại 15 tấn) mang BKS: 51C - 642.38 (chưa rõ danh tính tài xế) đang đổ dốc cầu hướng từ quận 7 đi quận 2, với tốc độ nhanh thì chao đảo rồi lật nhào.
+0	Tài xế bị thương nặng được người dân đưa đi cấp cứu tại bệnh viện.
+0	17h, trời mưa lớn, xe ben loại 15 tấn BKS 51C-642.38 lưu thông trên cầu Phú Mỹ hướng từ quận 7 về quận 2, khi đổ gần hết dốc cầu (thuộc phường Cát Lái, quận 2), mất kiểm soát cày nát dải phân cách trước khi lao sang làn đường xe hai bánh.
+0	Chiếc xe tiếp tục chao đảo lao đi khoảng 15m rồi lật ngang trên làn đường xe máy, hàng chục người đang lưu thông trên làn đường này thoát chết trong gang tấc.
+0	Theo thông tin ban đầu, khoảng 17g chiều 7-8, khi đang xuống dốc cầu Phú Mỹ, hướng Q.7 về Q.2, TP.HCM, một chiếc xe chao đảo, lao lên dải phân cách, rồi lật xuống làn đường xe máy.
+0	Theo thông tin ban đầu, khoảng 17h ngày 7/8, khi đang xuống dốc cầu Phú Mỹ, hướng Quận 7 về Quận 2, TP.HCM, một chiếc xe tải chao đảo, lao lên dải phân cách rồi lật xuống làn đường xe máy.
+0	Tài xế bị thương đã được người dân đưa đi cấp cứu.
+
+0	Cú va chạm mạnh làm xe ben lật ngang, xoay 180 độ.
+0	Tài xế được mọi người đưa đi bệnh viện cấp cứu.
+0	Tại hiện trường, nhiều phiến bê tông của dải phân cách đổ sập.
+0	Chiếc xe ben biến dạng hoàn toàn, nhiều chi tiết của xe văng tung tóe trên làn đường dành cho xe máy.
+1	Tại hiện trường, chiếc xe tải nằm chắn ngang toàn bộ phần đường xe máy, nhiều lan can cầu bằng sắt ngã đổ, hàng loạt dải bê tông dải phân cách cũng bị vỡ, văng tung tóe.
+1	Vụ việc khiến giao thông bị cản trở nghiêm trọng.
+0	Hàng chục người đi đường thoát chết khi chiếc xe ben lật ngang dưới dốc cầu Phú Mỹ, quận 2, TP.HCM vào chiều 7.8.
+0	Tại hiện trường, xe tải nằm chắn ngang toàn bộ phần đường xe máy, nhiều đoạn dải phân cách bị hất văng.
+0	Giao thông bị tắc nghẽn nghiêm trọng.
+0	Tại hiện trường, chiếc xe tải nằm chắn ngang toàn bộ phần đường xe máy, nhiều lan can cầu bằng sắt bị ngã đổ, hàng loạt dải bê tông phân cách cũng bị vỡ khiến giao thông bị cản trở.
+0	Đến 19h cùng ngày, hiện trường vụ lật xe mới được giải quyết xong.
+0	Nguyên nhân vụ tai nạn đang được cơ quan chức năng điều tra làm rõ.
+
+1	Sự cố khiến tài xế xe ben bị bất tỉnh được người dân đưa đi bệnh viện cấp cứu.
+0	Tài xế bị thương được người dân đưa đi cấp cứu.
+
+0	Đến hơn 19h cùng ngày, hiện trường vụ tai nạn vẫn chưa được xử lý xong, giao thông qua đây bị ùn ứ.
+1	Đến 21 giờ 30 tối cùng ngày, hiện trường được giải tỏa.
+0	Đến 19h đêm 7/8, hiện trường chiếc xe tải nặng loại 15 tấn lật nằm chắn giữa cầu Phú Mỹ, quận 2, TP HCM vẫn đang được lực lượng CSGT quận 2 giải quyết.
+
+1	Nhận được tin báo, lực lượng sở tại có mặt ghi nhận sự việc.
+1	Đội CSGT Nam Sài Gòn được điều động đến phong tỏa làn đường xe máy lên cầu Phú Mỹ.
+1	Xe cứu hộ cũng có mặt để khắc phục sự cố và di dời phương tiện bị nạn.
+0	Nhận được thông tin, lực lượng chức năng đã có mặt để điều tiết giao thông, xử lý hiện trường.
+0	Đến khoảng 20g, hiện trường được giải tỏa.
+

@@ -1,0 +1,23 @@
+0	Theo hãng thông tấn Yonhap News, vụ việc xảy ra vào khoảng 14h30 (giờ địa phương) tại căn cứ Carroll, cách thủ đô Seoul khoảng 300km về phía đông nam.
+0	Theo hãng tin AP, các vụ nổ xảy ra tại căn cứ quân sự Mỹ Camp Carroll, cách thủ đô Seoul khoảng 280 km về phía Đông Nam.
+0	Trong khi đó, quân đội Mỹ chỉ thông báo rằng có một vụ nổ khoang chứa oxy xảy ra, còn không nêu rõ số khoang chứa phát nổ.
+0	Giới chức địa phương cho hay, 18 xe cứu hỏa đã được huy động để dập tắt đám cháy trong vòng chưa đầy một tiếng đồng hồ.
+0	Vụ nổ xảy ra tại căn cứ Carroll của quân đội Mỹ, cách thủ đô Seoul của Hàn Quốc 280 km về phía đông nam.
+0	Sau khoảng 30 phút, lực lượng PCCC đã khống chế được ngọn lửa.
+0	Truyền thông Hàn Quốc đăng tải chùm ảnh tòa nhà này bị lửa táp cháy xém do nằm gần 1 trong các bình oxy phát nổ.
+1	Cơ quan cứu hỏa cho hay, nguyên nhân vụ việc có thể do nổ khoang chứa oxy tại căn cứ.
+
+0	Hiện chưa có thông tin gì về thương vong.
+0	Những đám cháy này nhanh chóng được dập tắt nhưng chưa có thống kê thiệt hại.
+0	Hiện chưa có báo cáo về thương vong.
+1	Hiện chưa có thông tin về thương vong và thiệt hại do vụ nổ gây ra.
+0	Hiện chưa ghi nhận về thương vong trong vụ hỏa hoạn này.
+
+1	Hãng thông tấn Yonhap của Hàn Quốc ngày 19/5 đưa tin, đã xảy ra các vụ nổ khí ga kèm theo cháy tại căn cứ quân sự của Mỹ ở khu vực Đông Nam Hàn Quốc.
+0	Theo giới chức địa phương, 15 đơn vị chữa cháy đã được điều tới hiện trường chỉ 30 phút sau khi vụ việc xảy ra.
+0	Các vụ nổ khí ni-tơ và oxy được cho là nguyên nhân gây cháy.
+0	Sở cứu hỏa Chilgok đã khẩn trương điều 15 xe cứu hỏa tới hiện trường.
+
+0	Các quan chức tại sở cứu hỏa nơi xảy ra vụ việc cho biết họ đã điều 18 xe cứu hỏa tới hiện trường và dập tắt đám cháy trong vòng chưa đầy một giờ đồng hồ.
+1	18 xe cứu hỏa được điều tới hiện trường, dập tắt đám cháy trong vòng chưa đầy 1 giờ.
+

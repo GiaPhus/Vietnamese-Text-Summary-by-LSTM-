@@ -1,0 +1,32 @@
+0	Tất cả 134 người trên khoang, bao gồm cả phi hành đoàn, đã được sơ tán, sau khi người ta tìm thấy một lời nhắn đe dọa đánh bom trên máy bay ngay trước lúc nó cất cánh, Reuters dẫn lời phát ngôn viên hãng hàng không cho biết.
+0	Phi cơ đang chuẩn bị cho hành trình từ sân bay Ataturk, Istanbul, đi Kayseri.
+0	Theo người phát ngôn trên, toàn bộ 134 người trên máy bay, bao gồm cả phi hành đoàn, đã được sơ tán.
+0	Điểm đến của chuyến bay này theo lịch trình là thành phố Kayseri, miền Trung Thổ Nhĩ Kỳ.
+0	Một chiếc máy bay khác sau đó đã được điều đến để phục vụ hành khách.
+1	Theo Reuters, 134 hành khách và phi hành đoàn trên chuyến bay đã được sơ tán, sau khi một lời nhắn đe dọa đánh bom đã được tìm thấy trên máy bay ngay trước khi máy bay cất cánh.
+0	Thời điểm xảy ra vụ việc trên máy bay có 134 người, bao gồm cả phi hành đoàn, theo Reuters.
+0	Tất cả trong những người này đã được sơ tán khỏi máy bay.
+0	Được biết, điểm đến của chuyến bay này theo lịch trình là thành phố Kayseri, miền Trung Thổ Nhĩ Kỳ.
+0	Theo một phát ngôn viên của hãng hàng không Turkish Airlines, toàn bộ 134 người trên máy bay, bao gồm cả phi hành đoàn, được sơ tán, đồng thời xe cứu thương, cảnh sát và các chuyên gia về bom mìn đã được điều động tới hiện trường.
+0	Tuy nhiên, không có dấu hiệu khả nghi nào được phát hiện.
+
+1	Máy bay sau đó nhận lệnh chuyển hướng tới bãi đỗ.
+1	Nhiều xe cứu thương, cảnh sát và chuyên gia phá bom lập tức có mặt tại hiện trường.
+1	Cơ quan chức năng cuối cùng xác định lời đe dọa đánh bom này là giả.
+0	Ngay sau đó, máy bay đã được lệnh chuyển hướng tới khu vực bãi đậu.
+0	Nhiều xe cứu thương, cảnh sát và đội phá bom đã ngay lập tức có mặt tại hiện trường.
+0	“Phi hành đoàn đã thông báo với cơ quan an ninh sân bay rằng một mảnh giấy có ghi chữ “bom” đã được phát hiện trong phòng vệ sinh trên máy bay.
+0	Máy bay dự kiến khởi hành vào lúc 15h50 (theo giờ địa phương) từ Istanbul tới Kayseri (miền trung Thổ Nhĩ Kỳ)”, thông cáo của hãng hàng không Turkish Airlines cho biết.
+0	Xe cứu thương cùng lực lượng cảnh sát và các chuyên gia về bom mìn đã được điều động tới hiện trường để điều tra.
+0	Tuy nhiên, các nhà chức trách không phát hiện thấy thiết bị nổ nào sau đó.
+0	Khi máy bay chuẩn bị cất cánh, mẩu giấy ghi chú đã được phát hiện,ngay sau sau đó chiếc máy bay đã được chuyển hướng đến một khu vực đỗ tại sân bay, CNN Turk cho hay.
+0	Xe cứu thương và lực lượng cảnh sát, cùng các chuyên gia về bom, đã nhanh chóng đến hiện trường.
+0	May mắn thay, không có chất nổ nào được tìm thấy trên máy bay.
+
+1	Người phát ngôn của hãng hàng không Turkish Airlines cho biết ngày 23/5, nhà chức trách nước này đã tiến hành sơ tán và lục soát một máy bay của hãng này khi đang đỗ tại sân bay Ataturk - sân bay chính của thành phố Istanbul sau khi phát hiện một mẩu giấy có nội dung đe dọa đánh bom.
+0	Vào thời điểm phát hiện ra mảnh giấy có nội dung đe dọa đánh bom, máy bay đang đỗ tại sân bay quốc tế Ataturk, sân bay chính của thành phố Istanbul, Thổ Nhĩ Kỳ để chuẩn bị cất cánh.
+0	134 người bao gồm cả hành khách và phi hành đoàn đang có mặt trên máy bay lúc đó.
+0	Tất cả đã được các nhà chức trách yêu cầu sơ tán ngay lập tức.
+
+1	Chiếc máy bay dự kiến có lịch trình bay từ thành phố lớn nhất của Thổ Nhĩ Kỳ, Istanbul, đến thành phố Kayseri, miền Trung nước này.
+

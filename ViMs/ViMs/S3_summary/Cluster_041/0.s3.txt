@@ -1,0 +1,26 @@
+0	Đây là tuyến Hop On - Hop Off đầu tiên của VN.
+1	Hop On - Hop Off city tour là sản phẩm tour du lịch bằng phương tiện xe đặc trưng, có điểm dừng đón và trả khách tại các điểm tham quan nổi tiếng trong thành phố.
+0	Từ hôm nay 20/5, Sở GTVT TPHCM khai trương tuyến xe buýt số 120 - Hop on Hop off vòng khu vực trung tâm.
+0	Ông Lê Hoàng Minh, phó giám đốc Sở GTVT, cho biết: “Đây là một loại hình vận tải hành khách mới kết hợp với du lịch.
+0	Hành khách có thể lên hoặc xuống xe ở bất kỳ đâu trong lộ trình của tuyến xe buýt du lịch.
+
+0	Cự ly tuyến bình quân là 11 km, tổng số chuyến trong ngày là 24, hoạt động từ 8 giờ sáng đến 20 giờ 30 tối mỗi ngày, toàn bộ phương tiện được đầu tư mới 100%.
+1	Các chuyến xe phục vụ du khách có 35-45 ghế, bắt đầu khởi hành từ 8g đến 21g30 mỗi ngày và cứ 30 phút có một chuyến xuất bến, bình quân mỗi ngày có 26 chuyến xe.
+0	Theo Công ty TNHH Ảnh Việt, chủ đầu tư khai thác xe - tuyến 120, bước đầu công ty hoạt động trên tuyến này (Line 1) từ 8 giờ sáng đến 8 giờ 30 tối, mỗi ngày có 24 chuyến.
+
+0	Mỗi ngày có 24 chuyến xe bus du lịch vòng quanh TP.HCM với giá vé là 200.000 đồng/hành khách đi suốt 24 giờ.
+1	Với tấm vé có giá 199.000 đồng/khách có giá trị trong 24 giờ, hành khách có thể lên xe tuyến 120 đi đến bất cứ điểm du lịch nào trong lộ trình, xuống xe đi thăm quan, mua sắm, khám phá và sau đó quay lại trạm dừng, nhà chờ lên xe 120 đi tiếp hành trình và chủ động xuống bất cứ điểm du lịch nào mà mình muốn…
+0	Với chi phí giá vé một chuyến đi là 199.000 đồng có giá trị trong 24 giờ, hành khách có thể lên xe hoặc xuống xe bất kỳ ở đâu trong lịch trình của tuyến 120 đã thông tin trên vé.
+0	Giá vé là 200.000 đồng/người.
+0	Với chi phí là 199.000 đồng có giá trị trong 24 giờ, hành khách có thể lên hoặc xuống xe tại bất kì điểm nào trong lịch trình của tuyến 120.
+
+0	Trên xe có hệ thống thuyết minh loa tự động đa ngôn ngữ các điểm đến và các điểm du lịch của thành phố được du khách ưa chuộng nhất hiện nay.
+1	Xe chạy trên tuyến 120 là loại 29 chỗ ngồi, có máy lạnh; trên mỗi ghế ngồi có trang bị một bộ thuyết minh lộ trình, giới thiệu điểm thăm quan, du lịch đang đi qua hoặc sắp đến bằng các ngôn ngữ Anh, Pháp, Nga, La tinh… và trên xe có kết nối Wi-Fi.
+0	Trên ghế ngồi mỗi hành khách được trang bị một bộ thuyết minh cảm ứng GPS đa ngôn ngữ (tiếng Việt, Anh, Pháp, Đức, Tây Ban Nha, Nhật, Hàn, Thái, Campuchia...).
+0	Đặc biệt, hành khách đi xe được trải nghiệm dịch vụ xe chất lượng cao như trên ghế mỗi hành khách được trang bị một bộ thuyết minh cảm ứng GPS với trên 10 thứ tiếng nước ngoài như tiếng Anh, Pháp, Tây Ban Nha, Nga…
+
+0	Xe xuất phát từ Công viên 23-9 - Phạm Ngũ Lão - Đề Thám - Chợ Bến Thành - Sài Gòn Skydeck - UBND TP - Phố đi bộ Nguyễn Huệ - Nhà hát thành phố - Nhà thờ Đức Bà - Bưu điện Trung tâm thành phố - Dinh Độc Lập - Bảo tàng Lịch sử - Thảo Cầm Viên - Bảo tàng chứng tích chiến tranh và ngược lại.
+0	Tuyến 120 có lộ trình đi từ bãi xe buýt Công viên 23-9 qua 10 điểm dừng như chợ Bến Thành, tượng đài Trần Hưng Đạo bên bến Bạch Đằng, phố đi bộ Nguyễn Huệ, trụ sở UBND TP, Dinh Độc lập, Nhà thờ Đức Bà, Bưu điện TP, Thảo Cầm Viên…
+0	Các điểm đón của xe đều là những địa danh gắn liền với thành phố, xuất phát từ Bãi xe buýt Công viên 23.9 đi qua chợ Bến Thành, tiếp qua phố đi bộ Nguyễn Huệ, UBND TP, Bảo tàng lịch sử, Thảo Cầm Viên, Dinh Thống Nhất, Nhà thờ Đức Bà, Bưu điện TP...
+1	Theo đó, xe buýt Hop on Hop off đưa du khách đến tham quan các địa danh, di tích lịch sử, khu du lịch như khu Tây balô trên đường Ngũ Lão - Đề Thám, chợ Bến Thành, trụ sở UBND TP.HCM, Nhà hát TP, phố đi bộ Nguyễn Huệ, trạm đài quan sát Saigon Skydeck - Bitexco Tower, hội trường Thống Nhất, nhà thờ Đức Bà, Bưu điện trung tâm Sài Gòn, Bảo tàng Lịch sử, Bảo tàng Chứng tích chiến tranh, chùa Thiên Hậu, chợ Bình Tây…
+

@@ -1,0 +1,20 @@
+0	Gần như toàn bộ siêu thị đã bị thiêu rụi.
+0	Ước tính thiệt hạiban đầu lên đến hàng tỉ đồng.
+1	Tuy nhiên, gần như toàn bộ siêu thị đã bị thiêu rụi.
+1	Ước tính thiệt hại nhiều tỷ đồng.
+
+0	Lúc 1 giờ sáng nay (ngày 2-6), một vụ cháy nghiêm trọng xảy ra tại siêu thị điện máy Kim Nguyên (đường Trần Hưng Đạo, phường 1, TP. Đông Hà, Quảng Trị).
+0	Đến sáng 2-6, công an tỉnh Quảng Trị cho biết cơ quan này vẫn đang điều tra nguyên nhân vụ hỏa hoạn xảy ra tại siêu thị điện máy Kim Nguyên - siêu thị điện máy lớn nhất tại TP Đông Hà trên đường Trần Hưng Đạo vào rạng sáng cùng ngày.
+0	Vụ hỏa hoạn nói trên xảy ra 1h30' sáng 2/6 tại siêu thị điện máy Kim Nguyên (đường Trần Hưng Đạo, thành phố Đông Hà, tỉnh Quảng Trị).
+0	Như Thanh Niên đã thông tin, vào rạng sáng 2.6, siêu thị điện máy lớn bậc nhất tỉnh Quảng Trị - Kim Nguyên (đường Trần Hưng Đạo, TP.Đông Hà) - đã bốc cháy.
+0	Vụ cháy xảy ra vào khoảng 1h ngày 2/6, tại siêu thị điện máy Kim Nguyên (nằm trên đường Trần Hưng Đạo, TP Đông Hà, tỉnh Quảng Trị).
+1	Khoảng 1h sáng 2/6, tầng 2 tòa nhà 3 tầng siêu thị điện máy Kim Nguyên tại đường Trần Hưng Đạo (phường 1, TP Đông Hà, Quảng Trị) bất ngờ phát hỏa.
+
+0	Đến hơn 3 giờ 30 phút sáng nay, lực lượng chức năng đã cơ bản khống chế được đám cháy.
+0	Tuy nhiên, khoảng hai tiếng sau đó ngọn lửa mới được khống chế.
+0	Khoảng 3h cùng ngày lực lượng chức năng mới cơ bản dập tắt được đám cháy.
+0	Đến khoảng 3h30, ngọn lửa cơ bản được khống chế.
+1	Đến khoảng 3 giờ 30 phút cùng ngày, ngọn lửa cơ bản được khống chế.
+0	Bằng sự nỗ lực không ngừng nghỉ, các chiến sĩ phòng cháy chữa cháy đã hoàn thành nhiệm vụ của mình, khống chế ngọn lửa vào khoảng gần 4 giờ cùng ngày (2.6).
+0	Đến khoảng 3h35 cùng ngày, ngọn lửa cơ bản được khống chế.
+

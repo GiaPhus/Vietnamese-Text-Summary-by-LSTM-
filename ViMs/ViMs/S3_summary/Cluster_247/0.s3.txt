@@ -1,0 +1,24 @@
+1	Sáng 2/6, TAND tỉnh Thanh Hóa xét xử vụ án “Giết người” đối với bị cáo Hoàng Ngọc Hùng (28 tuổi, trú phường Quảng Thành, TP.
+1	Thanh Hóa).
+
+0	Bị cáo phải bồi hoàn số tiền hơn 110 triệu đồng cho gia đình bị hại.
+0	Với hành vi phạm tội trên, Hoàng Ngọc Hùng đã bị HĐXX tuyên phạt 20 năm tù giam, bồi thường cho gia đình nạn nhân 115 triệu đồng.
+1	HĐXX cũng quyết định tuyên phạt bị cáo Hùng 20 năm tù giam, bồi thường cho gia đình nạn nhân 115 triệu đồng.
+
+0	Gây án xong, Hùng chạy bộ rời khỏi hiện trường, vứt lại dao gây án và mũ bảo hiểm trên đường đi.
+1	Đến sáng ngày hôm sau (23-12), Hùng ra cơ quan công an đầu thú.
+0	Được mẹ động viên, chiều cùng ngày Hùng đã ra Công an phường Quảng Thành đầu thú, khai nhận hành vi phạm tội của mình.
+
+1	Bản án xác định, ngày 21/12/2015, Hùng và anh Bùi Xuân Vinh (39 tuổi, cùng quê) đưa xe máy của bạn Vinh đi cắm lấy một triệu đồng để mua ma túy dùng chung.
+1	Hôm sau, do người bạn đòi xe nên Vinh nói Hùng đưa xe máy của mình đi thế chỗ.
+
+1	Ngày 23/12, Hùng nghĩ lại việc nhiều lần cầm cố xe máy lấy tiền mua ma túy dùng chung với Vinh nhưng mình đều phải tự đi chuộc.
+1	Cho rằng lần này cũng bị lừa nên Hùng nảy sinh ý định giết anh Vinh nếu không đòi được tiền chuộc xe.
+
+1	Trưa cùng ngày, Hùng thủ sẵn hai con dao nhọn sang nhà người hàng xóm uống bia.
+1	Dở cuộc, hắn điện thoại cho Vinh đến để hỏi tiền.
+0	Vinh đến nhưng nói đang đi vay tiền và sẽ trả sau khiến hai bên xảy ra cãi vã.
+
+1	Song trong cơn điên loạn, Hùng rút tiếp con dao thứ hai đâm một nhát vào hõm nách Vinh khiến anh này chết trên đường cấp cứu.
+0	Nạn nhân tử vong trên đường đi cấp cứu.
+

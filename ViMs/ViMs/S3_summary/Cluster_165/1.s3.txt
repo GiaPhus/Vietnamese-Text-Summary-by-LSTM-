@@ -1,0 +1,48 @@
+0	Từ trước đến nay, ở nhiều khu chung cư, đô thị mới, người dân hầu như không được lựa chọn dịch vụ điện thoại cố định hay Internet vì mỗi chung cư, tòa nhà thường chỉ ký hợp đồng cung cấp hạ tầng với một nhà cung cấp dịch vụ viễn thông.
+1	Đây là một thông tin vui dành cho cư dân của nhiều chung cư trên địa bàn thành phố.
+1	Hiện tại, nhiều toà nhà chỉ sử dụng duy nhất một nhà mạng do Ban quản trị lựa chọn dẫn tới tình trạng độc quyền.
+1	Nhiều khách hàng từng phản ánh, quyền lợi của họ không được đảm bảo mỗi khi xảy ra sự cố, thậm chí muốn chuyển nhà mạng khác cũng không được bởi ban quản lý dùng đường truyền internet độc quyền, không có nhà mạng thứ hai.
+0	Về việc lắp đặt hộp thư tập trung tại các tòa nhà cao tầng, vị trí đặt tại tầng 1 của tòa nhà, ở vị trí dễ nhìn, dễ tiếp cận, thuận tiện cho việc quản lý, cung cấp, sử dụng dịch vụ và được thi công lắp đặt đồng thời với hệ thống hạ tầng kỹ thuật sử dụng chung của tòa nhà.
+0	Về việc lắp đặt hộp thư tập trung, vị trí đặt tại tầng 1 của tòa nhà, đảm bảo yêu cầu dễ nhìn, dễ tiếp cận, thuận tiện cho việc quản lý, cung cấp, sử dụng dịch vụ và được thi công lắp đặt đồng thời với hệ thống hạ tầng kỹ thuật sử dụng chung của tòa nhà.
+0	Đại diện Sở Thông tin và Truyền thông Hà Nội cho biết suốt 2 năm qua đã nhiều lần kiến nghị về việc đa dạng hóa nhiều nhà cung cấp mạng cho các tòa nhà, xong vấp phải rào cản lớn từ những đơn vị giữ thế độc quyền.
+0	Nhiều người dân sinh sống tại các chung cư chia sẻ: Mong muốn có hơn 1 nhà cung cấp dịch vụ mạng tại tòa nhà để có thể lựa chọn với chất lượng dịch vụ tốt hơn.
+
+1	Nhằm cải thiện tình trạng trên, mới đây UBND thành phố Hà Nội đã ban hành Quyết định số 19/2016/QĐ-UBND quy định về việc lắp đặt, quản lý, sử dụng hộp hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa có nhiều chủ sử dụng trên địa bàn thành phố.
+1	Quy định này áp dụng đối với các tổ chức, cá nhân liên quan đến việc đầu tư xây dựng tòa nhà, lắp đặt, quản lý, sử dụng hộp thư tập trung, hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa nhà nhiều tầng có nhiều chủ sử dụng trên địa bàn thành phố.
+0	Ngày 27/5, UBND TP Hà Nội ban hành Quyết định số 19/2016/QĐ-UBND quy định về việc lắp đặt, quản lý, sử dụng hộp hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa có nhiều chủ sử dụng trên địa bàn thành phố.
+0	Có hiệu lực từ ngày 7-6, quy định của TP Hà Nội áp dụng đối với các tổ chức, cá nhân liên quan đến việc đầu tư xây dựng tòa nhà, lắp đặt, quản lý, sử dụng hộp thư tập trung, hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa nhà nhiều tầng có nhiều chủ sử dụng trên địa bàn TP.
+0	Quy định này áp dụng đối với các tổ chức, cá nhân liên quan đến việc đầu tư xây dựng tòa nhà, lắp đặt, quản lý, sử dụng hộp thư tập trung, hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa nhà nhiều tầng có nhiều chủ sử dụng trên địa bàn thành phố.
+0	Ngày 27/5 vừa qua, UBND Hà Nội đã chính thức ban hành quyết định 19/2016/QĐ-UBND, quy định về việc lắp đặt, quản lý, sử dụng hộp thư tập trung, hệt hống cáp viễn thông, hệ thống phủ sóng tòa nhà cao tầng có nhiều chủ sử dụng trên địa bàn Hà Nội.
+0	Khái niệm "tòa nhà cao tầng có nhiều chủ sử dụng" ở đây được hiểu là các tòa nhà cung cư cao tầng, chung cư tái định cư, chung cư mini, tổ hợp chung cư văn phòng cho thuê, tòa nhà cho thuê văn phòng, nhà ở xã hội.
+0	Ông Nguyễn Tiến Sỹ, Trưởng phòng bưu chính viễn thông, Sở Thông tin và Truyền thông Hà Nội trả lời VTV cho biết: Phần các tòa nhà đã xây dựng trước thời điểm quyết định có hiệu lực, Thành phố cũng khuyến khích các chủ đầu tư ban quản lý tạo điều kiện để các doanh nghiệp đầu tư cho mọi người ở tòa nhà được sử dụng dịch vụ của nhiều nhà cung cấp mạng.
+
+0	Đáng lưu ý, về quy định thiết kế, lắp đặt hệ thống cáp viễn thông trong tòa nhà, từ 7/6/2016, UBND thành phố yêu cầu cần phải có đủ dung lượng để ít nhất hai doanh nghiệp viễn thông có thể tham gia cung cấp dịch vụ, hoặc cung cấp thêm dịch vụ theo nhu cầu của người sử dụng.
+1	Theo văn bản "Quy định về việc lắp đặt, quản lý, sử dụng hộp thư tập trung, hệ thống cáp viễn thông, hệ thống phủ sóng trong các tòa nhà cao tầng có nhiều chủ sử dụng", vừa được UBND TP Hà Nội ban hành, từ ngày 7-6 tới đây, việc thiết kế, lắp đặt hệ thống cáp viễn thông trong tòa nhà quy định rõ phải có đủ dung lượng để ít nhất 2 doanh nghiệp viễn thông có thể tham gia cung cấp dịch vụ, hoặc cung cấp thêm dịch vụ theo nhu cầu của người sử dụng;
+0	Theo đó, từ ngày 7/6/2016, việc thiết kế, lắp đặt hệ thống cáp viễn thông trong tòa nhà cao tầng nói trên phải đmả bảo người sử dụng dịch vụ được tự do lựa chọn doanh nghiệp cung cấp dịch vụ.
+0	Hạ tầng phải đảm bảo đủ dung lượng để ít nhất 2 doanh nghiệp viễn thông có thể tham gia cung cấp dịch vụ, hoặc cung cấp thêm dịch vụ theo nhu cầu người dùng.
+0	Điểm đáng lưu ý nhất trong quyết định của Hà Nội, là yêu cầu về thiết kế, lắp đặt hệ thống cáp viễn thông trong tòa nhà phải có đủ dung lượng để ít nhất hai doanh nghiệp viễn thông có thể tham gia cung cấp dịch vụ, hoặc cung cấp thêm dịch vụ theo nhu cầu của người sử dụng.
+0	Đảm bảo dễ tiếp cận, thuận tiện cho việc lắp đặt, đấu nối, bảo trì, quản lý và sử dụng nhằm cung cấp các dịch vụ điện thoại cố định, di động, internet, truyền hình cáp và các dịch vụ khác cho người sử dụng trong tòa nhà.
+0	Theo đó, quy định về thiết kế, lắp đặt hệ thống cáp viễn thông trong tòa nhà quy định rõ phải có đủ dung lượng để ít nhất 2 doanh nghiệp viễn thông có thể tham gia cung cấp dịch vụ, hoặc cung cấp thêm dịch vụ theo nhu cầu của người sử dụng.
+
+0	Theo Quyết định 19, UBND thành phố cũng yêu cầu hệ thống cáp viễn thông trong toà nhà phải đảm bảo dễ tiếp cận, thuận tiện cho việc lắp đặt, đấu nối, bảo trì, quản lý và sử dụng nhằm cung cấp các dịch vụ điện thoại cố định, di động, internet, truyền hình cáp và các dịch vụ khác cho người sử dụng trong tòa nhà.
+0	Hệ thống cáp viễn thông trong tòa nhà phải được thiết kế để sử dụng công nghệ mạng cáp quang, đảm bảo cung cấp các dịch vụ cơ bản (điện thoại cố định, internet, truyền hình cáp) trên một đường cáp.
+0	Phải đảm bảo dễ tiếp cận, thuận tiện cho việc lắp đặt, đấu nối, bảo trì, quản lý và sử dụng nhằm cung cấp các dịch vụ điện thoại cố định, di động, internet, truyền hình cáp và các dịch vụ khác cho người sử dụng trong tòa nhà.
+0	Hà Nội cũng quy định rõ hệ thống cáp viễn thông trong tòa nhà phải được thiết kế để sử dụng công nghệ mạng cáp quang, đảm bảo cung cấp các dịch vụ cơ bản (điện thoại cố định, internet, truyền hình cáp) trên một đường cáp.
+0	Đảm bảo dễ tiếp cận, thuận tiện cho việc lắp đặt, đấu nối, bảo trì, quản lý và sử dụng nhằm cung cấp các dịch vụ điện thoại cố định, di động, internet, truyền hình cáp và các dịch vụ khác cho người sử dụng trong tòa nhà.
+1	Đối với các tòa nhà đã và đang xây dựng, ngay từ đầu phải có thiết kế hệ thống viễn thông và được phê duyệt.
+1	Hạ tầng này phải đủ dung lượng, ít nhất 2 nhà cung cấp.
+1	Và trong quá trình xây dựng chịu sự giám sát của các sở ngành đảm bảo tuân thủ đúng các yêu cầu phê duyệt.
+1	Chủ trì là Thanh tra sở Thông tin và Truyền thông phối hợp với Thanh tra Sở Xây dựng, phối hợp với CA các quận thực hiện theo quyết định 19 của TP ban hành, và xử phạt theo quyết định 174.
+
+0	Đối với việc thiết kế, lắp đặt hệ thống phủ sóng trong tòa nhà, hệ thống phủ sóng phải được thiết kế, lắp đặt để các doanh nghiệp cung cấp dịch vụ thông tin di động có thể sử dụng chung cơ sở hạ tầng sẵn có.
+0	Tương tự, hệ thống phủ sóng trong tòa nhà phải có khả năng thay đổi, nâng cấp cấu hình, bảo dưỡng mạng để có thể đáp ứng các công nghệ di động tiên tiến.
+1	Yêu cầu về thiết kế, lắp đặt hệ thống phủ sóng trong tòa nhà được UBND TP Hà Nội yêu cầu là phải được thiết kế, lắp đặt để các doanh nghiệp cung cấp dịch vụ thông tin di động có thể sử dụng chung cơ sở hạ tầng sẵn có.
+1	Hệ thống phủ sóng phải có khả năng thay đổi, nâng cấp cấu hình, bảo dưỡng mạng để có thể đáp ứng các công nghệ di động tiên tiến, đảm bảo mỹ quan...
+
+1	Tại Hà Nội và nhiều tỉnh thành khác trên cả nước, tình trạng độc quyền cung cấp dịch vụ viễn thông tại các khu chung cư rất phổ biến.
+1	Hầu hết các tòa nhà khi xây dựng chỉ cho duy nhất một nhà cung cấp dịch vụ, khiến rất nhiều hộ gia đình bắt buộc phải sử dụng các dịch vụ truyền hình, internet, điện thoại dù chất lượng dịch vụ kém trong khi giá cước dịch vụ lại không hề rẻ gây nhiều bức xúc trong xã hội.
+
+1	Với quy định mới, các tòa nhà chung cư trên địa bàn Hà Nội khi trình duyệt thiết kế sẽ phải đáp ứng các điều kiện trên mới được phê duyệt.
+1	Các chung cư mới ở giai đoạn đầu triển khai cũng sẽ được giám sát bởi cả thanh tra Bộ Xây dựng và Bộ TT&TT, công an cá quận trong việc thực hiện quy định này.
+0	Theo quy định mới được Sở TT&TT Hà Nội, các khu chung cư đang xây dựng sẽ phải có hạ tầng đáp ứng ít nhất hai nhà cung cấp dịch vụ viễn thông thay vì một như trước đây.
+

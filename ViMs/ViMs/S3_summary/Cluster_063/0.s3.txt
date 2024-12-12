@@ -1,0 +1,36 @@
+1	Atlassian là công ty thực hiện các ứng dụng nhắn tin và quản lý dự án phổ biến như Jira và HipChat, và không đặt ra doanh số bán hàng hay giảm giá vào cuối mỗi quý.
+0	Atlassian, công ty đã xây dựng nên các ứng dụng quản lý và trò chuyện thông dụng như Jira hay HipChat, không cần áp đặt chỉ tiêu doanh thu hay phần thưởng cuối kỳ.
+0	Atlassian là công ty chuyên về các ứng dụng quản lý dự án và nhắn tin như Jira và HipChat.
+0	Công ty không đặt ra bất kỳ hạn mức về doanh số cũng như không có các chương trình giảm giá vào thời điểm cuối quý để thu hút thêm khách hàng.
+
+0	Đội ngũ bán hàng của họ không tiếp thị sản phẩm đến bất cứ ai, vì Atlassian chẳng có lấy một nhân viên trong nhóm bán hàng.
+1	Ban đầu, cách thức kinh doanh của Atlassian được coi là một hiện tượng bất thường trong thế giới của các công ty phần mềm tại Australia.
+1	Tuy nhiên sau đó, Atlassian lại trở thành người tiên phong trong việc sử dụng phương thức truyền miệng, thay vì thuê nhân viên sales để xây dựng thị phần.
+0	Thực tế Atlassian – công ty làm ra những phần mềm quản lý dự án và ứng dụng trò truyện nổi tiếng như Jira và HipChat có trụ sở ở Australia không hề có bất kỳ nhân viên kinh doanh nào cả.
+0	Atlassian hiện đang hoạt động theo một phương thức đặc biệt: không sử dụng nhân viên kinh doanh.
+0	Thực tế, các nhân viên của Công ty không cần gọi điện làm phiền bất kỳ ai để bán sản phẩm, bởi Atlassian không hề có nhân viên kinh doanh nào.
+0	Tuy nhiên sau đó, Atlassian lại trở thành người tiên phong trong việc sử dụng phương thức truyền miệng, thay vì thuê nhân viên sales để xây dựng thị phần.
+0	Trên thực tế, đội bán hàng của hãng không có bất kỳ chiến dịch quảng cáo sản phẩm nào và tới bất kỳ ai bởi đơn giản họ không có một đội nào như vậy.
+
+0	Hơn 80 trong số 100 doanh nghiệp nổi bật được tạp chí Fortune bình chọn sử dụng phần mềm của Atlassian.
+1	Hơn 80 công ty trong danh sách Fortune 100 hiện đang sử dụng phần mềm của Atlassian.
+0	Hơn 80 công ty trong danh sách Fortune 100 hiện đang sử dụng phần mềm của Atlassian.
+0	Hơn 80 công ty trong danh sách Fortune 100 sử dụng phần mềm của Atlassian và đa phần các nhà đầu tư cũng như các công ty khách đều đang cố gắng học tập theo chiến lược kinh doanh này.
+0	Hơn 80 công ty trong danh sách top 100 doanh nghiệp của Fortune sử dụng phần mềm của Atlassian.
+
+0	Jay Simons, chủ tịch của Atlassian, nói rằng những khoản tiết kiệm được từ đội bán hàng đã giúp công ty giảm giá được sản phẩm, có thêm tiền đầu tư vào nghiên cứu và phát triển.
+1	Jay Simons, chủ tịch của Atlassian nói rằng việc tiết kiệm được chi phí trả cho nhân viên bán hàng có nghĩa là mức giá sản phẩm sẽ rẻ hơn và có thể tập trung đầu tư nhiều hơn vào nghiên cứu, phát triển, cải tiến phần mềm, khiến nó dễ dùng hơn, thúc đẩy người mua hàng.
+0	Jay Simons, chủ tịch của Atlassian nói rằng việc tiết kiệm được chi phí trả cho nhân viên bán hàng có nghĩa là mức giá sản phẩm sẽ rẻ hơn và có thể tập trung đầu tư nhiều hơn vào nghiên cứu, phát triển, cải tiến phần mềm, khiến nó dễ dùng hơn, thúc đẩy người mua hàng.
+0	Tiết kiệm chi phí bán hàng và quảng cáo đồng nghĩa với việc sản phẩm có giá rẻ hơn và Công ty có nhiều tiền hơn cho hoạt động nghiên cứu và phát triển phần mềm mới, giúp những nhà sáng lập lạc quan hơn với tốc độ tăng trưởng của Công ty trong thời gian tới.
+
+0	Là công ty 14 năm tuổi được định giá 5 tỉ USD kể từ sau khi IPO vào tháng 9, họ đã không cần thuê bất kỳ một nhân viên kinh doanh nào cả.
+0	Là công ty 14 năm tuổi được định giá 5 tỉ USD kể từ sau khi IPO vào tháng 9, họ đã không cần thuê bất kỳ một nhân viên kinh doanh nào cả.
+0	Công ty 14 năm tuổi này đạt giá trị 5 tỷ USD khi tiến hành IPO vào tháng 12/2015 mà không cần phải trả lương cho một nhân viên kinh doanh nào.
+0	Công ty xuất hiện trên thị trường 14 năm, được định giá 5 tỉ USD kể từ khi lên sàn chứng khoán hồi tháng 12.2015.
+1	Atlassian có tuổi đời 14 năm, giá trị thị trường đạt 5 tỷ USD kể từ khi bán cổ phiếu lần đầu ra công chúng (IPO) hồi tháng 12/2015, hiện không có bất kỳ nhân viên bán hàng nào trên bảng lương.
+
+0	Khách hàng thích tìm câu trả lời trên trang web hơn”, CEO Atlassian Scott Farquhar nói.
+1	“Khách hàng không muốn gọi một nhân viên kinh doanh nếu họ không buộc phải làm vậy.
+1	Họ sẵn sàng tìm hiểu mọi thứ trên website công ty thay vì bị làm phiền”, Scott Farquhar cho biết.
+0	Nếu có gì thắc mắc, họ có thể tìm câu trả lời trên trang web của công ty", Scott Farquhar, đồng CEO của Atlassian chia sẻ.
+

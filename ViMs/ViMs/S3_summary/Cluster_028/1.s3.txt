@@ -1,0 +1,27 @@
+0	Sputnik News ngày 20.5 dẫn thông báo của Công ty Coca-Cola FEMSA cho biết công ty này đã ngừng sản xuất tại Venezuela do thiếu đường.
+1	Theo Coca-Cola FEMSA, 90% sản phẩm sản xuất ra của công ty đều cần đường.
+1	Do đó, tình trạng thiếu đường và nhiều loại nguyên liệu khác đang khiến hoạt động của Coca-Cola tại Venezuela ngưng lại.
+0	Coca-Cola FEMSA giải thích khoảng 90% sản phẩm của họ cần đường.
+0	Vì vậy, tình trạng thiếu hụt nhu yếu phẩm tại đây đã khiến việc sản xuất bị ảnh hưởng.
+0	Theo Coca Cola, 90% sản phẩm của họ cần đến đường.
+0	Công ty buộc phải ngừng sản xuất do thiếu nguyên liệu.
+
+0	Coca-Cola FEMSA là công ty nhượng quyền đóng chai của hãng nước giải khát Coca-Cola, hoạt động tại các quốc gia như Mexico, Venezuela, Colombia, Argentina, Brazil, Philippines và khu vực Trung Mỹ.
+0	Hồi tháng 4 năm nay, công ty sản xuất thực phẩm và đồ uống lớn nhất của Venezuela - Polar đã thông báo dừng sản xuất bia với lý do thiếu lúa mạch.
+0	Cụ thể, hồi tháng 4, Polar - nhà sản xuất thực phẩm và đồ uống lớn nhất của Venezuela đã không thể tiếp tục sản xuất bia do thiếu lúa mạch.
+0	Hồi tháng 4, Polar Group - hãng thực phẩm - đồ uống lớn nhất Venezuela cũng đã thông báo ngừng sản xuất bia do thiếu lúa mạch.
+1	Không chỉ đối với mặt hàng nước giải khát đóng chai, nhiều doanh nghiệp khác ở Venezuela đã phải ngừng sản xuất do thiếu nguyên liệu.
+0	Trước đó, hồi tháng 4, Polar, một công ty thực phẩm và đồ uống lớn nhất của Venezuela, cũng phải thông báo ngừng sản xuất bia với lý do thiếu lúa mạch.
+
+0	Tổng thống Venezuela Nicolas Maduro tuyên bố tình trạng khẩn cấp kinh tế ở Venezuela từ tháng 1-2016.
+1	Đây chỉ là một vài trong hàng loạt dấu hiệu cho thấy tình trạng khủng hoảng kinh tế xã hội trầm trọng ở Venezuela hiện nay.
+0	Tổng thống Venezuela - Nicolas Maduro hồi tháng 1 đã tuyên bố tình trạng kinh tế khẩn cấp.
+0	Kinh tế Venezuela đang gặp khó khăn nghiêm trọng.
+0	Đây chỉ là một vài trong hàng loạt dấu hiệu cho thấy tình trạng khủng hoảng kinh tế xã hội trầm trọng ở Venezuela hiện nay.
+0	Tổng thống Nicolas Maduro tuyên bố tình trạng khẩn cấp về kinh tế tại Venezuela vào hồi tháng 1.
+
+0	Tuần trước, ông Maduro dọa sẽ tịch thu tài sản của các nhà máy nào tại nước này hiện không hoạt động và bỏ tù chủ sở hữu của các nhà máy đó.
+0	Cách đây không lâu, Tổng thống Venezuela Nicolas Maduro ra tuyên bố sẽ tịch thu các nhà máy, doanh nghiệp tự ý ngừng sản xuất và bỏ tù chủ sở hữu các nhà máy này.
+0	Tuần trước, ông Maduro cảnh báo sẽ tịch thu các nhà máy và doanh nghiệp tự ý ngừng sản xuất, đồng thời phạt tù chủ sở hữu của các doanh nghiệp đó.
+1	Tuần trước, ông Maduro cảnh báo sẽ tịch thu các nhà máy và doanh nghiệp tự ý ngừng sản xuất, đồng thời phạt tù chủ sở hữu của các doanh nghiệp đó.
+

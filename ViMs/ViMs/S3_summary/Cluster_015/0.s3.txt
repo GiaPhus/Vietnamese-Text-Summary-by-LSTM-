@@ -1,0 +1,28 @@
+0	Từ trước đến nay, ông Kim Jong-un là người nghiện thuốc nặng.
+0	Bản thân nhà lãnh đạo Kim Jong-un, vốn nghiện thuốc cũng đã bỏ thuốc lá hơn 2 tháng.Trước đó, trong nhiều bức ảnh, ông Kim Jong-un đã xuất hiện với một điếu thuốc trên tay.
+1	Từ trước đến nay, ông Kim Jong-un là người nghiện thuốc nặng.
+0	Bài báo viết rằng ông Kim Jong-un 33 tuổi được biết đến là người nghiện thuốc nặng, bằng chứng là có rất nhiều hình ảnh của ông cầm điếu thuốc trên tay.
+0	Thêm vào đói, ông Kim đã nghiện thuốc từ rất lâu rồi: Ông ấy được cho là bắt đầu hút thuốc khi mới 15 tuổi.
+
+0	Tuy nhiên, vào tháng 3/2016 vừa qua, nhà lãnh đạo Triều Tiên này đã quyết định từ bỏ thói quen xấu và bằng cách đó khởi động chiến dịch quốc gia chống hút thuốc.
+0	Tuy nhiên, vào tháng Ba năm nay, nhà lãnh đạo Bắc Triều Tiên đã quyết định từ bỏ thói quen xấu và bằng cách đó khởi động chiến dịch quốc gia chống hút thuốc.
+1	Tuy nhiên, vào tháng Ba năm nay, nhà lãnh đạo Bắc Triều Tiên đã quyết định từ bỏ thói quen xấu và bằng cách đó khởi động chiến dịch quốc gia chống hút thuốc.
+0	Việc bỏ thuốc có thể là do chiến dịch chống thuốc lá của Triều Tiên, bắt đầu vào giữa những năm 2000.
+
+0	Lãnh đạo Triều Tiên Kim Jong-Un, người được cho là nghiện thuốc lá nặng, chưa được nhìn thấy hút bất kì điếu thuốc nào kể từ khi xuất hiện trong cuộc thử nghiệm tên lửa đạn đạo vào hôm 15-3.
+1	Ông Madden cho rằng Kim Jong-un có khả năng bỏ thuốc hoặc ít nhất là không để công chúng thấy mình hút thuốc.
+
+1	Đây chính là lí do truyền thông Hàn Quốc suy đoán rằng, ông Kim Jong-Un có thể đã bỏ thuốc để làm gương cho người dân.
+
+0	Theo số liệu của WHO vào năm 2012, 53% đàn ông Triều Tiên hút thuốc lá.
+1	Theo KCNA, chiến dịch "Nói không với thuốc lá" đã giảm đáng kể số người hút thuốc tại Triều Tiên.
+0	"Số lượng người không hút thuốc lá đang gia tăng mỗi ngày", KCNA đưa tin.
+0	Đến năm 2014, con số này đã giảm đáng kể, chỉ còn 43,9%, theo WHO.
+
+0	Triều Tiên thậm chí còn thiết lập các trạm khảo sát trên khắp cả nước để kêu gọi người dân bỏ hút thuốc, hãng tin Korea Herald ngày 19.5 của Hàn Quốc dẫn nguồn truyền thông Triều Tiên đưa tin.
+1	Hãng tin nhà nước Triều Tiên KCNA cho biết, trung tâm nghiên cứu tác hại của thuốc lá sẽ được mở rộng từ Bình Nhưỡng đến các tỉnh thành phố khác trên cả nước nhằm kêu gọi người dân bỏ hút thuốc.
+
+0	Theo Tổ chức Y tế Thế giới, hơn một nửa nam giới CHDCND Triều Tiên hút thuốc, đó là chỉ số tồi tệ nhất ở châu Á.
+0	Hiện nay, chính quyền Bắc Triều Tiên có ý định nghiêm túc giải quyết vấn đề này.
+1	Theo Tổ chức Y tế Thế giới, hơn một nửa nam giới CHDCND Triều Tiên hút thuốc, đó là chỉ số tồi tệ nhất ở châu Á.
+

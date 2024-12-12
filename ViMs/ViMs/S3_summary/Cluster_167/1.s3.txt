@@ -1,0 +1,40 @@
+1	Hoa khôi Lại Hương Thảo tổ chức lễ ăn hỏi và đám cưới tại quê nhà Quảng Ninh vào hôm 30/4.
+0	Sau gần một tháng diễn ra lễ ăn hỏi, tối (29/5), đôi uyên ương tổ chức tiệc cưới bí mật tại một khách sạn sang trọng ở Sài Gòn với khoảng 700 khách mời, bao gồm gia đình, người thân và bạn bè thân thiết của nhà trai.
+
+0	Ông xã của người đẹp năm nay 34 tuổi, hơn cô 10 tuổi.
+0	Anh từng tốt nghiệp Thạc sĩ tại Anh và có 8 năm làm việc tại các ngân hàng nước ngoài.
+0	Hiện tại, anh có công ty riêng tại TP HCM.
+1	Ông xã của người đẹp tên là Nguyễn Anh Tuấn năm nay 34 tuổi, hơn cô 10 tuổi.
+1	Anh từng tốt nghiệp Thạc sĩ tại Anh và có 8 năm làm việc tại các ngân hàng nước ngoài.
+1	Hiện tại, anh có công ty riêng tại TP. HCM.
+1	Lại Hương Thảo hiện là nhân viên ngân hàng và làm việc chung công ty với chồng.
+0	Hương Thảo chia sẻ rằng chồng cô năm nay 34 tuổi, hơn cô 10 tuổi, là người tri thức, sinh ra trong gia đình nề nếp.
+0	Chồng của Lại Hương Thảo tên Anh Tuấn, năm nay 34 tuổi, từng làm việc tại nước Anh trong lĩnh vực ngân hàng, hiện tại quản lý công ty riêng tại Việt Nam.
+0	Vị hôn phu của cô là Nguyễn Anh Tuấn, hơn cô 10 tuổi, sở hữu ngoại hình điển trai.
+0	Anh từng tốt nghiệp thạc sĩ tại Anh và có 8 năm làm việc tại các ngân hàng nước ngoài trước khi về quản lý công ty riêng.
+
+0	Lại Hương Thảo từng tham gia nhiều cuộc thi nhan sắc và đoạt nhiều danh hiệu như Hoa khôi Thể thao 2012; giải phụ Hoa hậu châu Á, Hoa hậu cộng đồng tại cuộc thi Hoa hậu Siêu quốc gia 2012.
+0	Năm 2013, cô từng đại diện cho Việt Nam dự thi Miss World nhưng không đạt được thành tích nào.
+0	Vài năm trở lại đây, cô gần như không tham gia các hoạt động showbiz.
+0	Hiện tại, cô làm việc ở một ngân hàng tại TP HCM.
+1	Lại Hương Thảo sinh năm 1991 tại thành phố Hạ Long, Quảng Ninh.
+1	Cô đạt danh hiệu hoa khôi thể thao năm 2012.
+1	Hương Thảo đại diện Việt Nam tham dự cuộc thi Hoa hậu siêu quốc gia 2012 diễn ra tại Ba Lan và đạt giải Hoa hậu cộng đồng, Nữ hoàng sắc đẹp châu Á Thái Bình Dương.
+1	Hương Thảo hiện đang làm việc tại một ngân hàng trong TP.HCM.
+0	Lại Hương Thảo từng tham gia nhiều cuộc thi nhan sắc và đoạt nhiều danh hiệu như Hoa khôi Thể thao 2012; giải phụ Hoa hậu châu Á, Hoa hậu cộng đồng tại cuộc thi Hoa hậu Siêu quốc gia 2012.
+0	Năm 2013, cô từng đại diện cho Việt Nam dự thi Miss World nhưng không đạt được thành tích nào.
+0	Vài năm trở lại đây, cô gần như không tham gia các hoạt động showbiz.
+0	Hiện tại, cô làm việc ở một ngân hàng trong TP HCM.
+0	Năm 2012, Lại Hương Thảo vượt qua nhiều người đẹp “nặng ký” khác để giành ngôi vị Hoa khôi Thể thao.
+0	Sau đó, cô đại diện cho Việt Nam đi thi Miss World 2013 nhưng không đạt thành tích gì.
+0	Trở về sau các cuộc thi, thay vì tham gia showbiz như nhiều chân dài khác thì Lại Hương Thảo lại lựa chọn cuộc sống bình thường của một sinh viên.
+0	Cô tiếp tục đi học và tập trung cho công việc kinh doanh, chỉ thỉnh thoảng xuất hiện ở một số sự kiện nhỏ.
+
+1	Đám cưới của Lại Hương Thảo diễn ra tối 29/5 tại khách sạn Intercontinental Asiana Saigon với khoảng 700 khách mời bao gồm khách khứa và bạn thân của nhà chú rể, trong đó có gia đình ca sỹ Trang Nhung, cô và con gái Ngô Phương Bích Ngọc đích thân hát tặng gia đình 2 bên.
+0	Tối 29/5, đôi uyên ương tổ chức tiệc cưới tại một khách sạn sang trọng ở Sài Gòn với khoảng 700 khách mời, bao gồm gia đình, người thân và bạn bè thân thiết của nhà trai.
+0	Ngày 29/5, Hoa khôi Thể thao Lại Hương Thảo đã chính thức lên xe hoa cùng ông xã hơn 10 tuổi.
+0	Chồng cô là một doanh nhân thành đạt, từng học thạc sĩ ở nước ngoài và có hơn 8 năm làm việc trong các ngân hàng.
+0	Hiện tại, anh mở công ty riêng tại TP HCM.
+0	Trước đó, Lại Hương Thảo đã làm đám hỏi khá bí mật tại quê nhà Quảng Ninh.
+0	Tối 29/5, hoa khôi Thể thao Lại Hương Thảo đã tổ chức đám cưới tại một khách sạn ở TP.HCM với khoảng 700 khách mời của cô dâu, chú rể.
+

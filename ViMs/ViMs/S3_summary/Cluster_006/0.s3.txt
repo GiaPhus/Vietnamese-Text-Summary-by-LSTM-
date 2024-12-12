@@ -1,0 +1,26 @@
+0	Như đã đưa tin, chiều 19.5, tại thị trấn Thanh Sơn, huyện Sơn Động, tỉnh Bắc Giang xảy ra vụ án nghiêm trọng.
+1	Như Thanh Niên đã đưa tin, khoảng 13 giờ ngày 19.5, người dân thị trấn Thanh Sơn (huyện Sơn Động, Bắc Giang) phát hiện cặp vợ chồng (chưa rõ danh tính) tử vong bất thường tại địa phương.
+0	Theo đó, một cặp vợ chồng được người dân địa phương phát hiện tử vong.
+0	Như tin tức đã đưa về việc người dân phát hiện cặp vợ chồng chết thảm ở huyện Sơn Động, tỉnh Bắc Giang.
+0	Tin mới nhất từ cơ quan Công an tỉnh Bắc Giang cho biết, đôi vợ chồng quê ở Thanh Hóa phát hiện chết ở thôn Đồng Rì, thị trấn Thanh Sơn, huyện Sơn Động có dấu hiệu sử dụng vật liệu nổ.
+
+0	Theo đại tá Sáu, qua điều tra ban đầu xác định, người vợ tử vong tại nhà, còn anh T. nổ mìn tự sát ở phòng bảo vệ của công ty.
+1	Bước đầu cơ quan Công đặt nghi vấn, do mâu thuẫn gia đình anh T đã giết vợ sau đó tự sát bằng vật liệu nổ (mìn tự chế).
+0	Cơ quan công an nghi ngờ người chồng sát hại vợ ở nhà, rồi đến nơi làm việc tự sát bằng vật liệu nổ.
+0	Bước đầu xác định, có thể do mâu thuẫn, người chồng đã hạ sát vợ, sau đó lo sợ bị phát hiện nên đã khoá cửa lại, rồi đến công ty để tự sát.
+
+0	Theo đó, người chồng là anh T.V.T sinh năm 1983 ở Triệu Sơn (Thanh Hóa), còn người vợ sinh năm 1985.
+1	Danh tính nạn nhân được xác định là anh Đỗ Viết T. (33 tuổi) và chị Vũ Thị L.
+1	(28 tuổi), quê ở huyện Thiệu Hóa, Thanh Hóa.
+0	Bước đầu cơ quan công an cho biết, hai vợ chồng anh T. quê ở Triệu Sơn, Thanh Hoá.
+0	Anh T. sinh năm 1983, còn vợ sinh năm 1985.
+
+0	Thời gian gần đây, một số người phát hiện vợ chồng anh T thường xuyên xảy ra mâu thuẫn, cãi vã.
+0	Thời gian gần đây, vợ chồng nạn nhân thường xuyên xảy ra mâu thuẫn.
+1	Gần đây, một số đồng nghiệp và những người xung quanh thấy hai vợ chồng thường xuyên mâu thuẫn.
+
+1	Vụ việc vẫn đang được Công an tỉnh Bắc Giang điều tra làm rõ./.
+0	Cơ quan điều tra, Công an tỉnh Bắc Giang cho biết đang thu thập tài liệu, lấy lời khai các nhân chứng để làm rõ nguyên nhân cái chết của hai vợ chồng này.
+0	Hiện nguyên nhân dẫn tới vụ việc đau lòng trên đang được Công an huyện Sơn Động làm rõ.
+0	Hiện, cơ quan công an đang tiếp tục điều tra để làm rõ vụ việc theo quy định của pháp luật.
+

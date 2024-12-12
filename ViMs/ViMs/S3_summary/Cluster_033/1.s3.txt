@@ -1,0 +1,20 @@
+1	Đây là vụ bê bối thứ hai gây chấn động ngành công nghiệp ô tô Nhật Bản, xảy ra chỉ một tháng sau khi Mitsubishi Motors thừa nhận làm sai lệch kết quả đo mức tiêu thụ nhiên liệu của nhiều mẫu xe trong nhiều năm.
+0	Việc gian lận trong khi đo lượng khí thải cũng như mức tiêu thụ nhiên liệu đã bị phát hiện ở không ít nhà sản xuất bởi điều này không chỉ giúp lấy lòng khách hàng mà còn cho phép nhà sản xuất hưởng lợi lớn từ những ưu đãi của các chính phủ.
+0	Thứ 4 (18/5), hãng Suzuki Motor thừa nhận đã sử dụng các phương pháp sai để kiểm tra khả năng tiết kiệm nhiên liệu ô tô của hãng tại Nhật Bản.
+0	Cổ phiếu hãng xe Nhật Suzuki Motor Corp.
+0	lao dốc chóng mặt sau khi hãng này cho biết đã sử dụng một biện pháp thiếu chính xác để thử nghiệm khả năng tiết kiệm nhiên liệu của xe do hãng sản xuất.
+0	Chính phủ đã yêu cầu tất cả các nhà sản xuất ô tô rà soát việc thử nghiệm mức tiêu thụ nhiên liệu của xe sau khi xảy ra vụ bê bối gian lận của Mitsubishi.
+0	CEO Carlos Ghosn của Nissan gọi đó là một thoả thuận đôi bên cùng có lợi, vì cổ phiếu Mitsubishi đã mất giá hơn 40% sau khi nổ ra vụ bê bối.
+0	Vụ bê bối của Suzuki xảy ra chỉ một tháng sau khi Mitsubishi Motors thừa nhận làm sai lệch kết quả đo mức tiêu thụ nhiên liệu của nhiều mẫu xe trong nhiều năm.
+0	Chính phủ Nhật đã yêu cầu tất cả các nhà sản xuất ôtô rà soát việc thử nghiệm mức tiêu thụ nhiên liệu của xe sau khi xảy ra vụ bê bối gian lận của Mitsubishi.
+
+1	Suzuki cho biết, công ty đã thu thập dữ liệu liên quan đến các bộ phận như lốp xe, phanh và hộp số, sau đó kết hợp với kết quả đo mức cản gió trong hầm gió để cho ra số liệu về mức tiêu thụ nhiên liệu của xe.
+0	Suzuki cho biết công ty đã thu thập dữ liệu liên quan đến các bộ phận như lốp xe, phanh và hộp số, sau đó kết hợp với kết quả đo mức cản gió trong hầm gió để cho ra số liệu về mức tiêu thụ nhiên liệu của xe và phương pháp này không đúng theo quy định của chính phủ Nhật Bản.
+
+1	Cùng ngày Chủ tịch Testuro Aikawa của Mitsubishi tuyên bố sẽ từ chức để nhận trách nhiệm về vụ bê bối gian lận mức tiêu thụ nhiên liệu và phủ nhận việc trực tiếp dính líu vào vụ bê bối này.
+0	Chủ tịch Suzuki - ông Osamu Suzuki hôm 18/5 đã có mặt trong buổi họp báo tổ chức tại Bộ Giao thông Nhật Bản và cúi đầu xin lỗi.
+0	Chủ tịch Testuro Aikawa của Mitsubishi hôm 18/5 đã thông báo sẽ từ chức để nhận trách nhiệm về vụ bê bối gian lận mức tiêu thụ nhiên liệu, dù ông sẽ vẫn theo sát đến cuối vụ điều tra.
+0	Chủ tịch Suzuki - ông Osamu Suzuki vừa phải cúi đầu xin lỗi trong buổi họp báo hôm 18.5 về việc sử dụng sai phương pháp đo mức tiêu thụ nhiên liệu đối với khoảng 2,1 triệu xe.
+
+1	Phát biểu tại cuộc họp báo hôm 18/5 (giờ Tokyo), CEO Suzuki Osamu Suzuki đã cúi gập người trước đông đảo báo giới: “Chúng tôi thành thật xin lỗi vì đã không áp dụng đúng những tiêu chuẩn của đất nước Nhật Bản để đo mức tiết kiệm nhiên liệu cho xe Suzuki”.
+

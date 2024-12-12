@@ -1,0 +1,25 @@
+0	Đón đoàn có đại diện lãnh đạo UBND.TPHCM, Quân khu 7, Bộ Tư lệnh Hải quân cùng một số cơ quan chức năng liên quan.
+0	Phía Australia có Tổng lãnh sự tại TP.HCM và Tùy viên quốc phòng tại Hà Nội.
+1	Tham dự Lễ đón có đại diện lãnh đạo Ủy ban Nhân dân thành phố Hồ Chí Minh, Quân khu 7, Bộ Tư lệnh Hải quân cùng một số cơ quan chức năng liên quan.
+
+1	Theo chương trình, nhóm sỹ quan, chỉ huy tàu sẽ tới chào xã giao lãnh đạo Sở Ngoại vụ thành phố, Thủ trưởng Bộ Tư lệnh Quân khu 7 và đại diện Quân chủng Hải quân.
+0	Theo Chương trình, nhóm sỹ quan, chỉ huy tàu sẽ tới chào xã giao lãnh đạo Sở Ngoại vụ thành phố, Thủ trưởng Bộ Tư lệnh Quân khu 7 và đại diện Quân chủng Hải quân.
+
+0	Sỹ quan chỉ huy tàu và thủy thủ đoàn sẽ gặp gỡ các sỹ quan cao cấp và thủy thủ đoàn của Hải quân Nhân dân Việt Nam và tham gia các hoạt động giao lưu thiện chí cũng như thực hiện trao đổi nghiệp vụ liên quan đến hoạt động tàu chiến.
+0	Thủy thủ đoàn của HMAS ANZAC cũng sẽ có hoạt động giao hữu thể thao với các học viên của trường Trung Cấp Kỹ Thuật Hải Quân.
+0	Bên cạnh đó, chuyến thăm thiện chí này là cơ hội để thủy thủ đoàn khám phá nền văn hóa giàu bản sắc và con người Việt Nam.
+0	Đặc biệt, Hải quân nhân dân Việt Nam và các sỹ quan, thủy thủ tàu tàu HMAS Anzac sẽ tổ chức một số hoạt động trao đổi chuyên môn về thông tin liên lạc, vận động đội hình và luyện tập chung trên biển, giao hữu thể thao, tham quan các danh lam thắng cảnh, di tích lịch sử tại địa phương.
+1	Ngoài ra, các sỹ quan và thủy thủ tàu HMAS Anzac 150 còn tham gia một số hoạt động trao đổi chuyên môn về thông tin liên lạc, vận động đội hình và luyện tập chung trên biển, giao hữu thể thao, tham quan các danh lam thắng cảnh, di tích lịch sử tại địa phương.
+0	Trong khuôn khổ chuyến thăm từ ngày 30-5 đến 2-6, các sĩ quan và chỉ huy tàu HMAS Anzac sẽ gặp xã giao Bộ Tư lệnh Quân khu 7, Bộ Tư lệnh Hải quân, giao lưu thể thao bóng chuyền với Trường Trung cấp Kỹ thuật Hải quân tại TP HCM.
+
+1	Chiều 30/5, tàu HMAS Anzac thuộc Hải quân Hoàng gia Australia cùng 215 sỹ quan và thủy thủ đã cập cảng Thành phố Hồ Chí Minh, bắt đầu chuyến thăm chuyến thăm Việt Nam.
+0	Được sự đồng ý của Bộ Quốc phòng Việt Nam, tàu của hải quân hoàng gia Úc thăm TP.HCM từ ngày 30-5 đến 2-6.
+0	Thông cáo của Đại sứ quán Australia tại Việt Nam cho biết, tàu hộ vệ tên lửa HMAS ANZAC đến thành phố Hồ Chí Minh ngày 30/5 với thủy thủ đoàn bao gồm 28 sỹ quan và 156 thủy thủ.
+
+1	Đây là lần thứ 10 tàu Hải quân Hoàng gia Úc thăm TP HCM và là lần thứ 17 thăm Việt Nam.
+0	Đây là lần thứ 17 tàu hải quân Úc thăm Việt Nam và là lần thứ 10 thăm TP.HCM.
+
+1	Mục đích chuyến thăm lần này là tăng cường quan hệ hữu nghị giữa quân đội hai nước nói chung và lực lượng hải quân nói riêng, qua đó thúc đẩy quan hệ đối tác toàn diện Việt - Úc.
+0	Chuyến thăm này nhằm tăng cường quan hệ hữu nghị giữa quân đội hai nước nói chung và hải quân hai nước nói riêng trên tinh thần bản ghi nhớ về hợp tác quốc phòng giữa Bộ Quốc phòng Việt Nam - Úc.
+0	Chuyến thăm này góp phần thúc đẩy quan hệ đối tác toàn diện giữa hai nước ngày càng phát triển tốt đẹp.
+

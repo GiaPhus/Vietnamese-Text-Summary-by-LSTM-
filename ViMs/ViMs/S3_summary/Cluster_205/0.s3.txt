@@ -1,0 +1,47 @@
+0	Mức hỗ trợ là 25.000 đồng/môn thi, tính bình quân mỗi thí sinh thi 5 môn, tổng mức hỗ trợ trên mỗi thí sinh là 125.000 đồng/thí sinh.
+1	Bộ Giáo dục và Đào tạo vừa thông báo: Trong kỳ thi trung học phổ thông quốc gia 2016, tất cả các thí sinh đều được hỗ trợ kinh phí với mức hỗ trợ là 25.000 đồng/môn thi x bình quân 5 môn thi = 125.000 đồng/thí sinh.
+0	Theo đó, nguồn ngân sách nhà nước hỗ trợ căn cứ trên số lượng thí sinh đăng ký dự thi tại các cụm thi tổ chức cho thí sinh dự thi để xét công nhận tốt nghiệp THPT và xét tuyển vào các trường ĐH-CĐ ở cụm thi đại học.
+0	Mức hỗ trợ là: 25.000 đồng/môn thi, với bình quân 5 môn thi là 125.000 đồng/thí sinh.
+0	Thứ trưởng Nguyễn Vinh Hiển vừa ký công văn hỗ trợ Ngân sách nhà nước cho kỳ thi THPT quốc gia.
+0	Cụ thể, trung bình mỗi thí sinh sẽ thi 5 môn với mức hỗ trợ 125.000 đồng/thí sinh.
+0	Mức hỗ trợ là: 25.000 đồng/môn thi x bình quân 5 môn thi = 125.000 đồng/thí sinh.
+0	Ngoài ra, ngân sách Trung ương hỗ trợ tiền công tác phí cho các cán bộ, giảng viên, học viên về các tỉnh để tổ chức thi tại các cụm thi đại học theo điều động của Bộ GD&ĐT.
+
+1	Với các học sinh dự thi chỉ để xét công nhận tốt nghiệp trung học phổ thông năm 2016, nhưng tham gia dự thi tại cụm thi đại học, ngân sách địa phương sẽ chi trả 60.000 đồng/môn thi/thí sinh.
+0	Nguồn ngân sách địa phương chi trả cho các học sinh dự thi chỉ để xét công nhận tốt nghiệp THPT năm 2016, nhưng tham gia dự thi tại cụm thi đại học.
+0	Mức kinh phí ngân sách địa phương chi trả 60.000 đồng/môn thi/thí sinh.
+0	Nguồn ngân sách địa phương chi trả cho học sinh dự thi chỉ để xét công nhận tốt nghiệp trung học phổ thông năm 2016, tham gia dự thi tại cụm thi đại học.
+0	Mức kinh phí ngân sách địa phương chi trả 60.000 đồng/môn thi/thí sinh.
+0	Với các học sinh dự thi chỉ để xét công nhận tốt nghiệp trung học phổ thông năm 2016, nhưng tham gia dự thi tại cụm thi đại học, ngân sách địa phương sẽ chi trả 60.000 đồng/môn thi/thí sinh.
+
+0	Nguồn thu từ phí dự thi, dự tuyển 35.000 đồng/môn (sau khi trích lại cho Bộ GD&ĐT và các sở GD&ĐT theo quy định tại Thông tư liên tịch số 40/2015/TTLT-BTC-BGDĐT ngày 27 tháng 3 năm 2015 của Bộ Tài chính và Bộ GD&ĐT quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí dự thi, dự tuyển) được chuyển về các cụm thi đại học để tổ chức kỳ thi.
+0	Nguồn thu từ phí dự thi, dự tuyển 35.000 đồng/môn (sau khi trích lại cho Bộ Giáo dục và Đào tạo và các sở giáo dục và đào tạo theo quy định tại Thông tư liên tịch số 40/2015/TTLT-BTC-BGDĐT ngày 27 tháng 3 năm 2015 của Bộ Tài chính và Bộ Giáo dục và Đào tạo quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí dự thi, dự tuyển) được chuyển về các cụm thi đại học để tổ chức kỳ thi.
+1	Nguồn thu từ phí dự thi, dự tuyển 35.000 đồng/môn (sau khi trích lại cho Bộ GD-ĐT và các sở giáo dục và đào tạo theo quy định được chuyển về các cụm thi đại học để tổ chức kỳ thi.
+0	Nguồn thu từ phí dự thi, dự tuyển với mức 35.000 đồng/môn (sau khi trích lại cho Bộ Giáo dục và Đào tạo và các sở giáo dục và đào tạo theo quy định) sẽ chuyển về các cụm thi đại học để tổ chức kỳ thi.
+
+0	Theo công văn số 2426/BGDĐT-KHTC, mức trích nộp phí dự thi được thực hiện theo Điểm a Khoản 1 Điều 4 Thông tư liên tịch số 40/2016/TTLT-BTC-BGDĐT ngày 27/3/2016 của Bộ Tài chính và Bộ GD&ĐT.
+0	Cụ thể, trích nộp về Bộ GD&ĐT (qua Cục Khảo thí và Kiểm định chất lượng giáo dục): 8.000 đồng/hồ sơ; Sở GD&ĐT, Cục Nhà trường (Bộ Quốc phòng) giữ lại 8.000 đồng/hồ sơ; Phần phí dự thi còn lại được chuyển cho các trường đại học chủ trì cụm thi khi bàn giao hồ sơ đăng ký dự thi.
+0	Trước những khó khăn của một số địa phương, Thủ tướng Chính phủ đã yêu cầu các Bộ ngành liên quan nhanh chóng hỗ trợ các nhu yếu phẩm cần thiết để ổn định cuộc sống cho bà con nơi đây.
+0	Cụ thể, Thủ tướng Chính phủ chỉ đạo Bộ Tài chính xuất cấp (không thu tiền) 290,4 tấn gạo từ nguồn dự trữ quốc gia cho tỉnh Hà Giang để hỗ trợ cứu đói cho nhân dân trong thời gian giáp hạt năm 2016.
+0	Thủ tướng Chính phủ cũng đã giao Bộ Nông nghiệp và Phát triển nông thôn xuất cấp (không thu tiền) từ nguồn dự trữ quốc gia 5.000 lít hóa chất sát trùng Han-Iodine và 5.000 lít hóa chất sát trùng Vetvaco-Iodine cho tỉnh Quảng Trị để phòng, chống dịch bệnh tai xanh và 35 tấn hóa chất Chlorine 65% min cho tỉnh Bến Tre để phòng chống dịch bệnh thủy sản.
+0	Theo công văn số 2427/BGDĐT-KHTC về việc hướng dẫn định mức chi lệ phí dự thi, dự tuyển (lệ phí tuyển sinh) và kinh phí hỗ trợ từ NSNN cho kỳ thi THPT quốc gia năm 2016, nguồn ngân sách nhà nước Trung ương hỗ trợ căn cứ trên số lượng thí sinh đăng ký dự thi tại các cụm thi tổ chức cho thí sinh dự thi để xét công nhận tốt nghiệp THPT và xét tuyển vào các trường đại học, cao đẳng do các trường đại học chủ trì (gọi là cụm thi đại học).
+0	Bộ Giáo dục và Đào tạo cũng hướng dẫn các hội đồng thi chi tiết các khoản chi và mức chi như chi nhập dữ liệu, chi phí công tác sao in đề thi, chi hỗ trợ điện nước, chi nước uống, hỗ trợ y tế, hỗ trợ xăng xe… Bộ cũng lưu ý các hội đồng thi năm 2016 sẽ không thu phí phúc khảo bài thi của thí sinh như mọi năm.
+
+0	Riêng đối với mức chi chấm thi được thực hiện theo định mức như sau: Bài thi tự luận, mức chi tối đa 18.000 đồng/bài; Bài thi trắc nghiệm, mức chi tối đa 4.000 đồng/bài (bao gồm cả máy móc, thiết bị chấm thi trắc nghiệm).
+1	Trong các mức chi cho công tác tổ chức kỳ thi thì chi chấm bài thi: Bài thi tự luận, mức chi tối đa 18.000 đồng/bài; bài thi trắc nghiệm, mức chi tối đa 4.000 đồng/bài (bao gồm cả máy móc, thiết bị chấm thi trắc nghiệm)…
+
+1	Trường hợp, sở GD&ĐT điều động cán bộ, giáo viên tham gia hỗ trợ công tác tổ chức thi, kể cả cử cán bộ, giáo viên đến chấm thi tại các cụm thi do đại học chủ trì (nếu có) thì địa phương phải đảm bảo chi trả chế độ công tác phí cho các giáo viên này theo chế độ công tác phí hiện hành của nhà nước.
+0	Ngoài ra, ngân sách Nhà nước cũng hỗ trợ tiền công tác phí cho các cán bộ, giảng viên, học viên về các tỉnh tham gia tổ chức thi tại các cụm thi đại học theo điều động của Bộ Giáo dục và Đào tạo.
+0	Ngoài ra, ngân sách Trung ương hỗ trợ tiền công tác phí cho các cán bộ, giảng viên, học viên về các tỉnh để tổ chức thi tại các cụm thi đại học theo điều động của Bộ Giáo dục và Đào tạo.
+0	Bộ Giáo dục và Đào tạo cũng hướng dẫn cụ thể về nội dung, định mức chi cho công tác tổ chức kỳ thi về nhập xử lý dữ liệu kỳ thi ban đầu và xử lý kết quả thi, công tác thư ký, văn phòng phẩm cho kỳ thi, chi phí in sao đề thi, chi hỗ trợ điện nước, dọn dẹp phòng thi, chi nước uống, thuốc y tế cho các thí sinh tham gia kỳ thi, chi hỗ trợ xăng xe cho cán bộ và phục vụ kỳ thi, chi chấm bài thi…
+0	Bộ Giáo dục và Đào tạo cũng hướng dẫn các hội đồng thi chi tiết các khoản chi và mức chi như chi nhập dữ liệu, chi phí công tác sao in đề thi, chi hỗ trợ điện nước, chi nước uống, hỗ trợ y tế, hỗ trợ xăng xe… Bộ cũng lưu ý các hội đồng thi năm 2016 sẽ không thu phí phúc khảo bài thi của thí sinh như mọi năm.
+
+1	Ngoài ra, năm nay, Bộ Giáo dục và Đào tạo quy định không thu lệ phí phúc khảo đối với các thí sinh dự thi kỳ thi trung học phổ thông quốc gia.
+0	Bộ cũng nêu rõ, năm 2016, không thu lệ phí phúc khảo đối với các thí sinh dự thi kỳ thi THPT quốc gia.
+0	Năm 2016 không thu lệ phí phúc khảo đối với các thí sinh dự thi kỳ thi THPT quốc gia.
+
+1	Kỳ thi trung học phổ thông quốc gia năm nay sẽ bắt đầu từ ngày 1 đến hết ngày 4/7 với 8 môn thi gồm Toán, Văn, Ngoại ngữ, Lý, Hóa, Sinh, Sử, Địa.
+0	Kỳ thi trung học phổ thông quốc gia năm nay sẽ bắt đầu từ ngày 1 đến hết ngày 4/7 với 8 môn thi gồm Toán, Văn, Ngoại ngữ, Lý, Hóa, Sinh, Sử, Địa.
+0	Trong đó có Toán, Văn, Ngoại ngữ là ba môn bắt buộc.
+0	Các môn còn lại là môn thi do thí sinh tự chọn.
+

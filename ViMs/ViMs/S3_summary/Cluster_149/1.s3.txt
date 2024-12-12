@@ -1,0 +1,42 @@
+0	Từ nay, người có nhu cầu cấp Giấy phép lái xe quốc tế có thể đăng ký và khai báo ngay tại nhà, qua website www.drvn.gov.vn hoặc www.dichvucong.gplx.gov.vn:8000.
+0	Theo thông tin từ website http://dichvucong.gplx.gov.vn:8000/faces/registration/regis_new_4.xhtml thì dịch vụ công mức độ 4 này chỉ dành cho người có nhu cầu đổi GPLX quốc tế; chưa áp dụng cho việc đổi GPLX sử dụng trong nước (nội địa).
+0	Dịch vụ này áp dụng cho người Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có GPLX quốc gia do Việt Nam cấp bằng vật liệu PET (GPLX kiểu mới), còn giá trị sử dụng trên một năm kể từ ngày được cấp, có nhu cầu lái xe khi cư trú, công tác, học tập và du lịch tại những nước tham gia Công ước Viên.
+1	Kể hôm nay, người dân có nhu cầu cấp GPLX quốc tế đã có thể đăng ký, khai báo trên trang thông tin điện tử: www.drvn.gov.vn và www.dichvucong.gplx.gov.vn:8000.
+0	Người dân có thể đăng ký, khai báo trên trang thông tin điện tử: www.drvn.gov.vn và www.dichvucong.gplx.gov.vn:8000.
+0	Từ hôm nay, người dân có thể đổi giấy phép lái xe quốc tế tại nhà.
+0	Theo đó từ hôm nay, người có nhu cầu cấp GPLX quốc tế đã có thể đăng ký, khai báo trên trang thông tin điện tử: www.drvn.gov.vn và www.dichvucong.gplx.gov.vn:8000.
+
+0	Đây là kết quả của việc hoàn thành hệ thống cung cấp dịch vụ công mức độ 4, cấp GPLX quốc tế.
+1	Tổng cục Đường bộ cho biết, thực hiện kế hoạch cung cấp dịch vụ công trực tuyến của Bộ GTVT, giai đoạn 2013-2015, định hướng đến năm 2020, sau quá trình nghiên cứu, xây dựng hệ thống cung cấp dịch vụ công mức độ 4 cấp GPLX quốc tế, đơn vị này đã hoàn thành các thủ tục để chính thức bấm nút khai trương dịch vụ này.
+0	Theo thông tin từ Tổng cục Đường bộ Việt Nam, kể từ cuối tháng 5-2016, những người có nhu cầu đổi giấy phép lái xe quốc tế có thể đăng ký trực tuyến, ngồi nhà chờ kết quả gửi đến… Đây là mô hình dịch vụ công (trực tuyến) mức độ 4 được áp dụng cho hình thức đổi giấy phép lái xe (GPLX) quốc tế.
+
+0	Còn dịch vụ công mức độ 3 sẽ áp dụng đối với người có GPLX do ngành giao thông vận tải quản lý (còn thời hạn hoặc quá hạn dưới 3 tháng).
+0	Dịch vụ cấp/đổi GPLX qua mạng trước đây đã được triển khai đại trà ở nhiều tỉnh thành như Hà Nội, TPHCM, Phú Thọ, Bình Dương…; tuy nhiên, các tỉnh thành mới chỉ cung cấp dịch vụ công mức độ 3 với hình thức đăng ký, gửi hồ sơ trực tuyến...
+1	Quy trình đăng ký GPLX quốc tế qua mạng gồm 4 bước: khai báo thông tin hồ sơ trực tuyến và đăng ký địa chỉ nhận chuyển phát sau khi có kết quả GPLX quốc tế; thực hiện thanh toán trực tuyến phí và lệ phí qua cổng thanh toán trực tuyến thành công; nhận kết quả thông báo kết quả xác nhận hồ sơ qua địa chỉ hòm thư đã đăng ký; nếu hồ sơ hợp lệ sẽ được nhận kết quả chuyển phát GPLX quốc tế tại địa chỉ đã đăng ký.
+
+1	Để thực hiện quy trình này, cán bộ nghiệp vụ có trách nhiệm kiểm tra sơ bộ hồ sơ, thông báo lại cho người dân kết quả qua hộp thư điện tử để được trả GPLX quốc tế tại địa chỉ đã đăng ký.
+1	Người có nhu cầu cấp GPLX quốc tế qua mạng cần phải có GPLX bằng vật liệu PET còn giá trị sử dụng và có trong cơ sở dữ liệu GPLX toàn quốc; có tài khoản ngân hàng để thanh toán trực tuyến.
+0	Để thực hiện được quy trình này, cán bộ nghiệp vụ có trách nhiệm kiểm tra sơ bộ hồ sơ, thông báo lại cho người dân kết quả qua hộp thư điện tử để được trả GPLX quốc tế tại địa chỉ đã đăng ký.
+0	Khi vào trang thông tin điện tử này, người dân sẽ được hướng dẫn cách thức đăng ký, khai báo thông tin.
+0	Sau khi người dùng đăng ký, cán bộ nghiệp vụ sẽ kiểm tra hồ sơ và thông báo kết quả qua hòm thư điện tử.
+0	Các thức cụ thể sẽ có khi chúng ta truy cập 2 website trên.
+0	Để thực hiện quy trình này, cán bộ nghiệp vụ có trách nhiệm kiểm tra sơ bộ hồ sơ, thông báo lại cho người dân kết quả qua hộp thư điện tử để được trả GPLX quốc tế tại địa chỉ đã đăng ký.
+0	Khi vào trang thông tin điện tử này, người dân sẽ được hướng dẫn cách thức đăng ký, khai báo thông tin.
+
+0	Tổng cục Đường bộ Việt Nam cho biết, người dân cần phân biệt rõ là việc cấp đổi qua mạng chỉ thực hiện đối với GPLX quốc tế, không áp dụng với GPLX thông thường.
+0	Đối với GPLX thông thường, người muốn cấp, đổi vẫn phải có mặt ở cơ sở cấp đổi để xác thực tình trạng sức khỏe.
+0	Còn khi cấp, đổi GPLX quốc tế, người lái xe vẫn phải kèm theo GPLX nội địa.
+0	GPLX nội địa chính là cơ sở dữ liệu để đảm bảo cho GPLX quốc tế.
+0	Việc cấp đổi ở mức độ 4 chỉ thực hiện đối với GPLX quốc tế, không áp dụng với GPLX thông thường.
+0	Vì vậy, đối với GPLX thông thường, người muốn cấp, đổi vẫn phải có mặt ở cơ sở cấp đổi để xác thực tình trạng sức khỏe (có bị cụt chân, cụt tay hay không).
+0	Còn khi cấp, đổi GPLX quốc tế, người lái xe vẫn phải kèm theo GPLX nội địa.
+0	GPLX nội địa chính là cơ sở dữ liệu để đảm bảo cho GPLX quốc tế.
+0	Vì thế, khi cần cấp đổi sang GPLX quốc tế thì người lái xe không cần thiết phải đến cơ sở cấp đổi nữa.
+0	Hiện chỉ có việc đổi GPLX quốc tế được thực hiện qua Internet, và điều kiện cần là GPLX nội địa.
+0	Còn GPLX nội địa vẫn cần thực hiện theo cách truyền thống để các cán bộ phụ trách có thể xác thực điều kiện sức khoẻ thực tế của người tham gia.
+1	Theo Tổng cục Đường bộ, việc cấp đổi ở mức độ 4 chỉ thực hiện đối với GPLX quốc tế, không áp dụng với GPLX thông thường.
+1	Vì đối với GPLX thông thường, người muốn cấp, đổi vẫn phải có mặt ở cơ sở cấp đổi để xác thực tình trạng sức khỏe (có bị cụt chân, cụt tay hay không).
+1	Còn khi cấp, đổi GPLX quốc tế, người lái xe vẫn phải kèm theo GPLX nội địa.
+1	GPLX nội địa chính là cơ sở dữ liệu để đảm bảo cho GPLX quốc tế.
+1	Vì thế, khi cần cấp đổi sang GPLX quốc tế thì người lái xe không cần thiết phải đến cơ sở cấp đổi nữa.
+

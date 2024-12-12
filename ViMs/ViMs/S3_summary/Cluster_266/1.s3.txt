@@ -1,0 +1,52 @@
+0	Đêm 2/6, khói lửa bốc lên ngùn ngụt từ căn nhà trong hẻm 80, đường Dương Quảng Hàm, (quận Gò Vấp, TP.HCM).
+0	Thông tin ban đầu, vào 22h đêm 2/6, ngọn lửa bùng lên dữ dội từ căn nhà cấp 4 nằm trong hẻm 80, Dương Quảng Hàm, quận Gò Vấp.
+0	Theo những tin tức mới nhất trên báo Dân Trí, vụ cháy nhà kinh hoàng trong hẻm nhỏ xảy ra vào lúc 21h30 tối qua ngày 2/6.
+0	Vụ hỏa hoạn xảy ra vào khoảng 21h ngày 2/6 tại căn nhà trong hẻm 80 đường Dương Quảng Hàm (phường 5, quận Gò Vấp, TP.HCM) khiến nhiều tài sản trong căn nhà rộng 100m2 bị thiêu rụi.
+0	Vụ cháy xảy ra vào đêm 2/6, tại căn nhà cấp 4 bên trong hẻm 80 Dương Quảng Hàm, quận Gò Vấp, TPHCM.
+1	Rạng sáng 3/6, người dân ngụ trong con hẻm số 80 đường Dương Quảng Hàm, quận Gò Vấp, TP HCM đang say giấc bỗng nghe tiếng kêu vì hoả hoạn xảy ra từ căn nhà cấp 4 trong hẻm.
+0	Lúc 21h30 ngày 2/6, người dân phát hiện căn nhà cấp bốn nằm trong hẻm 80 đường Dương Quảng Hàm (quận Gò Vấp, TPHCM) bất ngờ bốc cháy dữ dội, khói lửa bao trùm căn nhà.
+
+0	Phát hiện đám cháy, người dân trong khu vực đã ngắt hệ thống điện khiến cánh cửa cuốn trong nhà này không mở ra được, vợ chồng cụ ông 70 tuổi mắc kẹt bên trong la hét, kêu cứu.
+0	Ngay sau đó người dân quanh đây liền dùng xà beng, búa phá cảnh cửa hông, lao vào đám cháy đưa vợ chồng cụ ông ra ngoài an toàn.
+0	Thấy cháy lớn, người dân đã nhanh chóng ngắt hệ thống điện tổng bên ngoài khiến cửa cuốn của ngôi nhà không thể mở ra được, 2 vợ chồng cụ ông 70 tuổi bị kẹt lại bên trong la hét, kêu cứu giữa biển lửa rợp trời.
+0	Do điện bị ngắt nên cánh cửa cuốn của căn nhà không hoạt động, hai vợ chồng cụ già 70 tuổi bị mắc kẹt bên trong cầu cứu.
+1	Nghe tiếng tri hô cầu cứu bên trong của hai vợ chồng cụ ông 70 tuổi, hàng chục người huy động xà beng, búa...phá cảnh cửa bên hông, lao vào đám cháy nghi ngút để cứu 2 nạn nhân bị mắc kẹt, đưa ra ngoài an toàn.
+0	Lúc này, hai vợ chồng cụ già 70 tuổi mắc kẹt bên trong la hét, kêu cứu.
+0	Người dân và lực lượng Công an, bảo vệ dân phố đã dùng xà beng, búa phá tung cửa hông, lao vào đám cháy cứu hai người ra ngoài an toàn.
+0	Thấy cháy, người dân đã nhanh chóng ngắt hệ thống điện tổng bên ngoài khiến cửa cuốn của ngôi nhà không thể mở ra được, 2 vợ chồng cụ ông 70 tuổi bị kẹt lại bên trong la hét, kêu cứu.
+0	Rất đông người dân đã dùng xà beng, búa phá cánh cửa hông, lao vào đám cháy nghi ngút khói cứu 2 người ra ngoài an toàn.
+
+1	Nhận được tin báo, Phòng Cảnh sát PCCC quận Gò Vấp đã điều 6 xe nước và gần 40 cán bộ chiến sĩ đến hiện trường để dập lửa.
+0	Nhận được tin báo, ít phút sau lực lượng Cảnh sát PCCC quận Gò Vấp có mặt tại hiện trường.
+0	Trong khi đó, nhận được tin cháy mới nhất, lực lượng Cảnh sát Phòng cháy chữa cháy quận Gò Vấp đã khẩn trương huy động nhiều xe chữa cháy cùng khoảng 40 chiến sĩ có mặt tại hiện trường vụ cháy lớn để dập lửa.
+0	Nhận được tin báo, lực lượng PCCC quận Gò Vấp điều nhiều xe nước cùng hàng chục chiến sĩ đến hiện trường.
+0	Nhận được tin báo, Cảnh sát PCCC quận Gò Vấp huy động nhiều xe chữa cháy cùng hàng chục chiến sĩ có mặt để dập lửa.
+0	Vài phút sau, lực lượng Cảnh sát PCCC quận Gò Vấp đã có mặt tham gia chữa cháy.
+
+1	Do hiện trường vụ cháy nằm sâu trong con hẻm nhỏ, xe chữa cháy không thể vào được nên cảnh sát phải kéo vòi rồng vào để chữa cháy.
+0	Nhận được tin báo lực lượng cảnh sát PCCC quận Gò Vấp có mặt tại hiện trường nhưng con hẻm nhỏ khiến xe chữa cháy không thể tiếp cận được gây khó khăn cho việc chữa cháy.
+
+0	Sau gần 2 giờ tích cực chữa cháy, lính cứu hỏa đã khống chế được ngọn lửa.
+0	Cửa cuốn của căn nhà không mở được, 2 vợ chồng cụ ông 70 tuổi bị mắc kẹt bên trong.
+0	Sau hơn 2h nỗ lực phun nước xối xả, đám cháy cơ bản được dập tắt.
+0	Sau gần 2 giờ vật lộn với đám cháy nhà, lính cứu hỏa đã dập tắt được ngọn lửa.
+0	Sau hơn 2 giờ, ngọn lửa được dập tắt hoàn toàn nhưng toàn bộ tài sản, vật dụng bên trong căn nhà cấp 4 rộng khoảng 100m2 bị thiêu rụi.
+0	Sau gần 2 giờ vật lộn với đám cháy, lính cứu hỏa đã dập tắt được ngọn lửa.
+1	Sau gần 2h chữa cháy, đám cháy được dập tắt hoàn toàn.
+0	Hơn 2 giờ sau, đám cháy được dập tắt.
+
+0	Vụ cháy không gây thiệt hại về người song đã thiêu rụi nhiều tài sản bên trong.
+0	Vụ cháy không gây thương vong về người, song đã thiêu rụi nhiều tài sản trong căn nhà.
+0	Nguồn tin từ báo VietNamNet cho hay, mặc dù không gây thương vong về người nhưng vụ cháy nhà khiến tài sản bên trong căn nhà cấp 4 bị thiêu rụi.
+0	May mắn không có thiệt hại về người.
+1	Không có thương vong về người, tuy nhiên vụ cháy khiến tài sản bên trong căn nhà cấp 4 bị thiêu rụi.
+0	Vụ cháy không gây thiệt hại về người song đã thiêu rụi nhiều tài sản, mái nhà đổ sập.
+0	Vụ cháy không gây thiệt hại về người nhưng đã thiêu rụi nhiều tài sản.
+
+1	Nguyên nhân vụ cháy đang được điều tra.
+0	Sáng nay (3-6), công tác khám nghiệm hiện trường, điều tra nguyên nhân vụ cháy đang được cơ quan chức năng tiến hành.
+0	Hiện nguyên nhân vụ cháy nhà trong hẻm sâu đang được điều tra, làm rõ.
+0	Nguyên nhân vụ cháy đang được công an làm rõ.
+0	Hiện nguyên nhân vụ cháy đang được điều tra, làm rõ.
+0	Nguyên nhân vụ cháy đang được cơ quan chức năng điều tra làm rõ.
+

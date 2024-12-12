@@ -1,0 +1,39 @@
+0	Báo cáo được đưa ra sau khi Quản lý thị trường Hà Nội tiến hành kiểm tra một số cửa hàng trên tuyến phố Kim Ngưu, Thanh Niên, Xã Đàn, Bạch Mai, Ngọc Lâm, Trần Thái Tông, Đội Cấn, Trần Đại Nghĩa...
+0	Trong số 8 cửa hàng được kiểm tra, thì có tới 7 cửa hàng vi phạm quy định về vệ sinh an toàn thực phẩm, 1 cửa hàng đang trong quá trình xử lý (mời giám đốc lên làm việc).
+0	8 cửa hàng bị kiểm tra có địa chỉ tại: 123 Đội Cấn, 11 đường Thanh Niên, 99 Xã Đàn, 61 Yên Lãng, 401 Bạch Mai, 147 Trần Đại Nghĩa, 491 Kim Ngưu, số 8 Nguyễn Phong Sắc kéo dài, 162 Ngọc Lâm.
+1	Các cơ sở được kiểm tra có địa chỉ tại số 491 Kim Ngưu, 11 Thanh Niên, 99 Xã Đàn, 401 Bạch Mai, 162 Ngọc Lâm, 8 Nguyễn Phong Sắc kéo dài (Trần Thái Tông), 123 Đội Cấn, 147 Trần Đại Nghĩa.
+0	8 cửa hàng Feeling Tea tại địa chỉ: số 491 Kim Ngưu, 11 Thanh Niên, 99 Xã Đàn, 401 Bạch Mai, 162 Ngọc Lâm, 8 Nguyễn Phong Sắc kéo dài (Trần Thái Tông), 123 Đội Cấn, 147 Trần Đại Nghĩa.
+
+1	Trong 8 cửa hàng bị kiểm tra, có 6 đơn vị không có giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, một cửa hàng không thực hiện khám sức khoẻ cho đối tượng thuộc diện phải khám sức khoẻ định kỳ và một cửa hàng do chủ đi vắng nên phía cơ quan chức năng chưa thể xử lý.
+0	Cụ thể, 6 cửa hàng kinh doanh mà không có giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, 1 cửa hàng không thực hiện khám sức khoẻ cho đối tượng thuộc diện phải khám sức khoẻ định kỳ.
+0	Báo cáo nhanh kết quả kiểm tra, kiểm soát thị trường mới đây do đội Quản lý thị trường Hà Nội tiến hành kiểm tra các cửa hàng kinh doanh trà sữa Feeling Tea cho thấy, trong 8 cửa hàng bị kiểm tra, có 6 đơn vị không có giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, một cửa hàng không thực hiện khám sức khoẻ cho đối tượng thuộc diện phải khám sức khoẻ định kỳ và một số cửa hàng do chủ đi vắng nên phía cơ quan chức năng chưa thể xử lý.
+0	Trong đó, cả 6 đơn vị không có giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, 1 cơ sở không thực hiện khám sức khỏe cho đối tượng thuộc diện phải khám sức khỏe định kỳ và 1 cửa hàng do chủ đi vắng nên phía cơ quan chức năng chưa thể xử lý.
+
+0	Trong các nguyên liệu trên, nhiều sản phẩm được nhập khẩu "chui" từ nước ngoài về.
+0	Trong khi kiểm tra, lực lượng chức năng phát hiện thấy chi nhánh của Feeling Tea tại số 137 Ngọc Hồi đã sử dụng nguồn nguyên liệu nhập ngoại không đảm bảo an toàn, vì không rõ nguồn gốc xuất xứ.
+1	Chi Cục Quản lý Thị trường thành phố Hà Nội vừa thực hiện kiểm tra và phát hiện hàng loạt các cửa hàng trà sữa thuộc chuỗi cửa hàng Feeling tea vi phạm các quy định về vệ sinh an toàn thực phẩm.
+1	Hầu như các cửa hàng không xuất trình được giấy tờ chứng minh nguồn gốc, xuất xứ hàng hóa.
+0	Nguồn tin từ Chi Cục Quản lý Thị trường thành phố Hà Nội, đơn vị này vừa thực hiện kiểm tra và phát hiện hàng loạt các cửa hàng trà sữa thuộc chuỗi cửa hàng Feeling tea vi phạm các quy định về vệ sinh an toàn thực phẩm.
+0	Ghi nhận trên tầng 2 của xưởng nhiều nguyên liệu, hương liệu dùng vào việc sản xuất trà, nhãn mác bằng tiếng Trung Quốc, nhiều hàng trong đó không có hóa đơn chứng từ chứng minh nguồn gốc xuất xứ.
+0	Hàng trăm túi bạc đựng các gói trà nhỏ in nhãn mác nước ngoài không hạn sử dụng.
+0	Phần lớn các cơ sở được kiểm tra đều không chứng minh được nguồn gốc xuất xứ nguyên liệu mà họ sản xuất trà sữa, chân trâu.
+
+0	Trước đó, chiều 12/5, Đội 5 Phòng Cảnh sát môi trường (Công an Hà Nội) và Đội quản lý thị trường số 26 (Chi cục Quản lý thị trường) đã tiến hành kiểm tra việc chấp hành các quy định về an toàn thực phẩm tại xưởng sản xuất trà sữa chân trâu thuộc Công ty TNHH Cảm Xúc do người Đài Loan (Trung Quốc) làm chủ (đường Ngọc Hồi, quận Hoàng Mai).
+1	Trước đó, chiều 12/5, Đội 5 - Phòng Cảnh sát môi trường, CATP Hà Nội và Đội QLTT số 26, Chi cục QLTT đã kiểm tra xưởng sản xuất trà sữa chân trâu thuộc Công ty TNHH Cảm Xúc (đường Ngọc Hồi, quận Hoàng Mai).
+0	Trước đó, ngày 12/5 vừa qua, Đội 5 Phòng Cảnh sát môi trường (Công an Hà Nội) và Đội quản lý thị trường số 26 (Chi Cục Quản lý thị trường) cũng đã tiến hàng kiểm tra việc chấp hành các quy định về an toàn thực phẩm tại xưởng sản xuất trà sữa chân trâu thuộc Công ty TNHH Cảm Xúc do người Đài Loan (Trung Quốc) làm chủ (đường Ngọc Hồi, quận Hoàng Mai).
+0	Trước đó, ngày 12/5, Quản lý thị trường Hà Nội đã tiến hành kiểm tra xưởng sản xuất trà sữa trân châu tại Ngọc Hồi (Hoàng Mai) thuộc sở hữu của Công ty TNHH Cảm Xúc do người Đài Loan (Trung Quốc) làm chủ.
+0	Theo các giấy tờ được cung cấp, cơ sở sản xuất trà sữa trân châu Feeling Tea này có đầy đủ giấy chứng nhận đủ điều kiện an toàn thực phẩm.
+0	Trước đó, Quản lý thị trường Hà Nội đã tiến hành kiểm tra xưởng sản xuất trà sữa trân châu tại Ngọc Hồi (Hoàng Mai) thuộc sở hữu của Công ty TNHH Cảm Xúc do người Đài Loan làm chủ.
+
+0	Được biết, Công ty TNHH Cảm Xúc có chuỗi 16 cửa hàng kinh doanh trà sữa chân trâu (thương hiệu trà Feeling Tea).
+0	Doanh nghiệp này đã được cấp Chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, tuy nhiên qua kiểm tra thực tế tại xưởng sản xuất, cơ quan chức năng phát hiện nhiều nguyên phụ liệu "3 không", đó là không hạn sử dụng, không nguồn gốc, không kiểm định chất lượng...
+0	Lực lượng chức năng đã tạm giữ hơn 200 kg nguyên liệu bột trà để tiếp tục làm rõ.
+1	Tuy nhiên, khi kiểm tra kho hàng, cơ quan chức năng đã phát hiện rất nhiều các nguyên liệu mà cơ sở này dùng để sản xuất trân châu, thạch và trà được nhập chui từ nước ngoài, không rõ nguồn gốc xuất xứ, không xuất trình được hóa đơn chứng từ.
+
+0	Đáng chú ý, Chi Cục Quản lý Thị trường đã tạm giữ nguyên liệu chế biến tại 4 cửa hàng do không xuất trình được giấy tờ chứng minh nguồn gốc, xuất xứ của hàng hoá.
+0	Các sản phẩm bị tạm giữ chủ yếu là: hạt trân châu, bột trà xanh, bộ cà phê, đường nước…
+0	Nhiều cơ sở trong số này cũng sử dụng nguyên liệu chưa chứng minh được nguồn gốc xuất xứ.
+0	Phía cơ quan chức năng đã tạm giữ nhiều nguyên vật liệu để pha chế trà sữa được nhập khẩu "chui" như: 13 gói trà xanh 250g, 9 gói trà hồng 190g, 6 gói coffee matte 250g, một can đường nước 23kg, 26kg hạt trân châu, 45 kg bột kem Coffemate.
+1	Theo đó, đoàn kiểm tra tạm giữ nhiều nguyên vật liệu để pha chế trà sữa được nhập khẩu "chui" như: 13 gói trà xanh 250g, 9 gói trà hồng 190g, 6 gói coffee matte 250g, một can đường nước 23kg, 26kg hạt trân châu, 45 kg bột kem Coffemate.
+0	Hiện cơ quan tạm giữ nhiều nguyên liệu pha chế trà sữa là 13 gói trà xanh 250g, 9 gói trà hồng 190g, 6 gói cà phê matte 250g, một can đường nước 23kg, 26kg hạt trân châu, 45 kg bột kem Coffemate.
+

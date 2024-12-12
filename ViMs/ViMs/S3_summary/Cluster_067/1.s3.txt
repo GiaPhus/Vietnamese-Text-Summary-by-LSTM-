@@ -1,0 +1,29 @@
+1	Theo tin trên Reuters, vừa qua Ngân hàng Banco del Austro (Ecuador) đã tiết lộ điều này trong một vụ kiện ở New York với Ngân hàng Wells Fargo & Co (Mỹ).
+0	Vụ kiện trên lần đầu được công bố rộng rãi hôm 20.5 bởi tờ báo The Wall Street Journal, một tuần sau khi Hội Viễn thông Tài chính Liên ngân hàng Thế giới (SWIFT) hướng dẫn khách hàng cách đảm bảo an toàn cho mạng máy tính của họ.
+0	BDA đang kiện Wells Fargo trên cơ sở ngân hàng Mỹ này lẽ ra phải đánh dấu (gắn nhãn) các giao dịch đó là đáng ngờ.
+0	Hồi tháng 1.2015, vụ tấn công ngân hàng Banco del Austro được nhà băng này mô tả trong vụ kiện được tòa án liên bang New York xử lý.
+
+1	Phía ngân hàng Ecuador cho rằng tin tặc đã có được mã ngân hàng sử dụng để chuyển tiền qua hệ thống SWIFT, và sử dụng chúng để chuyển tiền tới Ngân hàng Wells Fargo & Co.
+0	Cả hai ngân hàng này tin rằng những khoản tiền đó đã bị các tin tặc không rõ danh tính đánh cắp, theo tài liệu trong đơn kiện của BDA đối với Wells Fargo ở New York trong năm nay.
+0	Wells Fargo ban đầu từ chối bình luận về vụ kiện, nhưng hôm qua (ngày 20/5/2016, trong một thông cáo gửi hãng tin Reuters nói rằng "hãng đã xử lý đúng các điện chuyển tiền họ nhận được qua các tin nhắn SWIFT xác thực", và họ không chịu trách nhiệm về những mất mát của BDA.
+0	Trong khi Wells Fargo tuyên bố trong tài liệu toà án rằng các sai sót bảo mật của BDA là nguyên nhân của vụ rò rỉ này thì BDA đã cáo buộc Wells có thể dễ dàng phát hiện và từ chối những giao dịch đáng ngờ.
+0	Kẻ cướp tiền của BDA và các ngân hàng khác đã nhấn mạnh sự cần thiết cho các ngân hàng cả hai bên giao dịch – thường là lượng lớn – phải bớt dựa dẫm vào sự bảo mật của SWIFT và tăng cường các giao thức xác nhận của chính mình.
+0	Vụ chuyển tiền này được thực hiện thông qua một dịch vụ của bên thứ ba mà ngân hàng này sử dụng để kết nối với hệ thống SWIFT.
+0	Những tên trộm chuyển 12 triệu USD của ngân hàng vào các tài khoản ở Hồng Kông, Dubai, New York và Los Angeles, theo hồ sơ vụ việc.
+
+0	SWIFT cảnh báo rằng hai vụ tấn công trước đó nhằm vào Ngân hàng Trung ương Bangladesh và ngân hàng thương mại TPBank của Việt Nam dường như là “một phần của chiến dịch rộng lớn hơn và có độ thích nghi cao hơn”.
+0	Câu hỏi đặt ra là khi xảy ra trường hợp tin tặc đã thực hiện được các giao dịch chuyển tiền qua hệ thống SWIFT, cụ thể như vụ ngân hàng TPBank, thì lỗi thuộc về bên nào?
+0	Trong thông tin báo chí phát đi ngày Chủ nhật 15/5, ngân hàng TPBank giải thích trước đây họ sử dụng "dịch vụ thuê ngoài của một đối tác để kết nối với hệ thống SWIFT qua các máy chủ của đối tác này đặt tại nước ngoài từ các máy trạm độc lập".
+0	Như vậy, có thể thấy trong vụ việc này, thông tin do TPBank cung cấp phụ thuộc vào kết quả và nhận định của một tổ chức khác là SWIFT thay vì từ điều tra của chính mình.
+0	Trong khi thông cáo ngày 15/5 của TPBank trích dẫn thông tin từ SWIFT cho rằng có thể đối tác của TPBank bị mã độc thâm nhập thì trước đó, thông cáo chính thức của SWIFT ngày 13/5 khẳng định tin tặc đã thâm nhập được vào môi trường của ngân hàng.
+0	Hơn 10 ngày, hãng đã chấp thuận tổng số ít nhất 12 giao dịch yêu cầu chuyển tiền của BDA qua hệ thống SWIFT hết sức an toàn.
+1	Trước đó, Ngân hàng TPBank đã thông báo ngăn chặn được một vụ chuyển tiền "đáng ngờ" trị giá 1 triệu euro (1,1 triệu USD) vào cuối năm ngoái.
+
+0	Chúng tôi liên lạc với các ngân hàng có liên quan để tìm thêm thông tin và đang nhắc nhở các khách hàng của mình rằng họ có nghĩa vụ thông tin đến chúng tôi”, phát ngôn viên SWIFT Natasha de Teran nói.
+0	Trong khi đó, một số chuyên gia bảo mật và thậm chí nạn nhân của một vụ hack tương tự lên tiếng chỉ trích, yêu cầu SWIFT phải có trách nhiệm.
+0	Việc mất an toàn thông tin trong lĩnh vực ngân hàng đang xảy ra với tần suất ngày càng nhiều, hàng loạt sự cố liên quan đến bảo mật ngân hàng đã gây rúng động toàn cầu.
+1	"Chúng tôi đã cảnh báo các ngân hàng rằng họ phải thực hiện đúng trách nhiệm của mình, đó là phải thông báo cho SWIFT khi phát hiện thấy những sự cố đáng ngờ xảy ra trong kết nối giữa ngân hàng và SWIFT," người đại diện của SWIFT tuyên bố vào hôm thứ Sáu.
+
+1	"Nhiều cuộc tấn công đã xảy ra từ 15 tháng trước đó", người phát ngôn của SWIFT nói với Reuters, tuy nhiên SWIFT chỉ mới phát hiện ra các cuộc tấn công này.
+0	Theo CNN, nếu ba là con số đủ để làm nên một xu hướng, thì ba vụ hack nhà băng trong thời gian qua đủ để cho thấy hệ thống ngân hàng toàn cầu đang bị tấn công.
+

@@ -1,0 +1,69 @@
+0	Đề thi ra một tình huống sau: Anh A, trong tâm trạng rất bất ổn đến Trung tâm Tư vấn pháp luật có yêu cầu tư vấn về vụ việc vừa xảy ra tại nhà anh.
+0	Một đề thi mang tên “Vụ án cai sữa chết người” trong môn Kĩ năng chung về tư vấn pháp luật của trường ĐH Luật Hà Nội được làm bằng thơ thay vì những văn bản luật, những tình huống theo khuôn mẫu mà mọi người hay nghĩ về đề thi của ngành Luật.
+0	Đề thi với câu hỏi tình huống đặt ra: “Anh A, trong tâm trạng rất bất ổn đến Trung tâm tư vấn pháp luật có yêu của tư vấn về vụ việc vừa xảy ra tại nhà anh.
+0	Nội dung vụ việc mà anh A trình bày” được đưa ra dưới dạng bài thơ.
+1	Sở dĩ đề thi trở thành đề tài bàn tán ở chỗ ngành Luật vốn được xem là một lĩnh vực luôn đòi hỏi sự nghiêm túc, cứng rắn, thậm chí có phần hơi "khô khan" khi nghiên cứu về các điều luật, bộ luật.
+1	Tuy nhiên, ở đề thi này, phần tình huống được nêu ra lại là bài thơ kể một câu chuyện cười về "Vụ án cai sữa chết người".
+0	Theo một số sinh viên trường Đại học Luật Hà Nội xác nhận, đề thi được đưa ra vào ngày 30/5.
+0	Ông Vũ Văn Cương xác nhận với PV Dân trí, đề thi do chính Trung tâm Tư vấn Pháp luật (thuộc ĐH Luật Hà Nội) ra vào ngày 30 tháng 5.
+
+0	Đề bài cho phép học viên sử dụng tài liệu.
+0	Đề thi cho phép học viên được sử dụng tài liệu.
+0	Sáng 1/6, trao đổi với VietNamNet, lãnh đạo Trường ĐH Luật Hà Nội cho biết, đã nhận được thông tin về đề thi trên và hiện đang chờ ý kiến phản hồi từ Trung tâm tư vấn pháp luật.
+0	Đây không phải lần đầu tiên xuất hiện các đề thi "độc, lạ" như vậy, trước đó mạng xã hội cũng từng xôn xao trước hàng loạt đề thi có gắn người nổi tiếng, bộ phim nổi tiếng hay trào lưu nổi và những đề thi đó cũng nhận được nhiều ý kiến tranh luận từ người dùng mạng.
+
+0	“Tôi giảng dạy môn này và đã ra đề nhiều lần.
+0	Tôi nghĩ ra đề theo lối truyền thống hơi nhàm chán nên muốn đưa một cái gì đó mới lạ.
+0	Việc đưa cái mới ra, tất nhiên sẽ có người ủng hộ, người không ủng hộ là điều bình thường.
+0	Nhưng tôi nghĩ đây là một bước đột phá xem có nâng cao chất lượng hiệu quả cho học viên hay không”, ông Cương cho hay.
+0	Ông cũng cho biết thêm, để có một đề thi bằng thơ, phải rất cầu kì, đầu tư nhiều công sức như chọn từ, hài hòa âm điệu nhưng không được thiếu dữ kiện.
+0	Vì thế, Ban soạn thảo mất nhiều thời gian hơn so với bình thường.
+0	Theo ông Cương cho biết: “Đây là chuyên ngành khi ra đề thi phải có tình huống, có thể thông thường sẽ mô tả tình huống bằng văn xuôi truyền thống.
+0	Việc dùng thơ như đề thi có mấy lợi thế: vừa có hình ảnh sống động, diễn tả tâm trạng nhân vật.
+0	Hơn nữa đối tượng học là những người đang học văn bằng hai có trình độ nhận thức cao, đã trưởng thành, ít nhất vài ba năm thậm chí cả chục năm đi làm.
+0	Bối cảnh những dịp hè là người học cứ 3 ngày thi hết một môn, rất căng thẳng, thời tiết lại nóng bức nên đề thi có thể khiến sinh viên hứng khởi, dễ chịu”.
+1	Chia sẻ về lý do vì sao Trung tâm quyết định ra đề thi cho một môn học khô khan bằng thơ, ông Cương cho biết, đề có thể viết bằng văn xuôi hoặc bằng thơ.
+1	Tuy nhiên, viết bằng thơ có một số lợi thế, giúp người đọc có cảm nhận tốt hơn: Có thể diễn tả sự việc có hình ảnh; Thể hiện được tâm trạng của nhân vật trong sự kiện, tình huống mà mình đưa ra.
+
+0	“Hai vợ chồng anh A.
+0	Sinh được một cậu bé  Dễ thương và mạnh khỏe  Nay đã 4 tuổi rồi…  Rồi một hôm đang ngồi  Cô vợ liền tâm sự  Anh ạ…!
+0	Con vẫn…bú…  Dù em hết…sữa rồi…!
+0	Nó vẫn cứ nhằn thôi  Nhiều hôm…em đau quá…!
+0	Anh A cười ha hả…  Việc đó dễ thôi mà..  Bôi chút dung dịch là  Con ngậm cay…bỏ bú…!
+0	Mặt trời vừa mới nhú  Anh A liền mang sang  Lọ dung dịch màu vàng…  Bôi đôi gò bồng đảo…  Hôn vợ yêu một cái  Anh A vội đi làm  Anh đến thẳng cơ quan..
+0	Làm lu bu công việc…  Một hồi sau mới biết  Mình lấy nhầm lọ rồi…  Lọ thuốc..cực độc…ôi…!
+0	Con ơi…!
+0	Ba có tội…!
+0	Ba đã giết con rồi…!
+0	Hốt hoảng lẫn rối bời…  Người chồng liền tức tốc…  Phóng vội xe về nhà…!
+0	Nhìn thấy từ…xa xa…  Nhà đông người qua lại…  Người thì hô cấp cứu..
+0	Kẻ bảo…nó chết rồi…!
+0	Ôi..!
+0	Ba giết con rồi…!
+0	Anh A khuỵu trước cổng..!
+0	Như phép tiên…rồi bỗng…  Đứa bé từ trong nhà  Rẽ đám đông chạy ra…  Ôm chầm lấy người cha…  Hổn hển… mách rằng là…  Chú HÀNG XÓM... gần nhà…  Chết… trong kia…ba ạ…!”
+1	Tóm tắt sự việc là để cai sữa cho con trai 4 tuổi, anh A bôi lo dung dịch màu vàng lên “gò bông đào” của vợ rồi đi làm.
+1	Sau khi đi làm anh mới phát hiện mình lấy nhầm lọ thuốc cực độc, nghĩ mình đã hại con nên anh tức tốc phóng về nhà.
+1	Bất ngờ khi về anh, nghe con nói là ông hàng xóm gần nhà đã chết trong kia.
+1	Câu hỏi đưa ra là sinh viên hãy đặt câu hỏi và sắp xếp thành bảng hỏi để hỏi anh A, nhằm làm rõ nội dung vụ việc và làm rõ yêu cầu tư vấn của anh A..."
+0	Nhìn thấy từ...xa xa Nhà đông người qua lại  Người thì hô cấp cứu  Kẻ bảo... nó chết rồi  Ôi!
+0	Ba giết con rồi  Anh A. khuỵu trước cổng  Như phép tiên… rồi bỗng…  Đứa bé từ trong nhà  Rẽ đám đông chạy ra…  Ôm chầm lấy người cha…  Hổn hển… mách rằng là….
+0	Chú HÀNG XÓM… gần nhà…  Chết… trong kia… ba ạ…!
+0	…Mặt trời vừa mới nhú Anh A. liền mang sang  Lọ dung dịch màu vàng…  Bôi đôi gò bồng đào…  Hôn vợ yêu một cái  Anh A. vội đi làm  Anh đến thẳng cơ quan…  Làm lu bu công việc…  Một hồi sau mới biết  Mình lấy nhầm lọ rồi…  Lọ thuốc… cực độc… ôi…!
+0	Con ơi…!
+0	Ba có tội…!
+
+0	Qua liên hệ với sinh viên trường này, được biết đây là đề thi học hết học phần, môn Kĩ năng chung về tư vấn pháp luật dành cho sinh viên đang học theo học văn bằng hai của trung tâm Tư vấn pháp luật diễn ra vào ngày 30/05/2016.
+0	Đây là đề thi hết học phần, môn Kỹ năng chung về tư vấn pháp luật dành cho các sinh viên đang theo học văn bằng hai của trung tâm Tư vấn pháp luật.
+1	Trao đổi với VietNamNet, ông Vũ Văn Cương – Giám đốc Trung tâm tư vấn pháp luật, Trường ĐH Luật Hà Nội xác nhận: Đây là đề thi cuối năm học dành cho học viên văn bằng hai.
+0	Đây là đề thi hết học phần, môn “Kĩ năng chung về tư vấn pháp luật”,dành cho các sinh viên đang theo học văn bằng hai của trung tâm.
+
+0	“Với người không có chuyên môn khi đọc đề 99% nghĩ vụ việc có liên quan đến tình ái nhưng thực chất không phải vậy.
+0	Là dân chuyên môn, dạy môn kĩ năng cho các luật sư sau này hành nghề luật, chúng tôi muốn dùng câu chuyện nhỏ để nói điều lớn hơn là vừa qua xuất hiện nhiều vụ việc xét xử dẫn tới oan sai khi nhìn nhận vấn đề không toàn diện và chủ quan” – ông Cương cho biết.
+0	“Ở tình huống này chúng tôi có thể chỉ ra 6 nguyên nhân có thể dẫn tới cái chết của người hàng xóm chứ không chỉ lí do liên quan đến tình ái vì dụ như ông bị suy tim, khi sang nhà chơi đột tử” – ông Cương thông tin.
+0	Đề thi yêu cầu học viên phải có tầm nhìn khác, tư duy rộng và toàn diện hơn.
+1	Nếu đọc qua đề thì 99% người không có chuyên môn pháp luật sẽ suy luận ngay vấn đề ngoại tình, vấn đề nhảm nhí của xã hội.
+1	Đây là cách nhìn nông cạn.
+1	Nếu người làm pháp luật mà nhìn nhận cái chết của nhân vật như vậy sẽ dẫn đến nhiều án oan sai.
+0	Ông Cương chia sẻ, cái chết của một con người có thể nhiều nguyên nhân, người làm nghề pháp luật phải có tư duy phản biện, nhìn nhận vấn đề ở nhiều khía cạnh để đưa ra đánh giá một vụ việc cho kết quả đúng, tránh trường hợp kết tội oan trong xét xử chỉ vì nhìn hiện tượng mà đánh giá bản chất.
+

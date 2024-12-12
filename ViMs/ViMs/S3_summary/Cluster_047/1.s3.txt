@@ -1,0 +1,33 @@
+0	Mưa và giông lốc xảy ra ở nhiều huyện, thị ở tỉnh Yên Bái với lượng mưa có nơi lên đến trên 50 mm.
+0	Theo người địa phương, cơn lốc đầu mùa diễn biến rất nhanh, cường độ gió mạnh, quật gãy nhiều cây lớn và tốc mái hàng trăm nhà dân.
+1	Theo người dân địa phương, đây là trận lốc xoáy kinh hoàng nhất trong lịch sử mà họ được chứng kiến, thời gian diễn ra rất nhanh, cường độ gió mạnh, bẻ gãy nhiều cây lớn.
+
+0	Huyện Lục Yên bị thiệt hại nặng nhất, ước tính lên đến 1,6 tỷ đồng.
+1	Thiệt hại ước tính khoảng 1,6 tỷ đồng.
+0	Ước tổng giá trị bị thiệt hại gần 300 triệu đồng.
+
+0	Khoảng 20h ngày 20/5 tại các xã Tân Lập, Động Quan, Phúc Lợi, Tô Mậu... huyện Lục Yên (Yên Bái) đã xảy ra một trận lốc xoáy kèm mưa lớn.
+0	Vào đêm qua (20/5), trên địa huyện Lục Yên, tỉnh Yên Bái đã xảy ra trận gió lốc làm nhiều người bị thương, hơn 20 ngôi nhà bị sập đổ, 170 ngôi nhà bị hư hỏng; nhiều ha hoa màu, cây cối của người dân bị gãy đổ.
+1	Theo ông Hoàng Văn Số, Phó Ban Chỉ huy phòng chống thiên tai, tìm kiếm cứu nạn huyện Lục Yên, tỉnh Yên Bái: Khoảng từ 20 giờ đêm qua đến rạng sáng nay (21/5), trên địa bàn các xã Tân Lập, Động Quan, Phúc Lợi, Tô Mậu, Phan Thanh của huyện Lục Yên đã có mưa lớn kèm gió lốc xoáy rất mạnh.
+0	Báo Nhân Dân đưa tin, khoảng 20 giờ ngày 20-5, tại huyện Lục Yên (Yên Bái) xảy ra trận lốc xoáy rất lớn tại các xã Tân Lập, Động Quan, Phúc Lợi, Tô Mậu... làm đổ sập hoàn toàn nhiều nhà ở và gây thiệt hại đến hoa màu, cây cối của nhân dân.
+
+0	Theo báo cáo nhanh của Ban chỉ huy PCTT-TKCN (Phòng chống thiên tai –Tìm kiếm cứu nạn) huyện Lục Yên (Yên Bái), tính đến 16h ngày 21/5/2016, cơn lốc xoáy đã làm 9 người bị thương (ở xã Tân Lập, trong đó 1 trẻ em bị gãy chân), không có người tử vong.
+0	Bên cạnh đó, thiên tai đã gây thiệt hại nặng nề tới 194 ngôi nhà, trong đó 24 nhà bị sập đổ hoàn toàn, 2 nhà bị hư hỏng nặng, tốc mái 168 nhà.
+0	Đường điện 0,4 bị đổ 3 cột tại Bản Năn (Phan Thanh), làm sập đổ 6 bếp của nhà dân tại Phan Thanh và Tân Lĩnh.
+0	Theo báo cáo nhanh của Ban chỉ huy phòng chống thiên tai, tìm kiếm cứu nạn huyện, đến 16h ngày 21/5, mưa và giông lốc đã khiến 9 người ở xã Tân Lập bị thương, trong đó một trẻ gãy chân.
+1	Trận mưa kèm lốc xoáy đã làm 9 người bị thương, 24 nhà ở, 6 nhà bếp bị sập hoàn toàn; 170 ngôi nhà bị hư hại, tốc mái.
+0	Đã có năm cột điện 35 KV của Điện lực Lục Yên bị cây đè làm đổ cột, khiến toàn bộ khu vực thị trấn Yên Thế và các xã lân cận bị mất điện hoàn toàn.
+0	Theo báo cáo ban đầu, đã có 19 nhà dân bị sập hoàn toàn, nhiều ngôi nhà bị tốc mái và làm thiệt hại nhiều tài sản khác của người dân.
+0	Giông lốc cũng khiến 24 nhà bị đổ sập hoàn toàn, 2 nhà hư hỏng và 68 nhà tốc mái.
+0	Ngoài Yên Bái, Văn phòng Ban Chỉ đạo Phòng chống tai Trung ương cho hay, trên địa bàn huyện Hương Hóa (Quảng Trị), mưa giông lớn kèm theo lốc xoáy đã làm 7 nhà bị sập đổ; 64 nhà tốc mái hư hỏng; hàng trăm cây phân tán bị gãy đổ.
+
+1	Đây là con số thống kê chưa đầy đủ và chưa xác định được mức độ thiệt hại về cây cối cũng như hoa màu.
+0	Mưa, gió lốc cũng đã làm 3 cột điện bị đổ; nhiều ha hoa màu và cây cối bị gãy, hỏng.
+0	Thiệt hại về hoa màu chưa thống kê.
+
+1	Ngay sau khi nhận được tin báo của các địa phương bị thiệt hại, Ban Chỉ huy PCTT-TKCN Lục Yên đã có mặt tại các địa phương để chỉ đạo công tác khắc phục hậu quả, hỗ trợ, thăm hỏi, động viên nhân dân và huy động các lực lượng tại chỗ khẩn trương khắc phục những thiệt hại để đảm bảo, ổn định đời sống cho nhân dân.
+0	Ngay sau khi nhận được thông tin, huyện Lục Yên đã huy động lực lượng quân đội, công an, dân quân tự vệ xuống hiện trường cùng chính quyền cơ sở và bà con nhân dân các xã giúp đỡ các gia đình thiệt hại, đưa người bị thương đi cấp cứu, vận chuyển đồ đạc các nhà bị sập đến nơi ở tạm.
+0	Ngày 21/5, Phó chủ tịch UBND tỉnh Tạ Văn Long đã đến thăm hỏi các gia đình bị thiệt hại, động viên họ vượt qua khó khăn và ổn định cuộc sống.
+0	Tỉnh sẽ hỗ trợ 7 triệu đồng cho mỗi hộ có nhà sập hoàn toàn; 1,5 triệu đồng cho gia đình có người bị thương.
+0	Ủy ban mặt trận tổ quốc hỗ trợ một triệu đồng cho mỗi hộ gia đình nhà bị sập và một triệu đồng cho gia đình có người bị thương.
+

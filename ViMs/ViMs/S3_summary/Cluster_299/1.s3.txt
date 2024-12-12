@@ -1,0 +1,48 @@
+0	Sáng 3/6, hàng chục hành khách có chuyến bay tại Cảng hàng không Buôn Ma Thuột báo tin, họ liên tục bị hoãn bay nhưng không được cho biết lý do.
+1	Có mặt tại Cảng hàng không Buôn Ma Thuột, PV VietNamNet ghi nhận, hành khách của các hãng hàng không lỉnh kỉnh hành lý người nằm, kẻ ngồi chờ bay.
+0	Khuôn mặt nhiều người tỏ ra mệt mỏi, có người tranh thủ nằm ngủ vật vờ ngay trên ghế chờ.
+
+0	Việc khai thác trở lại các chuyến bay đi đến sân bay Buôn Mê Thuột trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại cảng hàng không Buôn Ma Thuột.
+0	Do vậy, các hãng hàng không khuyến cáo hành khách tiếp tục theo dõi và chủ động liện hệ với các phòng vé của Vietnam Airlines trước khi ra sân bay.
+0	Việc khai thác trở lại các chuyến bay trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại Cảng hàng không Buôn Ma Thuột, Vietnam Airlines khuyến nghị hành khách tiếp tục theo dõi và chủ động liên hệ các phòng vé của Vietnam Airlines trước khi ra sân bay.
+0	Việc khai thác trở lại các chuyến bay trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại cảng hàng không Buôn Ma Thuột, Vietnam Airlines khuyến nghị hành khách tiếp tục theo dõi và chủ động liên hệ các phòng vé của Vietnam Airlines trước khi ra sân bay.
+0	Tuy nhiên, phía Vietnam Airlines cũng thừa nhận rằng, việc khai thác trở lại các chuyến bay trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại cảng hàng không Buôn Ma Thuột.
+1	Việc khai thác trở lại các chuyến bay trong ngày hôm nay còn phụ thuộc vào tình hình sửa chữa thực tế tại sân bay Buôn Ma Thuột.
+
+1	Theo đó, trong quá trình kiểm tra đường băng trước khi vận hành sáng 3-6, nhân viên sân bay đã phát hiện một vệt bê tông bị bong dài khoảng 50 cm trên đường băng.
+0	Theo đó, trong quá trình kiểm tra đường băng trước khi vận hành sáng 3/6, nhân viên sân bay đã phát hiện một vệt bê tông bị bong dài khoảng 50cm trên đường băng.
+0	Trước đó, như Tuổi Trẻ đã thông tin lịch bay của các hãng hàng không nội địa đi và đến từ sân bay Buôn Mê Thuột trong sáng 3-6 đã bị xáo trộn vì đường băng tạm đóng cửa.
+0	Nguồn tin ban đầu của Tuổi Trẻ cho biết lý do sân bay tạm đóng cửa là vì một mảng bề mặt của đường lăn sân bay Buôn Mê Thuột bị tróc bất ngờ.
+
+1	Để đảm bảo an toàn, Cảng hàng không Buôn Ma Thuột đã quyết định tạm dừng hoạt động cất hạ cánh của máy bay từ 6 giờ đến 14 giờ trong ngày để sửa chữa vết bong này.
+0	Thông tin từ ông Lê Thy Hà, Trưởng đại diện Cảng hàng không khu vực miền Nam tại Buôn Ma Thuột cho biết, do sự cố kỹ thuận nên từ 6h sáng nay (3/6), sân bay Buôn Ma Thuột, tỉnh Đắk Lắk đã phải tạm hoãn tất cả các chuyến bay khai thác tại đây.
+0	Đại diện Cảng hàng không Buôn Ma Thuột cũng cho biết, dự kiến khoảng sau 14h chiều nay, các sự cố sẽ được khắc phục xong và sân bay này có thể khai thác trở lại.
+0	Để đảm bảo an toàn, nhà chức trách sân bay Buôn Ma Thuột đã quyết định tạm dừng hoạt động cất hạ cánh của máy bay từ 6h-14h để sửa chữa.
+0	Đại diện Cảng hàng không Buôn Ma Thuột cũng cho biết có các chuyến bay đi và đến sân bay này vào buổi sáng sẽ bị chậm giờ cất, hạ cánh khoảng 5-6 giờ.
+
+1	Đại diện hãng hàng không Vietnam Airlines cho biết hãng này phải tạm ngừng khai thác sáu chuyến bay đến và đi từ Buôn Mê Thuột trong sáng 3-6 bao gồm hai chuyến giữa Hà Nội - Buôn Mê Thuột, hai chuyến TP.HCM - Buôn Mê Thuột và hai chuyến trên đường bay giữa Đà Nẵng -Buôn Mê Thuột.
+0	Các chuyến bay tạm ngừng khai thác gồm 2 chuyến trên đường bay giữa Hà Nội - Buôn Ma Thuột (VN1600/VN1601), 2 chuyến trên đường bay giữa TP.HCM - Buôn Ma Thuột (VN1414/VN1415) và 2 chuyến trên đường bay giữa Đà Nẵng - Buôn Ma Thuột (VN1912/VN1913).
+0	áu chuyến bay gồm hai chuyến trên đường bay giữa Hà Nội – Buôn Mê Thuột (VN1600/VN1601); hai chuyến trên đường bay giữa TP Hồ Chí Minh – Buôn Mê Thuột (VN1414/VN1415) và hai chuyến trên đường bay giữa Đà Nẵng – Buôn Mê Thuột (VN1912/VN1913).
+0	Tổng công ty Hàng không Việt Nam (Vietnam Airlines) cho biết, do đường băng bị bong tróc lớn, cảng hàng không Buôn Ma Thuột tạm thời đóng cửa đến 14h chiều nay 3/6/2016 để sửa chữa nên Vietnam Airlines (VNA) phải tạm ngừng khai thác 6 chuyến bay đến và đi từ Buôn Mê Thuột trong sáng nay bao gồm 2 chuyến trên đường bay giữa Hà Nội – Buôn Mê Thuột (VN1600/VN1601); 2 chuyến trên đường bay giữa Tp.
+0	Hồ Chí Minh – Buôn Mê Thuột (VN1414/VN1415) và 2 chuyến trên đường bay giữa Đà Nẵng – Buôn Mê Thuột (VN1912/VN1913).
+0	Tổng công ty Hàng không Việt Nam (Vietnam Airlines) cho biết, do đường băng bị bong tróc lớn, cảng hàng không Buôn Ma Thuột tạm thời đóng cửa đến 14h chiều nay 3/6/2016 để sửa chữa nên Vietnam Airlines (VNA) phải tạm ngừng khai thác 6 chuyến bay đến và đi từ Buôn Mê Thuột trong sáng nay bao gồm 2 chuyến trên đường bay giữa Hà Nội – Buôn Mê Thuột (VN1600/VN1601); 2 chuyến trên đường bay giữa Tp.
+0	Hồ Chí Minh – Buôn Mê Thuột (VN1414/VN1415) và 2 chuyến trên đường bay giữa Đà Nẵng – Buôn Mê Thuột (VN1912/VN1913).
+0	Riêng Vietnam Airlines phải tạm ngừng khai thác 6 chuyến bay đến và đi từ Buôn Ma Thuột trong sáng nay bao gồm 2 chuyến trên đường bay giữa Hà Nội – Buôn Ma Thuột; 2 chuyến trên đường bay giữa Tp.
+0	Đại diện Vietnam Airlines cho biết, hãng đã phải tạm ngừng khai thác 6 chuyến bay đến và đi từ Buôn Mê Thuột trong sáng nay, trong đó bao gồm 2 chuyến trên đường bay giữa Hà Nội - Buôn Mê Thuột (VN1600/VN1601); 2 chuyến trên đường bay giữa TP.HCM - Buôn Mê Thuột (VN1414/VN1415) và 2 chuyến trên đường bay giữa Đà Nẵng - Buôn Mê Thuột (VN1912/VN1913).
+
+0	Thay vào đó, Vietnam Airlines sẽ tăng sáu chuyến trên các đường bay đến và đi Buôn Ma Thuột trong chiều nay.
+1	Vietnam Airlines đã triển khai tăng 6 chuyến trên các đường bay giữa Hà Nội/TP.HCM/Đà Nẵng - Buôn Ma Thuột ngay trong chiều nay để phục vụ nhu cầu đi lại của hành khách.
+0	VNA đã triển khai tăng sáu chuyến trên các đường bay giữa Hà Nội/TP Hồ Chí Minh/Đà Nẵng – Buôn Ma Thuột ngay trong chiều nay để phục vụ nhu cầu đi lại của hành khách.
+0	Theo VNA, đơn vị này đã triển khai tăng 6 chuyến trên các đường bay giữa Hà Nội/Tp.
+0	Hồ Chí Minh/Đà Nẵng – Buôn Ma Thuột ngay trong chiều nay để phục vụ nhu cầu đi lại của hành khách.
+0	Đồng thời, Vietnam Airlines cũng cho biết, đã triển khai tăng 6 chuyến trên các đường bay giữa Hà Nội/Tp.
+0	Vietnam Airlines đã triển khai tăng 6 chuyến trên các đường bay giữa Hà Nội/TP.HCM/Đà Nẵng – Buôn Ma Thuột ngay trong chiều nay để phục vụ nhu cầu đi lại của hành khách.
+
+1	Cùng ngày, Hãng Jetstar Pacific cho biết, có ba chuyến bay giữa Hải Phòng - Buôn Ma Thuột, Vinh - Buôn Ma Thuột và TP Hồ Chí Minh - Buôn Ma Thuột trong ngày 3-6 cũng phải hủy do công tác sửa chữa đường băng.
+0	Còn các hãng hàng không Jetstar Pacific cho biết, có 3 chuyến bay giữa Vinh-Buôn Ma Thuột và Thành phố Hồ Chí Minh - Buôn Ma Thuột, Hải Phòng-Buôn Ma Thuột trong ngày 3/6 cũng phải hủy do công tác sửa chữa đường băng.
+0	Trong khi đó, Jetsar Pacific cũng đã phải tạm ngừng khai thác 3 chặng bay Vinh/ TP.HCM/ Hải Phòng – Buôn Mê Thuột trong sáng nay.
+
+1	Hành khách được hãng hỗ trợ chuyển sang chuyến bay ngày hôm sau, những hành khách khác có nhu cầu cũng được hoàn vé miễn phí.
+0	“Hành khách được hãng hỗ trợ chuyển sang chuyến bay ngày hôm sau, những hành khách khác có nhu cầu cũng được hoàn vé miễn phí,” đại diện Jetstar cho hay.
+0	Những hành khách trên 3 chuyến bay này sẽ được hãng chuyển sang chuyến bay của ngày hôm sau.
+

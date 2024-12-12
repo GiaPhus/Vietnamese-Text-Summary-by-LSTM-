@@ -1,0 +1,15 @@
+1	Thông tin từ Vietjet cho biết, đường bay TPHCM-Kuala Lumpur được khai thác hàng ngày với thời gian bay khoảng 1 giờ 55 phút.
+1	Chuyến bay khởi hành từ TPHCM lúc 9 giờ 30 (giờ địa phương) và đến Kuala Lumpur lúc 12 giờ 25 (giờ địa phương).
+1	Chiều ngược lại khởi hành lúc 13 giờ (giờ địa phương) từ Kuala Lumpur và tới TPHCM lúc 13 giờ 55 (giờ địa phương).
+0	Chuyến bay đầu tiên của Vietjet tới Kula Lumpur mang số hiệu VJ825 đã hạ cánh lúc 12:00 (giờ địa phương) với sự chào đón nhiệt liệt của người dân và đoàn lãnh đạo cấp cao hai nước Việt Nam và Malaysia, gồm có sự hiện diện của Phó thủ tướng nước CHXHCN Việt Nam Trịnh Đình Dũng, lãnh đạo Bộ giao thông Vận tải Việt Nam, lãnh đạo Bộ giao thông vận tải Malaysia và lãnh đạo các ban ngành.
+0	Đường bay TP.HCM – Kuala Lumpur được khai thác hàng ngày, thời gian bay khoảng 1 giờ 55 phút.
+0	Chuyến bay sẽ khởi hành từ TP.HCM lúc 9h30 và đến Kuala Lumpur lúc 12h25 (giờ địa phương).
+0	Chiều ngược lại khởi hành lúc 13h00 (giờ địa phương) từ Kuala Lumpur và tới TP.HCM lúc 13h55 (giờ địa phương).
+0	Chuyến bay đầu tiên của Vietjet tới Malaysia mang số hiệu VJ825 đã hạ cánh tại sân bay quốc tế Kuala Lumpur với sự chào đón nhiệt liệt của người dân và đoàn lãnh đạo cấp cao hai nước Việt Nam và Malaysia.
+0	Đường bay TP.HCM – Kuala Lumpur được khai thác hàng ngày, thời gian bay khoảng 1 giờ 55 phút.
+0	Đường bay TP.HCM – Kuala Lumpur được khai thác hàng ngày, thời gian bay khoảng 1 giờ 55 phút.
+0	Chuyến bay sẽ khởi hành từ TP.HCM lúc 9h30 và đến Kuala Lumpur lúc 12h25 (giờ địa phương).
+0	Đường bay TPHCM-Kuala Lumpur được khai thác hằng ngày, thời gian bay khoảng 1 giờ 55 phút.
+0	Chuyến bay sẽ khởi hành từ TPHCM lúc 9h30’ và đến Kuala Lumpur lúc 12h25’ (giờ địa phương).
+0	Chiều ngược lại khởi hành lúc 13h00’ (giờ địa phương) từ Kuala Lumpur và tới TPHCM vào lúc 13h55’.
+

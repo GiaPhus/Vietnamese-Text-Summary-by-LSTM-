@@ -1,0 +1,10 @@
+Ngân hàng Ecuador cáo buộc Wells Fargo thất bại trong việc nhận biết và ngăn chặn các lệnh chuyển tiền giả.
+Tổng thể, Wells Fargo đã chuyển 12 triệu USD tiền của BDA đến các tài khoản trên khắp toàn cầu.
+Còn Wells Fargo phản hồi rằng những sai sót trong hoạt động bảo mật của BDA đã gây ra thiệt hại cho chính họ.
+Phía ngân hàng Ecuador cho rằng tin tặc đã có được mã ngân hàng sử dụng để chuyển tiền qua hệ thống SWIFT và sử dụng chúng để chuyển tiền tới Ngân hàng Wells Fargo & Co.
+SWIFT, viết tắt của Hiệp hội viễn thông tài chính liên ngân hàng toàn cầu, cho phép các ngân hàng xử lý chuyển tiền mỗi ngày.
+SWIFT cho hay họ chưa biết gì về vụ tấn công ngân hàng Ecuador, họ cần các khách hàng thông báo về những vụ tấn công nếu các vụ việc liên quan đến sản phẩm và dịch vụ để họ có thể thông báo và hỗ trợ nhiều hơn cho cộng đồng.
+ 
+Ba vụ tấn công nhấn mạnh tính dễ tổn thương của các ngân hàng nhỏ, vốn không đủ khả năng tự vệ tiên tiến. Nếu hacker có thể đột nhập vào một ngân hàng yếu hơn, chúng có thể tạo yêu cầu giả để kéo tiền ra khỏi một nhà băng lớn.
+ 
+Ngoài ra, một vụ tấn công tương tự cũng xảy ra tại TPBank, tuy nhiên, TPBank gián tiếp "đổ lỗi" cho đối tác cung cấp dịch vụ bị hack dẫn đến phát sinh giao dịch đáng ngờ mà không kiểm tra hệ thống chính mình.

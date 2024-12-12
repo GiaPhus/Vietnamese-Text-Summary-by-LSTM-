@@ -1,0 +1,42 @@
+0	Vụ tai nạn xảy ra trên đường Huỳnh Tấn Phát (quận 7, TP HCM) vào khoảng 11 giờ trưa 3-6.
+0	Thời điểm trên, chiếc xe container chở thép cuộn lưu thông trên đường Huỳnh Tấn Phát, hướng từ quận 7 đi huyện Nhà Bè, TP HCM.
+0	Người dân cho biết, khoảng 11h trưa nay 3/6, chiếc xe container mang biển kiểm soát 51C-259.65 chở theo cuộn thép đang lưu thông trên đường Huỳnh Tấn Phát theo hướng từ quận 7 đi huyện Nhà Bè.
+0	Lúc 11h ngày 3/6, chiếc xe container mang BKS: 51C-259.65 do tài xế nam khoảng 35 tuổi điều khiển trên đường Huỳnh Tấn Phát chở theo cuộn sắt nặng hàng chục tấn chạy hướng từ Q.7 đi H.Nhà Bè, TP.HCM.
+1	Theo thông tin ban đầu, vào khoảng 10 giờ 30 ngày 3.6, tài xế (chưa rõ danh tính) điều khiển xe container BS 51C - 259.65, chở theo cuộn sắt nặng hàng chục tấn, lưu thông trên đường Huỳnh Tấn Phát, hướng từ Q.7 về H.Nhà Bè (TP.HCM).
+0	Thông tin ban đầu, khoảng 11h trưa 3/6, một chiếc xe container (chưa rõ danh tính tài xế) chở cuộn thép nặng hơn 20 tấn, chạy trên đường Huỳnh Tấn Phát hướng từ cầu Phú Mỹ đi huyện Nhà Bè.
+0	Trưa 3.6, tài xế (khoảng 35 tuổi) điều khiển xe container chở theo cuộn thép nặng gần chục tấn lưu thông trên đường Huỳnh Tấn Phát hướng từ quận 7 về huyện Nhà Bè, TP.HCM.
+
+1	Tài xế may mắn thoát nạn bung cửa tháo chạy ra đường.
+0	Tài xế may mắn không bị thương, bung cửa thoát ra ngoài.
+0	Tài xế may mắn không bị thương.
+
+0	Khi đến địa bàn phường Tân Phú, quận 7, TPHCM thì tài xế cho xe phanh gấp để tránh một phương tiện phía trước khiến cuộn thép nặng hàng chục tấn va vào cabin.
+0	Khi vừa qua giao lộ Gò Ô Môi khoảng 200m P.Tân Phú, Q.7, phát hiện một chiếc xe máy đang băng cắt mặt qua đường, tài xế xe container cho xe thắng gấp.
+0	TP.HCM), tài xế xe container thắng gấp để tránh một người điều khiển xe máy băng ngang qua đường khiến cuộn sắt dồn tới trước làm đứt dây chằng, đè nát cabin rồi rớt xuống đường.
+0	Khi qua ngã tư gò Ô Môi được 300m, đến địa bàn thuộc phường Phú Thuận, quận 7 thì bất ngờ xe này gặp chướng ngại vật, phanh gấp.
+1	Khi vừa qua khỏi giao lộ Gò Ô Môi (phường Tân Phú, quận 7), tài xế thắng gấp để tránh xe máy của thanh niên chạy cắt ngang đường.
+
+0	Sự cố làm phần cabin bị hất văng, phần đầu xe hư hỏng nặng, tài xế bị thương.
+0	Sự cố khiến cuộn thép rơi xuống đường, may mắn được dải phân cách bằng bê tông chặn lại nên không gây thương vong cho người đi đường nhưng khiến giao thông qua khu vực gặp nhiều khó khăn.
+0	Tại hiện trường, chiếc xe container và cuộn thép nằm án ngữ 1/2 phần đường khiến giao thông gặp nhiều khó khăn, ùn ứ kéo dài.
+0	Vụ việc khiến nhiều người đi đường một phen hoảng hốt.
+0	Một phần cabin xe container bị xé toạc, nghiêng hẳn về một phía sau vụ va chạm nhưng may mắn tài xế không bị thương.
+0	Không may xích chằng giữ cuộn sắt bị đứt, khiến cuộn sắt theo quán tính lăn thẳng về phía trước, khiến ca-bin xe bị phá vỡ.
+0	Một người dân gần đó cho biết, "tôi nghe tiếng động lớn ngoài đường, nhìn ra thì thấy đầu cabin xe container biến dạng, tài xế bò ra từ bên trong, rất may tài xế không bị sao".
+1	Tại hiện trường, phần cabin xe container nứt toác, phía dưới đường cuộn thép nặng cả chục tấn án ngữ.
+
+0	Nhận tin báo, lực lượng chức năng quận 7 có mặt xử lý hiện trường, xe cẩu và xe container khác được điều đến để di dời cuộn thép và phương tiện gặp nạn.
+1	Nhận tin báo, lực lượng chức năng có mặt khám nghiệm hiện trường, điều tiết giao thông.
+0	Nguyên nhân đang được cơ quan chức năng làm rõ.
+0	Nhận được tin báo, lực lượng CSGT - Công an quận 7 nhanh chóng có mặt, xử lý hiện trường, phân luồng giao thông tránh ùn tắc giao thông.
+
+1	Đến gần 13h cùng ngày hiện trường được giải quyết xong.
+0	Đến 13h cùng ngày, hiện trường được giải quyết xong, các phương tiện lưu thông cũng đã dễ dàng.
+0	Đến gần 14h chiều cùng ngày, xe cứu hộ đưa xe gặp nạn khỏi hiện trường, giao thông ổn định trở lại.
+0	Chiếc xe nằm chắn hơn nửa mặt đường sau sự cố khiến giao thông qua khu vực này bị ùn ứ cục bộ cho đến gần 13 giờ, khi hiện trường được lực lượng chức năng giải tỏa.
+0	Đến 13h30 cùng ngày, hiện trường sự cố mới được giải quyết xong.
+
+0	Vì phanh gấp, cuộn sắt trên container đổ dồn về phía trước làm đứt dây chằng rồi lăn nát đầu cabin, rơi xuống chắn giữa đường.
+0	Lúc qua địa bàn phường Tân Phú (quận 7), xe đột ngột thắng gấp khiến cuộn thép nặng hàng chục tấn ở rơ-moóc phía sau theo quán tính bị dồn lên, đè nát cabin xe trước khi rớt xuống đường.
+1	Cú thắng đột ngột khiến cuộn thép từ phía sau bị đứt xích lao về trước, đè nát cabin.
+

@@ -1,0 +1,30 @@
+Title: Công ty này kiếm được hàng trăm triệu USD mà chẳng cần nhân viên kinh doanh nào cả, phải chăng nghề sales sắp tuyệt chủng?
+Source:
+Link: http://cafebiz.vn/cong-ty-nay-kiem-duoc-hang-tram-trieu-usd-ma-chang-can-nhan-vien-kinh-doanh-nao-ca-phai-chang-nghe-sales-sap-tuyet-chung-20160520081638764.chn
+Published Date: Thứ Sáu, 09:27 20/05/2016
+Author: Vân Đàm - Theo Trí Thức Trẻ/Bloomberg
+Tags: doanh số bán hàng, nhân viên kinh doanh, phần mềm quản lý, công ty công nghệ, nhân viên bán hàng
+Summary: Chủ tịch hãng phần mềm Atlassian khẳng định rằng ông tin công ty của mình có thể tăng trưởng mà không cần tới bất kỳ nhân viên kinh doanh nào cả.
+Content:
+Brandon Cipes – phó chủ tịch hệ thống thông tin tại OceanX đã có khoảng thời gian dài làm ở nhiều vị trí cấp cao trong mảng công nghệ thông tin đặc biệt ghét các cuộc gọi bán hàng.
+Điều đáng nói là trước đây Cipes không như vậy. Suy nghĩ của anh bắt đầu thay đổi khi gửi bức thư điện tử tới cho nhà sản xuất phần mềm Atlassian và yêu cầu công ty này gửi đến một người đại diện bán hàng. Tuy nhiên, phía Atlassian nói rằng họ sẽ không làm vậy.
+Thực tế Atlassian – công ty làm ra những phần mềm quản lý dự án và ứng dụng trò truyện nổi tiếng như Jira và HipChat có trụ sở ở Australia không hề có bất kỳ nhân viên kinh doanh nào cả.
+Ban đầu, cách thức kinh doanh của Atlassian được coi là một hiện tượng bất thường trong thế giới của các công ty phần mềm tại Australia. Tuy nhiên sau đó, Atlassian lại trở thành người tiên phong trong việc sử dụng phương thức truyền miệng, thay vì thuê nhân viên sales để xây dựng thị phần.
+“Khách hàng không muốn gọi cho nhân viên kinh doanh nếu không cần thiết”, theo Scott Farquhar – CEO của Atlassian. “Họ thích tự tìm câu trả lời trên website hơn”.
+Nhìn chung, cách các công ty công nghệ bán phần mềm đã thay đổi đáng kể trong khoảng 1 thập kỷ qua. Sự xuất hiện của mã nguồn mở đã tạo ra nhiều đối thủ cạnh tranh mới với những hình thức khuyến mại như cung cấp bản dùng thử miễn phí, cài đặt phần mềm miễn phí và chỉ phải trả tiền khi cập nhập bản mới hay những khuyến mại trực tuyến...
+Cho tới nay, Atlassian vẫn là ví dụ điển hình nhất cho mô hình kinh doanh dạng này. Là công ty 14 năm tuổi được định giá 5 tỉ USD kể từ sau khi IPO vào tháng 9, họ đã không cần thuê bất kỳ một nhân viên kinh doanh nào cả.
+Hơn 80 công ty trong danh sách Fortune 100 hiện đang sử dụng phần mềm của Atlassian. Ngoài ra có rất nhiều công ty hoạt động trong cùng ngành đang tính đến việc học hỏi chiến lược bán hàng như của Atlassian.
+Kể về những ngày đầu thành lập nên Atlassian, Farquhar nói rằng ông cùng đồng CEO Mike Cannon-Brookes mở công ty trong lúc đang làm khóa luận kết thúc những năm học chuyên ngành khoa học máy tính tại đại học New South Wales.
+Ban đầu, việc bán hàng của công ty hầu như chỉ dựa vào sự truyền miệng bởi cả hai nhà sáng lập đều không có chuyên môn gì về bán phần mềm.
+Bước đột phá đầu tiên của họ tới một vài tháng sau đó, khi website của công ty bắt đầu cho phép khách hàng tải bản dùng thử miễn phí. Ngay sao đó, các đơn đặt hàng bắt đầu xuất hiện và chúng được gửi thông qua máy fax bởi công ty chưa hề trang bị chức năng mua hàng.
+Một ngày, chiếc máy fax đã gửi đến đơn hàng từ America Airlines. Được biết một vài nhân viên phòng IT của hãng hàng không này đã tải phần mềm trên websites mà không cần tới sự trợ giúp của Atlassian.
+“Đó là một bước tiến quan trọng đối với công ty chúng tôi”, Farquhar nói và chia sẻ thêm rằng điều đó càng khiến anh tin tưởng vào việc mình hoàn toàn có thể gây dựng doanh nghiệp mà không cần tuyển dụng những nhân viên bán hàng chuyên dụng.
+Năm nay, các chuyên gia dự báo rằng doanh thu của Atlassian sẽ đạt mức cao nhất lên tới 450 triệu USD. Năm ngoái, khi doanh số bán hàng đạt 320 triệu USD, chi phí bán hàng và marketing của công ty (đa phần là quảng cáo và trả tiền cho các đối tác) chỉ chiếm 1/5 trong số đó.
+Trái lại, một hãng phần mềm khác là Salesforce đã phải chi tới một nửa doanh thu vào việc bán hàng và tiếp thị. Còn với Box con số này lên tới 80%.
+Jay Simons, chủ tịch của Atlassian nói rằng việc tiết kiệm được chi phí trả cho nhân viên bán hàng có nghĩa là mức giá sản phẩm sẽ rẻ hơn và có thể tập trung đầu tư nhiều hơn vào nghiên cứu, phát triển, cải tiến phần mềm, khiến nó dễ dùng hơn, thúc đẩy người mua hàng.
+Dẫu vậy, những doanh nhân và chuyên gia tại thung lũng Silicon tỏ ra không đồng tình với cách thức hoạt động của Atlassian. “Khi có đội ngũ nhân viên bán hàng, doanh thu sẽ tăng tốc nhanh gấp nhiều lần so với chi phí”, theo Peter Levine - đối tác tại quỹ Andreessen Horowitz.
+Còn Tomasz Tunguz - một đối tác tại Redpoint Ventures thì nói rằng: “Tôi không nghĩ rằng thành công của Atlassian có thể nhân rộng”.
+Các công ty khởi nghiệp bao gồm cả Dropbox và Slack lại đang sử dụng "phương pháp hỗn hợp" tức là cố gắng gây dựng nên những khách hàng đầu tiên tại một công ty sau đó thiết lập đội ngũ bán hàng một khi số lượng khách hàng đông hơn.
+Ngay cả HP Enterprise cũng đang thử nghiệm việc bán hàng trực tuyến và cho phép khách hàng dùng thử phần mềm trước khi mua.
+Vấn đề của Atlassian là họ đang phải đối mặt với một thị trường quá đông đúc, và họ không biết rõ liệu công ty có thể tiếp tục mở rộng hay không, ông John DiFucci, một nhà phân tích tại Jefferies nói.
+Tuy nhiên, chủ tịch Simons tỏ ra không quan tâm tới vấn đề này và khẳng định rằng ông vẫn tin công ty của mình có thể tăng trưởng mà không cần tới bất kỳ nhân viên bán hàng nào cả.

@@ -1,0 +1,53 @@
+0	Như tin đã đưa, một bé trai 4 tuổi ở TP Cao Lãnh (Lâm Đồng) đã tử vong sau khi được bố cho ăn gan cóc và bao tử.
+0	Tới bữa, anh Sơn đút gan và bao tử cóc cho cháu Hoài ăn trước.
+1	Bé Trần Nguyễn Hoài Nam, 4 tuổi được cha (anh Em) thương nên cho ăn phần gan và bao tử trước, 8 người còn lại cùng ăn sau.
+0	Tuy nhiên, nội tạng 4 con cóc không bị loại bỏ, bé Trần Nguyễn Hoài Nam, 4 tuổi được ưu tiên cho ăn phần gan và bao tử.
+0	Thấy vậy, anh Em lấy gan và bao tử cho con trai là cháu Trần Nguyễn Hoài Nam (4 tuổi) ăn.
+0	Trong bữa ăn, bé Nam ăn phần gan và bao tử cóc.
+0	Thức ăn chế biến xong, ưu tiên cho con nhỏ nhất, người bố dành cho con phần ngon nhất là gan cóc.
+
+1	Theo Sở Y tế, dựa vào các triệu chứng lâm sàng, qua kết quả điều tra thu thập thông tin từ phía gia đình và Bệnh viện Đa khoa Đồng Tháp, kết luận đây là vụ ngộ độc thực phẩm ở hộ gia đình, thức ăn nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch, trong đó cóc chưa loại bỏ hết nội tạng mà đem chế biến.
+0	Căn nguyên gây ra ngộ độc thức ăn là cóc (trong nội tạng của cóc có độc tố Bufotoxine).
+0	Nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch, trong đó cóc chưa loại bỏ hết nội tạng mà đem chế biến.
+0	Nguyên nhân được xác định do ngộ độc thực phẩm.
+0	Chiều 19-5, Sở Y tế tỉnh Đồng Tháp có kết luận cho rằng, nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch, trong đó cóc chưa loại bỏ hết nội tạng mà đem chế biến.
+0	Căn nguyên gây ra ngộ độc thức ăn là cóc, trong nội tạng của cóc có độc tố Bufotoxine.
+0	Sáng 19/5, thông tin từ sở Y tế Đồng Tháp cho biết, dựa vào các triệu chứng lâm sàng cùng kết quả điều tra, thông tin từ gia đình, Bệnh viện Đa khoa Đồng Tháp đã có kết luận chính thức trường hợp em Trần Nguyễn Hoài Nam (4 tuổi) tử vong là do ngộ độc thực phẩm.
+0	Món ăn chính gây ra vụ ngộ độc trên là món khổ qua xào cóc, nhái, ếch chưa loại bỏ nội tạng.
+0	Độc tố Bufotoxine có trong nội tạng cóc là căn nguyên gây ra ngộ độc.
+0	Bệnh viện chẩn đoán do ngộ độc.
+0	Nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch…
+0	Cũng theo lời kể của gia đình với bác sĩ, khi làm thịt cóc, mẹ các bé không biết nội tạng cóc chứa chất độc nên không bỏ đi.
+
+0	Một lúc sau, cháu bị nôn, chân tay lạnh, môi tím, tim đập chậm...
+0	Gia đình đưa cháu đến bệnh viện cấp cứu nhưng đến khuya cùng ngày thì tử vong.
+0	Sau khi dùng cơm xong, khoảng 18 giờ 30 cùng ngày, bé Nam bị nôn nhiều, chân tay lạnh, môi tím, tim đập chậm, gia đình đưa bé đến Bệnh viện đa khoa Đồng Tháp điều trị nhưng khoảng 22 giờ 30 phút cùng ngày bé đã tử vong.
+0	Tai nạn vừa xảy ra tại một gia đình ở Cao Lãnh, Đồng Tháp khiến trẻ em trong nhà phải nhập viện với cùng triệu chứng nôn ói, đau bụng, chóng mặt, trong đó bé nhỏ nhất đã không qua khỏi.
+0	Đến khoảng 18h cùng ngày, bé Nam bị nôn nhiều, chân tay lạnh, môi tím, tim đập chậm, gia đình đưa bé đến Bệnh viện đa khoa Đồng Tháp điều trị nhưng đã tử vong sau đó.
+1	Đến 18 giờ 30, bé Nam bị nôn nhiều, chân tay lạnh, môi tím, tim đập chậm.
+0	Đến khoảng 18h em bị nôn, ói, môi tím, tim đập nhanh.
+0	Khoảng nửa giờ ăn, bé bắt đầu than mệt kèm nôn ói.
+
+0	Điều đáng nói, đây không phải là vụ tử vong do ăn thịt cóc đầu tiên.
+1	Từng tiếp nhận nhiều trường hợp ngộ độc do ăn thịt cóc từ các tỉnh chuyển đến, các bác sĩ Bệnh viện Chợ Rẫy TP HCM cho biết hầu hết trường hợp ngộ độc là do ăn phải da, mắt, tủy sống hoặc nội tạng của cóc.
+
+1	Từ các vụ việc thương tâm trên, các chuyên gia y tế khuyến cáo cần hết sức thận trọng khi ăn thịt cóc, tốt nhất là không nên ăn.
+0	Trong quá trình chế biến, không để da, nội tạng, nhựa cóc lẫn với thịt cóc vì đây là những thành phần dễ gây ra ngộ độc, gây hậu quả nghiêm trọng đối với tính mạng của người ăn.
+0	Tuyệt đối không ăn nội tạng, trứng cóc.
+0	Khi chế biến phải để thịt cóc sạch sẽ, không bị da, nhựa,… dính vào.
+
+0	Trước đó, anh Trần Văn Sơn Em đi soi và bắt được hơn 1kg cóc, nhái và ếch.
+0	Theo anh Trần Văn Sơn Em (ngụ khóm 4, phường 6, TP. Cao Lãnh), tối 16/5 anh đi soi và bắt hơn 1kg cóc, nhái và ếch.
+1	Trước đó, vào rạng sáng ngày 17/5 anh Trần Văn Sơn Em đi soi và bắt được hơn 1kg cóc, nhái ếch.
+0	Gia đình nạn nhân cho biết, người bố đi ra đồng bắt được khoảng hơn chục con cóc, ếch và nhái.
+0	Trên Zing.vn dẫn thông tin từ gia đình nạn nhân cho biết, sáng 17/5, anh Trần Văn Sơn (cha cháu Hoài) đi soi, bắt được hơn 1 kg cóc, ếch và nhái.
+
+0	Tiếp sau đó, hai cô chị cũng có biểu hiện khó chịu, chóng mặt.
+0	Sau đó 2 bé Nguyễn Kim Hà và Nguyễn Kim Yến cùng ăn buổi cơm chiều cũng vào bệnh viện tiếp tục theo dõi và điều trị.
+1	Hai bé Nguyễn Kim Hà và Nguyễn Kim Yến cùng có dấu hiệu như bé Nam nên gia đình đưa cả hai vào bệnh viện cấp cứu, điều trị.
+0	Sau đó 2 bé Nguyễn Kim Hà và Nguyễn Kim Yến cùng ăn buổi chiều được đưa vào bệnh viện theo dõi và điều trị.
+
+0	Đến 22 giờ 30 phút cùng ngày, bé tử vong.
+1	Ngay lập tức người thân đưa em đến Bệnh viện đa khoa Đồng Tháp cấp cứu, tuy vậy bé Nam đã tử vong vào 22h cùng ngày.
+0	Gia đình đưa bé đến Bệnh viện đa khoa Đồng Tháp điều trị nhưng khoảng 22 giờ 30 phút cùng ngày bé Nam đã tử vong.
+

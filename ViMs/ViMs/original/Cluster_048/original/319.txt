@@ -1,0 +1,17 @@
+Title: Tin tặc trộm 12 triệu USD bằng cách từng dùng để tấn công TPBank
+Source:
+Link: http://thanhnien.vn/kinh-doanh/tin-tac-trom-12-trieu-usd-bang-cach-tung-dung-de-tan-cong-tpbank-705156.html
+Published Date: 02:30 PM - 21/05/2016
+Author: Thu Thảo
+Tags: TPBank, ngân hàng, tấn công mạng, hack, hacker, tin tặc, trộm ngân hàng, cướp ngân hàng, Việt Nam, Bangladesh, Ecuador, SWIFT, Fed, Wells Fargo
+Summary: Phương pháp mà tin tặc dùng để tấn công ngân hàng Việt Nam và Bangladesh dường như đã được triển khai cách đây một năm trong vụ trộm 12 triệu USD ở Ecuador.
+Content:
+Theo CNN, nếu ba là con số đủ để làm nên một xu hướng, thì ba vụ hack nhà băng trong thời gian qua đủ để cho thấy hệ thống ngân hàng toàn cầu đang bị tấn công.
+Hồi tháng 1.2015, vụ tấn công ngân hàng Banco del Austro được nhà băng này mô tả trong vụ kiện được tòa án liên bang New York xử lý. Những tên trộm chuyển 12 triệu USD của ngân hàng vào các tài khoản ở Hồng Kông, Dubai, New York và Los Angeles, theo hồ sơ vụ việc.
+Cụ thể, tiền của Banco del Austro được giữ trong các tài khoản tại ngân hàng Mỹ Wells Fargo. Ngân hàng Ecuador cáo buộc Wells Fargo thất bại trong việc nhận biết và ngăn chặn các lệnh chuyển tiền giả. Wells Fargo bác bỏ cáo buộc trên, cho hay họ không chịu trách nhiệm cho những tổn thất mà ngân hàng bạn phải chịu.
+Vụ kiện trên lần đầu được công bố rộng rãi hôm 20.5 bởi tờ báo The Wall Street Journal, một tuần sau khi Hội Viễn thông Tài chính Liên ngân hàng Thế giới (SWIFT) hướng dẫn khách hàng cách đảm bảo an toàn cho mạng máy tính của họ. SWIFT cảnh báo rằng hai vụ tấn công trước đó nhằm vào Ngân hàng Trung ương Bangladesh và ngân hàng thương mại TPBank của Việt Nam dường như là “một phần của chiến dịch rộng lớn hơn và có độ thích nghi cao hơn”.
+Các tin tặc nhắm vào hai nhà băng châu Á theo mô hình được ngân hàng Banco del Austro mô tả: 1. Những kẻ tấn công sử dụng phần mềm độc hại để phá vỡ hệ thống an ninh địa phương của một ngân hàng, 2. Chúng có được quyền truy cập vào mạng tin nhắn của SWIFT, 3. Các tin nhắn lừa đảo được gửi qua SWIFT để tiền được chuyển từ các tài khoản ở những ngân hàng lớn.
+Ba vụ tấn công nhấn mạnh tính dễ tổn thương của các ngân hàng nhỏ, vốn không đủ khả năng tự vệ tiên tiến. Nếu hacker có thể đột nhập vào một ngân hàng yếu hơn, chúng có thể tạo yêu cầu giả để kéo tiền ra khỏi một nhà băng lớn.
+“Thật không may, rủi ro này đối với SWIFT mà nói thì không có gì mới trong bối cảnh công nghệ nay đã phát triển còn bọn tin tặc thì ngày càng tinh vi hơn”, các luật sư của ngân hàng Banco del Austro nói trong phiên tòa hôm 31.3.
+SWIFT cho hay họ chưa biết gì về vụ tấn công ngân hàng Ecuador. “Chúng tôi cần các khách hàng thông báo về những vụ tấn công như vậy nếu các vụ việc liên quan đến sản phẩm và dịch vụ của chúng tôi, để chúng tôi có thể thông báo và hỗ trợ nhiều hơn cho cộng đồng. Chúng tôi liên lạc với các ngân hàng có liên quan để tìm thêm thông tin và đang nhắc nhở các khách hàng của mình rằng họ có nghĩa vụ thông tin đến chúng tôi”, phát ngôn viên SWIFT Natasha de Teran nói.
+Tuần trước, SWIFT cho hay dịch vụ mạng và tin nhắn cốt lõi của họ không bị ảnh hưởng bởi các vụ tấn công. Trong trường hợp của Ngân hàng Trung ương Bangladesh, tin tặc sử dụng chiến thuật để chuyển tiền ra khỏi tài khoản của nhà băng này ở Cục Dự trữ Liên bang Mỹ (Fed) ở New York. Điều tra viên vẫn chưa xác định được danh tính bất cứ nghi phạm nào.

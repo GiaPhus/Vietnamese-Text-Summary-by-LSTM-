@@ -1,0 +1,86 @@
+0	Tai nạn vừa xảy ra tại một gia đình ở Cao Lãnh, Đồng Tháp khiến trẻ em trong nhà phải nhập viện với cùng triệu chứng nôn ói, đau bụng, chóng mặt, trong đó bé nhỏ nhất đã không qua khỏi.
+0	Hai bé còn lại chỉ bị ngộ độc nhẹ.
+0	Sau đó 2 bé Nguyễn Kim Hà và Nguyễn Kim Yến cùng ăn buổi cơm chiều cũng vào bệnh viện tiếp tục theo dõi và điều trị.
+0	Hiện tại 2 bé vẫn đang theo dõi điều trị tại bệnh viện, sức khỏe ổn định.
+0	Người ăn phải sẽ khiến mạch đập nhanh, tăng huyết áp,… tử vong nếu không được chữa trị kịp thời.
+0	Ngoài các triệu chứng ngộ độc thực phẩm thông thường như buồn nôn, nôn, đau bụng, hoa mắt chóng mặt, thì chất bufotenin trong thịt cóc làm người bệnh xuất hiện các hội chứng tim mạch và rối loạn thần kinh - tâm thần.
+0	Nạn nhân có các biểu hiện như cảm thấy hồi hộp, huyết áp cao hoặc tụt huyết áp, chân tay lạnh, bị ảo giác, chảy rãi, đổ mồ hôi, thậm chí ngưng thở và tử vong.
+0	Sau khi ăn thịt cóc hoặc trong khoảng 30 phút, nạn nhân sẽ có các biểu hiện buồn nôn, đau đầu, trướng bụng.
+1	Đến 22 giờ 30 phút cùng ngày, bé tử vong.
+0	Hiện tại, 2 bé vẫn đang được theo dõi tại bệnh viện, sức khỏe ổn định.
+0	Tình trạng sức khỏe sau đó cứ yếu dần.
+0	Hai người còn lại trong gia đình là bố và mẹ do nhường cho con nên không có biểu hiện ngộ độc.
+
+1	Thông tin từ Bệnh viện Đa khoa Đồng Tháp, bệnh nhi 4 tuổi được gia đình đưa đến cấp cứu trong tình trạng rất nguy kịch, giãn đồng tử, trụy tim mạch, suy hô hấp cấp.
+0	Một lúc sau, cháu bị nôn, chân tay lạnh, môi tím, tim đập chậm...
+0	Gia đình đưa cháu đến bệnh viện cấp cứu nhưng đến khuya cùng ngày thì tử vong.
+0	Ngay sau khi tiếp nhận, các bác sĩ đã khẩn trương tiến hành các biện pháp như hút đờm, đặt nội khí quản, ép tim, dùng các thuốc vận mạch... để cấp cứu các nạn nhân.
+0	Sau khi dùng cơm xong, khoảng 18 giờ 30 cùng ngày, bé Nam bị nôn nhiều, chân tay lạnh, môi tím, tim đập chậm, gia đình đưa bé đến Bệnh viện đa khoa Đồng Tháp điều trị nhưng khoảng 22 giờ 30 phút cùng ngày bé đã tử vong.
+0	Khoảng nửa giờ ăn, bé bắt đầu than mệt kèm nôn ói.
+0	Đến 18 giờ 30, bé Nam bị nôn nhiều, chân tay lạnh, môi tím, tim đập chậm.
+0	Sau đó 2 bé Nguyễn Kim Hà và Nguyễn Kim Yến cùng ăn buổi chiều được đưa vào bệnh viện theo dõi và điều trị.
+0	Đến khoảng 18h em bị nôn, ói, môi tím, tim đập nhanh.
+0	Ngay lập tức người thân đưa em đến Bệnh viện đa khoa Đồng Tháp cấp cứu, tuy vậy bé Nam đã tử vong vào 22h cùng ngày.
+0	Tiếp sau đó, hai cô chị cũng có biểu hiện khó chịu, chóng mặt.
+0	Tuy nhiên, ăn xong bé Trần Nguyễn Hoài Nam (4 tuổi) bị nôn và nôn ngày càng nhiều.
+0	Gia đình đưa bé đến Bệnh viện đa khoa Đồng Tháp điều trị nhưng khoảng 22 giờ 30 phút cùng ngày bé Nam đã tử vong.
+
+0	Đây là những vị trí chứa chất độc có thể gây chết người.
+1	Từ các vụ việc thương tâm trên, các chuyên gia y tế khuyến cáo cần hết sức thận trọng khi ăn thịt cóc, tốt nhất là không nên ăn.
+0	Trường hợp, muốn sử dụng thì tuyệt đối không ăn trứng và gan cóc.
+0	Trong quá trình chế biến, không để da, nội tạng, nhựa cóc lẫn với thịt cóc vì đây là những thành phần dễ gây ra ngộ độc, gây hậu quả nghiêm trọng đối với tính mạng của người ăn.
+0	Theo các chuyên gia, thịt cóc chứa nhiều đạm và kẽm, tuy nhiên nhiều bộ phận khác lại chứa nhiều độc tố.
+0	Lúc này, cần nhanh chóng tiến hành gây nôn cho nạn nhân (cho nạn nhân nằm nghiêng rồi móc họng hoặc nạn nhân tự làm) để loại bỏ tối đa độc tố trong cơ thể.
+0	Cho nạn nhân uống nước cam thảo, lòng trắng trứng hoặc nước luộc đỗ xanh.
+0	Có thể cho nạn nhân uống than hoạt tính để hấp thụ độc tố còn trong cơ thể.
+0	Tuyệt đối không được dùng Adrenalin, Ouabain để tránh gây nguy hiểm.
+0	Sau đó phải nhanh chóng đưa đi cấp cứu để các bác sĩ tiến hành các biện pháp đào thải độc tố chuyên nghiệp cũng như điều trị triệt để các triệu chứng đi kèm.
+0	Để phòng ngừa ngộ độc do ăn cóc, mọi người cần hạn chế loại thực phẩm này.
+0	Nếu muốn dùng thịt cóc, cần tránh sử dụng các sản phẩm chế biến sẵn như ruốc cóc, thịt cóc,… do độ an toàn và đảm bảo vệ sinh chưa đảm bảo.
+0	Tuyệt đối không ăn nội tạng, trứng cóc.
+0	Khi chế biến phải để thịt cóc sạch sẽ, không bị da, nhựa,… dính vào.
+0	Nhanh chóng đến bệnh viện nếu có các dấu hiệu ngộ độc.
+
+0	Người vợ sau đó mang đi làm thịt rồi xào cho cả nhà cùng ăn với cơm.
+0	Thức ăn chế biến xong, ưu tiên cho con nhỏ nhất, người bố dành cho con phần ngon nhất là gan cóc.
+0	Sự việc thương tâm vừa xảy ra sáng 17/5.
+0	Trên Zing.vn dẫn thông tin từ gia đình nạn nhân cho biết, sáng 17/5, anh Trần Văn Sơn (cha cháu Hoài) đi soi, bắt được hơn 1 kg cóc, ếch và nhái.
+0	Sau đó, vợ anh Sơn mang chế biến làm 2 phần.
+0	Một phần kho sả ớt cho 9 người trong gia đình dùng bữa cơm trưa.
+0	Số thịt còn lại, đến chiều người vợ xào với khổ qua.
+0	Tới bữa, anh Sơn đút gan và bao tử cóc cho cháu Hoài ăn trước.
+0	Trước đó, anh Trần Văn Sơn Em đi soi và bắt được hơn 1kg cóc, nhái và ếch.
+0	Sáng 17-5, chị Nguyễn Thị Kim Loan (vợ anh Em) đem cóc, nhái, ếch ra chế biến món kho sả ớt cho 9 người trong gia đình cùng ăn nhưng chỉ làm phân nửa (bỏ hết nội tạng bên trong), còn lại dành phần buổi cơm chiều.
+0	Đến chiều 17-5, chị Loan lấy phần còn lại chế biến món khổ qua xào cho 9 người trong gia đình cùng ăn, tuy nhiên, nội tạng 4 con cóc không bị loại bỏ.
+1	Bé Trần Nguyễn Hoài Nam, 4 tuổi được cha (anh Em) thương nên cho ăn phần gan và bao tử trước, 8 người còn lại cùng ăn sau.
+0	Gia đình nạn nhân cho biết, người bố đi ra đồng bắt được khoảng hơn chục con cóc, ếch và nhái.
+0	Trước đó, vào rạng sáng ngày 17/5 anh Trần Văn Sơn Em đi soi và bắt được hơn 1kg cóc, nhái ếch.
+0	Đến sáng cùng ngày vợ anh là chị Nguyễn Thị Kim Loan mang một nửa số cóc, nhái bắt được ra chế biến (loại bỏ hết nội tạng) chuẩn bị buổi cơm cho gia đình.
+0	Số cóc, nhái này chị Loan làm món kho sả ớt cho cả gia đình 9 người cùng ăn và không có chuyện gì xảy ra.
+0	Số còn lại chỉ Loan dùng làm món xào cùng với khổ qua cho cả gia đình ăn trong buổi cơm chiều (4 con cóc không loại bỏ nội tạng).
+0	Trong bữa ăn, bé Nam ăn phần gan và bao tử cóc.
+0	Cụ thể, chiều ngày 16.5, ông Trần Văn Sơn Em (ngụ khóm 4, P.6, TP.Cao Lãnh) đi soi và bắt được 7 con cóc cùng vài con ếch nhái.
+0	Sáng ngày 17.5, chị Nguyễn Thị Kim Loan (vợ anh Em) bắt vài con cóc nhái làm thịt và chế biến món kho sả ớt cho gia đình gồm 9 thành viên cùng ăn.
+0	Ăn xong, các thành viên trong gia đình vẫn sinh hoạt bình thường.
+0	Đến chiều ngày 17.5, chị Loan tiếp tục làm thịt 4 con cóc và số nhái, ếch còn lại chế biến món khổ qua xào cho 9 thành viên trong gia đình cùng ăn.
+
+0	Nguyên nhân được xác định do ngộ độc thực phẩm.
+0	Theo Sở Y tế, dựa vào các triệu chứng lâm sàng, qua kết quả điều tra thu thập thông tin từ phía gia đình và Bệnh viện Đa khoa Đồng Tháp, kết luận đây là vụ ngộ độc thực phẩm ở hộ gia đình, thức ăn nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch, trong đó cóc chưa loại bỏ hết nội tạng mà đem chế biến.
+0	Căn nguyên gây ra ngộ độc thức ăn là cóc (trong nội tạng của cóc có độc tố Bufotoxine).
+0	Sở Y tế đã có kết luận ban đầu vụ ngộ độc thực phẩm ở khóm 4, phường 6, TP. Cao Lãnh (Đồng Tháp) có liên quan đến món khổ qua xào cóc.
+0	Độc tố chết người tetrodotoxin có trong cá nóc cũng tồn tại ở nọc cóc.
+0	Ngoài ra, gan, trứng, da, mủ, mắt và hạch thần kinh (dọc hai sống lưng) của cóc còn có bufotenin - một chất cực độc, dễ gây chết người, chế biến ở nhiệt độ cao cũng khó bị phân hủy.
+0	Chiều 19-5, Sở Y tế tỉnh Đồng Tháp có kết luận cho rằng, nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch, trong đó cóc chưa loại bỏ hết nội tạng mà đem chế biến.
+0	Sáng 19/5, thông tin từ sở Y tế Đồng Tháp cho biết, dựa vào các triệu chứng lâm sàng cùng kết quả điều tra, thông tin từ gia đình, Bệnh viện Đa khoa Đồng Tháp đã có kết luận chính thức trường hợp em Trần Nguyễn Hoài Nam (4 tuổi) tử vong là do ngộ độc thực phẩm.
+1	Món ăn chính gây ra vụ ngộ độc trên là món khổ qua xào cóc, nhái, ếch chưa loại bỏ nội tạng.
+0	Độc tố Bufotoxine có trong nội tạng cóc là căn nguyên gây ra ngộ độc.
+0	Bệnh viện chẩn đoán do ngộ độc.
+0	Dựa vào các triệu chứng lâm sàng, qua kết quả điều tra thu thập thông tin từ phía gia đình và Bệnh viện Đa khoa Đồng Tháp, ngành y tế kết luận đây là vụ ngộ độc thực phẩm ở hộ gia đình.
+0	Nguyên nhân gây ra ngộ độc là khổ qua xào với cóc, nhái, ếch…
+0	Từng tiếp nhận nhiều trường hợp ngộ độc do ăn thịt cóc từ các tỉnh chuyển đến, các bác sĩ Bệnh viện Chợ Rẫy TP HCM cho biết hầu hết trường hợp ngộ độc là do ăn phải da, mắt, tủy sống hoặc nội tạng của cóc.
+
+1	Đầu tháng 12/2015, hai bé gái tại xã Cư Pui, huyện Krông Bông, Đắk Lắk đã tử vong sau khi ăn thịt cóc.
+0	Trước đó, vào tối ngày 20/7/2015, bệnh viện đa khoa huyện Trạm Tấu (Yên Bái) tiếp nhận bốn bệnh nhân là bà Lò Thị Biều (65 tuổi) cùng con dâu là Mè Thị Dân và hai cháu là Mè Thị Quyền (13 tuổi), Mè Thị Thảo (11 tuổi) ở thôn Lừu 1, xã Hát Lừu, đều có các triệu chứng đau bụng, buồn nôn, đau đầu, chóng mặt, khó thở, huyết áp không đo được, nhịp thở chậm, da niêm mạc tím tái.
+0	Sau hơn hai giờ được cấp cứu tích cực, nhưng do bị ngộ độc nặng do ăn phần nội tạng cóc và đưa đến bệnh viện chậm nên bệnh nhân Lò Thị Biều đã tử vong.
+0	Cuối tháng 5/2015, sau khi ăn thịt cóc khoảng một giờ, một người đàn ông 40 tuổi ở Quảng Ngãi bị nôn ói, toàn thân tím tái, được đưa đến Bệnh viện đa khoa Quảng Ngãi cấp cứu nhưng cũng không cứu được tính mạng.
+

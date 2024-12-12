@@ -1,0 +1,9 @@
+1	Theo thông tin ban đầu, vào thời điểm trên, một công nhân tên Tiến (44 tuổi, trú tại phường An Hải Tây, Sơn Trà, TP Đà Nẵng) đứng trên giàn giáo để thi công mặt ngoài ngôi nhà ở tầng 3.
+0	Quá trình dây tời kéo vật liệu xây dựng lên bị tuột khiến ông Tiên mất thăng bằng và rơi xuống đất.
+0	Ngay sau khi xảy ra sự việc, công nhân và người dân sống xung quanh đã đưa ông Tiến đi cấp cứu, nhưng ông Tiến đã không qua khỏi.
+
+1	Tại hiện trường vụ việc, công trình đang xây dựng đến tầng 3, phía dưới vật liệu xây dựng để ngổn ngang.
+0	Tuy nhiên, phía ngoài không được rào chắn.
+
+1	Nhận được tin báo, lực lượng công an phường Hòa Cường Bắc (Hải Châu, Đà Nẵng) lập tức có mặt phong tỏa hiện trường để điều tra nguyên nhân vụ việc.
+

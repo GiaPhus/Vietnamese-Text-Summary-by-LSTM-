@@ -1,0 +1,22 @@
+1	9h15 ngày 2/6, phao cứu sinh của chuyến bay VN 227 (hãng Vietnam Airlines) bất ngờ bung xuống mặt đất khi máy bay Airbus A321 hạ cánh xuống sân bay Tân Sơn Nhất chờ đưa khách ra ngoài.
+0	Tin từ sân bay quốc tế Tân Sơn Nhất trưa nay cho biết sáng cùng ngày, 1 máy bay Airbus A321 của hãng hàng không Vietnam Airlines (VNA) bị xáo trộn lịch khai thác vì một nam hành khách tự ý mở cửa thoát hiểm.
+0	Sự việc xảy ra sáng nay 2-6 trên chuyến bay VN 227, máy bay Airbus A321 của Vietnam Airlines (VNA) từ Hà Nội đi TP HCM.
+
+0	Nguồn tin giấu tên cho biết, sự cố do nam hành khách ngồi ghế 28A bất ngờ mở cửa thoát hiểm làm cầu phao cứu sinh bung xuống.
+1	Sau khi hạ cánh an toàn tại sân bay quốc tế Tân Sơn Nhất, vào lúc 09g13, nam hành khách N.T.T ngồi ghế 28B đã tự ý mở cửa thoát hiểm 3L làm bung cầu phao mà không có chỉ định của tiếp viên.
+0	Thế nhưng, khi vừa hạ cánh thành công tại cảng hàng không Tân Sơn Nhất, nam hành khách N.T.T ngồi ghế 28B trên chuyến bay VN227đã tự ý mở cửa thoát hiểm 3L làm bung cầu phao khi không có chỉ định của tiếp viên.
+0	Hậu quả là Cầu phao cứu sinh (slide raft) của chiếc máy bay A321 bung ra hoàn toàn xuống sân đậu máy bay ở Tân Sơn Nhất.
+0	Nguyên nhân do trên máy bay, mỗi cửa thoát hiểm đều được bố trí xuồng phao cứu sinh, tự động bung ra khi cửa được mở.
+
+0	Tổ lái chuyến bay VN 227 đã lập biên bản và bàn giao hành khách cho Cảng vụ hàng không miền Nam lập biên bản xử phạt.
+1	Tổ bay, Cảng hàng không quốc tế Tân Sơn Nhất và Cảng vụ Hàng không miền Nam đã lập biên bản vi phạm hành chính về lĩnh vực hàng không để xử lý theo pháp luật.
+0	Phi hành đoàn thông báo ngay với lực lượng an ninh và sân bay để tháo cầu phao cứu sinh về sửa chữa.
+0	Vị khách gần 60 tuổi bị lập biên bản vi phạm hành chính trong lĩnh vực hàng không.
+
+1	Vì sự cố này, chuyến bay từ TP HCM đi Hongkong sáng nay 2/6 đã bị chậm giờ, ước tính thiệt hại gần 20.000 USD (hơn 400 triệu đồng).
+0	Nhưng xảy ra vụ việc, Vietnam Airlines phải thay đổi máy bay khác đi Hongkong, chuyến bay bị chậm giờ.
+0	Sự cố trên đã khiến chiếc máy bay Airbus A321 phải đưa vào hangar (nhà chứa máy bay) để kiểm tra kỹ thuật.
+
+0	Theo nghị định 147/2013/NĐ-CP, hành khách vi phạm lỗi mở cửa thoát hiểm khi không có yêu cầu từ tiếp viên sẽ bị phạt từ 10 triệu đồng - 20 triệu đồng.
+1	Trong Nghị định 147 của Chính phủ, hành khách mở cửa thoát hiểm khi không có yêu cầu sẽ bị phạt 10-20 triệu đồng.
+
